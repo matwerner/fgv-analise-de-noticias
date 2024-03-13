@@ -19,7 +19,7 @@ Na pasta *dados* estão presentes diversas notícias do portal Globo na forma de
 4. E quantas palavras distintas?
    - Dica 1: Para facilitar comece colocando cada palavra em uma linha separada:
    ```bash
-   $ echo -e "gato sapato" | sed 's/ /\n/g'
+   $ echo "gato sapato" | sed 's/ /\n/g'
    ```
    No código acima, a expressão regular `s/ /\n/g` substitui todos os espaços por quebras de linha (`\n`).
    - Dica 2: Utilize o comando `uniq`.
