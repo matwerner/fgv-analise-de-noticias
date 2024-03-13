@@ -4,7 +4,9 @@ Aula de exercícios para o curso de Introdução à Computação da FGV.
 Usando as ferramentas aprendidas nas ultimas semanas, nosso objetivo é analisar uma base de documentos.
 
 [Aula de Terminal](https://github.com/fccoelho/introcomp/blob/main/conte%C3%BAdo/Usando%20%20o%20Terminal/shell_Linux.md)
+
 [Aula de Bash](https://github.com/fccoelho/introcomp/blob/main/conte%C3%BAdo/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o/Bash_shell.md)
+
 [Aula de Grep](https://github.com/fccoelho/introcomp/blob/main/conte%C3%BAdo/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o/GREP.md).
 
 ## Exercícios
@@ -30,7 +32,6 @@ O resultado deve ser algo como:
 4 Farinha
 4 familiares
 4 família
-
 ...
 ```
 5. Repita as questões 2, 3 e 4 considerando todas as notícias.
@@ -40,5 +41,7 @@ O resultado deve ser algo como:
    - Dica: Considere que já existe uma lista predefina `categories=(economia esportes famosos politica tecnologia)`
 
 *Obs 1*: Criar um arquivo diferente para cada solução.
+
 *Obs 2*: Quando em dúvida sobre o funcionamento de um comando, execute `man <comando>` (e.g: `man tree`)
+
 *Obs 3*: Base de dados original foi obtida do [kaggle](https://www.kaggle.com/datasets/diogocaliman/notcias-publicadas-no-brasil/data)
