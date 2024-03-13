@@ -7,23 +7,23 @@ Usando as ferramentas aprendidas nas ultimas semanas, nosso objetivo é analisar
 
 [Aula de Bash](https://github.com/fccoelho/introcomp/blob/main/conte%C3%BAdo/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o/Bash_shell.md)
 
-[Aula de Grep](https://github.com/fccoelho/introcomp/blob/main/conte%C3%BAdo/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o/GREP.md).
+[Aula de Grep](https://github.com/fccoelho/introcomp/blob/main/conte%C3%BAdo/Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o/GREP.md)
 
 ## Exercícios
 Na pasta *dados* estão presentes diversas notícias do portal Globo na forma de vários arquivos de texto, distribuídos por categoria.
 
 1. Quantas notícias temos ao todo?
-   - Dica 1: Experimente concatenar todos os arquivos em um para facilitar a contagem.
-   - Dica 2: Utilize o comando `tree`
+   - Dica: Utilize o comando `tree`
 2. Quantas palavras ao todo existem na notícia de economia `0.txt`?
-3. E quantas palavras distintas?
+   - Dica: Experimente concatenar todos os arquivos em um para facilitar a contagem.
+4. E quantas palavras distintas?
    - Dica 1: Para facilitar comece colocando cada palavra em uma linha separada:
    ```bash
    $ echo -e "gato sapato" | sed 's/ /\n/g'
    ```
    No código acima, a expressão regular `s/ /\n/g` substitui todos os espaços por quebras de linha (`\n`).
    - Dica 2: Utilize o comando `uniq`.
-4. Agora, liste as palavras distintas que aparecem nele em ordem crescente de frequência, precedidas do número de ocorrências de cada uma.
+5. Agora, liste as palavras distintas que aparecem nele em ordem crescente de frequência, precedidas do número de ocorrências de cada uma.
    - Dica: Utilize os comandos `uniq` e `sort`
    
 O resultado deve ser algo como:
