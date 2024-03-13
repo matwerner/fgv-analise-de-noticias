@@ -1,0 +1,22 @@
+Data:
+2016-06-08
+
+URL:
+http://g1.globo.com/economia/noticia/2016/06/ipc-s-inicia-junho-perdendo-forca.html
+
+Título:
+IPC-S inicia o mês de junho perdendo força
+
+Descrição:
+A inflação medida pelo Índice de Preços ao Consumidor - Semanal (IPC-S) começou junho perdendo força - a variação foi de 0,59%, abaixo da taxa registrada na última divulgação, de 0,64%, segundo a Fundação Getulio Vargas (FGV).
+	A maior contribuição para a desaceleração veio do grupo alimentação (0,77% para 0,6%), com destaque para o item hortaliças e legumes, cuja taxa passou de 2,21% para -0,32%.
+	Também registraram decréscimo os grupos saúde e cuidados pessoais (1,36% para 1,13%), despesas diversas (3,65% para 3,08%), comunicação (0,29% para 0,24%) e vestuário (0,65% para 0,62%).
+	Já os grupos habitação (0,77% para 0,87%), transportes (-0,42% para -0,32%) e educação, leitura e recreação (-0,13% para -0,08%) apresentaram acréscimo nas taxas de variação.Veja a variação de preços de alguns itens:
+	Hortaliças e legumes (2,21% para -0,32%)
+	Medicamentos em geral (2,83% para 1,9%)
+	Cigarros (8,7% para 6,57%)
+	Tarifa de telefone móvel (0,46% para 0,29%)
+	Calçados (0,51% para 0,41%)
+	Taxa de água e esgoto residencial (2,7% para 4,19%)
+	Automóvel novo (0,47% para 0,6%)
+	Excursão e tour (-1,6% para -0,8%)

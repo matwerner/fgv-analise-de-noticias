@@ -1,0 +1,21 @@
+Data:
+2014-09-20
+
+URL:
+http://g1.globo.com/politica/noticia/2014/09/governo-cria-grupo-para-avaliar-pnad-e-identificar-necessidade-de-revisao.html
+
+Título:
+Governo cria grupos para rever Pnad e apurar responsáveis por erros
+
+Descrição:
+O governo federal publicou nesta terça-feira (23) no "Diário Oficial da União" a criação de dois grupos para avaliar erros nos dados Pesquisa Nacional por Amostra de Domicílios (Pnad) de 2013, divulgados nesta quinta (18). Na última sexta (19), o Instituto Brasileiro de Geografia e Estatística (IBGE) admitiu "erros graves" na Pnad. Uma comissão, ligada ao Ministério do Planejamento, vai  identificar "eventual necessidade de revisão" nos dados. Outra comissão, de sindicância, ligada à Casa Civil, vai apurar os responsáveis pela falha.
+	A ministra Miriam Belchior, do Planejamento, já havia anunciado no fim de semana a criação das duas comissões. Os erros na Pnad afetaram o resultado de dados ligados à desigualdade social e ao analfabetismo.
+	A comissão que vai rever a Pnad e é ligada ao Ministério do Planejamento tem dois meses para entregar os resultados, prazo que pode ser prorrogado. No texto em que cria o grupo, o governo diz que, entre os objetivos da comissão, além de o apontar eventuais erros, está o de "colaborar com a Administração Pública na sugestão de medidas gerenciais, processuais, tecnológicas e operacionais para prevenir ocorrência de revisão de dados".
+	Já a comissão de sindicância terá trinta dias para apresentar os resultados.'Erros graves'
+	A presidente do IBGE, Wasmália Bivar, pediu desculpas por erros "extremamente graves" durante entrevista coletiva no Rio, na sexta (19). O problema foi identificado nos dados das regiões metropolitanas de sete estados brasileiros.
+	O equívoco afetou diversos índices divulgados, como analfabetismo e o índice de Gini, que calcula o nível de desigualdade no país. O valor desse índice varia de zero (a perfeita igualdade) até um (a desigualdade máxima).
+	Segundo o IBGE, a desigualdade de renda proveniente do trabalho diminuiu em vez de aumentar, como primeiramente constava na pesquisa divulgada. Na quinta foi informado que o índice foi de 0,496 (em 2012) para 0,498 (em 2013). Mas o número correto, segundo o IBGE, é de 0,495.
+	O índice de analfabetismo caiu de 8,7%, em 2012, para 8,5% em 2013 - e não 8,3% como primeiramente informado. O número médio de anos de estudo dos brasileiros com dez ou mais anos de idade aumentou de 7,5 para 7,6.
+	Os números corretos da divisão da população entre sexos são de 51,4% (mulheres) e 48,6% (homens).
+	A taxa de desocupação foi mantida em 6,5%, como originalmente informado, uma alta em relação a 2012 que era de 6,1%. Mas o aumento da população desocupada, segundo o anúncio do IBGE, foi menor: não era 7,2% e sim 6,3%. São 6,6 milhões de pessoas desocupadas.
+	Também houve correção sobre a queda de emprego de jovens entre 5 e 17 anos. O dado correto é de 10,6%.

@@ -1,0 +1,19 @@
+Data:
+2016-05-05
+
+URL:
+http://g1.globo.com/politica/noticia/2016/05/corregedora-intima-juiz-que-bloqueou-whatsapp-prestar-informacoes.html
+
+Título:
+Corregedora intima juiz que bloqueou WhatsApp a prestar informações
+
+Descrição:
+A corregedora nacional de Justiça, ministra Nancy Andrighi, do Conselho Nacional de Justiça (CNJ), intimou o juiz Marcel Maia Montalvão, de Lagarto (SE), que bloqueou o WhatsApp em todo o país, a prestar informações sobre sua decisão no prazo de 15 dias.
+	Segundo a assessoria do órgão, Andrighi determinou nesta terça-feira (3) a abertura de uma reclamação disciplinar contra o juiz. O objetivo é analisar se houve falta funcional, como abuso de poder, pela prática de "ato exacerbado que tenha ultrapassado o limite da razoabilidade".
+	Caso a falta funcional seja constatada, a ministra poderá propor ao Plenário do CNJ a abertura de Processo Administrativo Disciplinar contra o magistrado.
+	O bloqueio do aplicativo foi determinado por Montalvão por por 72 horas, a partir das 14h desta segunda-feira, determinando a suspensão às operadoras TIM, Oi, Claro, Vivo e Nextel. Ele argumentou que o Facebook, dono do WhatsApp, não cumpriu uma ordem judicial anterior de compartilhar informações que subsidiariam uma investigação criminal sobre tráfico de drogas em Lagarto, que fica a 75 km de Aracaju.
+	Nesta terça, o WhatsApp conseguiu uma decisão favorável da Justiça de Sergipe, em decisão do desembargador do TJ-SE, Ricardo Múcio Santana de Abreu Lima, que liberou o uso do aplicativo.
+	Com isso, o serviço passou a ser restabelecido assim que as operadoras foram sendo notificadas e fizeram ajustes em sua rede de telefonia. TIM, Oi e  Vivo haviam informado que já foram notificadas e que liberaram o acesso ao aplicativo.Facebook diz não ter dados
+	Logo após a determinação do bloqueio, o WhatsApp emitiu comunicado no qual lamentou a decisão e disse não ter a informação exigida pelo juiz. Nesta terça, Jan Koum, um dos criadores do WhatsApp, afirmou que o app não guarda histórico de mensagem de seus usuários e sugeriu que atender aos pedidos da Justiça brasileira colocaria em risco a segurança não só dos usuários brasileiros, mas de todos os usuários no mundo.
+	Não é a primeira vez que um tribunal decide pela suspensão do acesso ao serviço de mensagens no Brasil. O bloqueio anterior ocorreu em dezembro de 2015, quando a Justiça de São Paulo ordenou que as operadoras impedissem a conexão por 48 horas em represália ao WhatsApp ter se recusado a colaborar com uma investigação criminal.
+	O aplicativo ficou inacessível por 12 horas e voltou a funcionar por decisão do Tribunal de Justiça de SP.

@@ -1,0 +1,20 @@
+Data:
+2015-06-26
+
+URL:
+http://g1.globo.com/economia/noticia/2015/06/anatel-lanca-aplicativo-para-envio-de-reclamacoes-sobre-operadoras.html
+
+Título:
+Anatel lança aplicativo para envio de reclamações sobre operadoras
+
+Descrição:
+A Agência Nacional de Telecomunicações (Anatel) lançou nesta sexta-feira (26) um aplicativo para tablets e smartphones que vai permitir o registro e consultas de reclamações sobre serviços de telefonia, internet e TV por assinatura. 
+	O ‘Anatel Consumidor’, já disponível para download de forma gratuita, pode ser usado nos sistemas operacionais Android, iOS e Windows Phone. Antes, o procedimento era feito via call center ou pelo Fale Conosco, no site da agência.
+	Por meio do aplicativo, é possível registrar, por exemplo, reclamações referentes a problemas de cobrança indevida e a qualidade dos serviços prestados, bem como ter acesso a informações sobre diretos do consumidor. 
+	Segundo o presidente da Anatel, João Batista Rezende, a intenção é facilitar a comunicação com o usuário e agilizar a solução dos problemas das operadoras, já que o volume de reclamações aumenta a taxas maiores que o crescimento do mercado. Só no ano passado, as reclamações somaram 2,8 milhões de registros contra as prestadoras.
+	“É mais um instrumento simplificado para que o usuário consiga ter acesso a direitos dele e consiga protocolar uma solicitação que ele não conseguiu resolver com a operadora”, explicou.
+	“O consumidor agora redige no momento em que quer e da forma que quer o seu pedido de consulta”, completou o conselheiro da Anatel Rodrigo Zerbone.
+	Antes de recorrer à novidade, é necessário ter feito a queixa à operadora. Após baixar o aplicativo, é preciso fazer um cadastro para, então, registrar a reclamação que não foi resolvida pela empresa.
+	O usuário também tem que informar o protocolo do atendimento da operadora.  Finalizado o registro via aplicativo, a reclamação é enviada automaticamente às empresas, que têm prazo de cinco dias úteis para dar uma resposta. Se o problema não for resolvido, a informação passa a fazer parte do índice de desempenho das operadoras, cujo ranking está disponível no site da Anatel.Redução de custos
+	Com o aplicativo, a agência espera também reduzir os gastos com o serviço de call center da agência, que possui cerca de 700 funcionários e gera uma despesa mensal de até R$ 3 milhões.
+	O presidente não estimou, no entanto, em quanto deverá ficar a economia.  Hoje, 65% dos usuários utilizam o call center e 35% fazem as solicitações via internet, na página da agência. No médio e longo prazo, a ideia é fazer com que todas as solicitações migrem para a internet.

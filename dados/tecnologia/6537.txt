@@ -1,0 +1,11 @@
+Data:
+2019-02-07
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/02/05/whatsapp-introduz-funcao-de-bloqueio-com-acesso-biometrico.ghtml
+
+Título:
+WhatsApp introduz função de desbloqueio com acesso biométrico
+
+Descrição:
+O WhatsApp anunciou nesta nesta terça-feira (5) uma nova ferramenta, que permite bloquear a tela do aplicativo e desbloqueá-la apenas com função biométrica de reconhecimento digital ou facial.  A novidade, por enquanto, vale apenas para iPhones. A assessoria do WhatsApp afirmou que "ainda não tem nenhuma previsão" da chegada dessa função para celulares Android.  A ferramenta permite determinar uma quantidade de tempo para o bloqueio, contando desde a última vez em que o aplicativo foi utilizado. Após bloqueado, só será permitido o acesso com uso de autenticação biométrica — pelas funções Touch ID e Face ID, disponíveis nos celulares da Apple.  Quando essas funções são usadas por aplicativos parceiros, a Apple não envia os dados de biometria para a empresa, apenas um sinal que afirma que o reconhecimento foi feito.  De acordo com o WhatsApp a nova função vai fortalecer a privacidade do usuário e impedir que outras pessoas usem o aparelho sem permissão para ler mensagens.

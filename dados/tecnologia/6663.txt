@@ -1,0 +1,11 @@
+Data:
+2019-08-09
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/08/11/saiba-o-que-fazer-golpe-falso-saque-imediato-fgts.ghtml
+
+Título:
+Caiu no golpe do falso saque imediato do FGTS? Saiba o que fazer
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Oi, Ronaldo! Eu recebi uma mensagem pelo WhatsApp sobre a possibilidade de saque imediato do FGTS. Cliquei no link e segui as instruções exibidas na tela, e agora? – Leonel  Olá, Leonel! Essa modalidade de golpe tem sido recorrente, mudando apenas o atrativo para enganar a vítima e fazê-la acessar uma página falsa para coletar dados pessoais.  Quando o número de telefone é fornecido aos criminosos, fica cadastrado para ser usado em novas variações desse tipo golpe. Para se proteger, siga os passos descritos abaixo:  A Caixa informa que não envia links aos usuários e nem solicita confirmação dados de acesso à conta por e-mail, WhatsApp ou SMS. O trabalhador pode consultar o extrato do saldo acumulado no site oficial.  Oi, Ronaldo! Como configurar a autenticação em duas etapas para proteger a conta do Gmail? Eduardo  Olá, Eduardo! A autenticação em duas etapas consiste num controle de acesso protegido, usando um código de acesso gerado aleatoriamente, exigido além da senha de acesso.  O G1 já mostrou recentemente como configurar essa camada extra de segurança para todos os serviços online que oferecem a habilitação da autenticação em duas etapas.

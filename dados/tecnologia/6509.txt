@@ -1,0 +1,11 @@
+Data:
+2019-01-23
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/01/23/atualizacao-do-whatsapp-que-limita-encaminhamentos-de-mensagens-comeca-a-ser-distribuida.ghtml
+
+Título:
+Atualização do WhatsApp que limita encaminhamentos de mensagens começa a ser distribuída
+
+Descrição:
+A versão do WhatsApp que irá restringir o encaminhamento de mensagens para até cinco contatos começou a ser distribuída para aparelhos com sistema operacional Android. Os usuários inscritos no programa de testes são os primeiros a receber a versão 2.19.18 do aplicativo.  Além da restrição, foi adicionada a opção "Aparecer na conversa" para todas as mídias recebidas. Com esse recurso, sempre que um arquivo de mídia for aberto na galeria em um bate-papo, será possível acessar diretamente onde ela foi compartilhada.  Foi adicionada a opção "definir como", que possibilita definir uma imagem no aplicativo como foto de perfil, imagem de grupo ou papel de parede. Também passa a ser possível girar a imagem dentro da mensagem.  A atualização passará pelos testes e em breve será liberada para os demais usuários da aplicativo.

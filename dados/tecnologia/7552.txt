@@ -1,0 +1,11 @@
+Data:
+2020-01-14
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2020/01/14/amazon-quer-que-juiz-bloqueie-contrato-da-microsoft-com-pentagono.ghtml
+
+Título:
+Amazon quer que juiz bloqueie contrato da Microsoft com Pentágono
+
+Descrição:
+A Amazon pedirá a um juiz que bloqueie temporariamente a Microsoft de trabalhar em um contrato de computação em nuvem de US$ 10 bilhões com o Pentágono, informou um documento apresentado à Justiça nos EUA, na segunda-feira (13).  A Amazon, que era vista como favorita para o contrato, planeja registrar uma moção para uma ordem de restrição temporária em 24 de janeiro e um tribunal federal emitirá sua decisão em 11 de fevereiro, de acordo com o documento.  A empresa culpou o presidente dos Estados Unidos, Donald Trump, por exercer uma "pressão imprópria" e preconceito que levaram o Departamento de Defesa dos EUA (DoD) a conceder à Microsoft o contrato conhecido como JEDI (sigla em inglês para Projeto Conjunto de Defesa em Infraestrutura de Nuvem).  O Departamento de Defesa manteve a decisão, e o secretário Mark Esper rejeitou qualquer sugestão de viés, dizendo que a decisão foi conduzida de forma livre e justa, sem nenhuma influência externa.  Especificamente, um objetivo do JEDI é oferecer aos militares melhor acesso aos dados e à nuvem a partir de zonas de guerra e outros locais remotos. A Amazon Web Services, é uma subsidiária da Amazon, e líder no segmento de computação em nuvem.  A Microsoft não fez um comentário sobre a intenção da Amazon de registrar a moção. A Amazon não respondeu a um pedido de comentário.

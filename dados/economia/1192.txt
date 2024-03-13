@@ -1,0 +1,21 @@
+Data:
+2015-05-30
+
+URL:
+http://g1.globo.com/economia/noticia/2015/05/dolar-cai-bc-lucra-r-318-bi-com-swaps-e-contas-melhoram-em-abril.html
+
+Título:
+Dólar cai, BC lucra R$ 31,8 bi com swaps e contas melhoram em abril
+
+Descrição:
+A queda de 5,5% do dólar registrada em abril levou o Banco Central a registrar um lucro recorde de R$ 31,8 bilhões com os contratos de "swap cambial" no mês passado, o que contribuiu para uma forte queda no pagamento de juros da dívida pública.
+	Com isso, as contas do setor público chegaram a registrar um superávit nominal (após a incidência de juros) de R$ 11,23 bilhões, informou o Banco Central nesta sexta-feira (29). Isso quer dizer que o setor público registrou superávit após o pagamento de todas as duas despesas em abril, incluindo os juros da dívida pública.
+	Somente o pagamento de juros, com o lucro de R$ 31,8 bilhões com swaps em abril, somou somente R$ 2,21 bilhões em abril - o menor valor da série histórica, que começa em dezembro de 2001.Mês de março
+	Pelo fato de o BC ter um estoque de mais de US$ 100 bilhões em contratos de "swap cambial", a variação do dólar tem impacto relevante no pagamento de juros, e, consequentemente, no resultado nominal (contabilizado após a incidência dos juros) das contas públicas.
+	No mês de março, por exemplo, quando o dólar registrou forte alta de 11,7%, o BC registrou um forte prejuízo de R$ 34,5 bilhões com os contratos de "swap cambial", o que elevou o pagamento de juros da dívida pública para R$ 69,48 bilhões. Com isso, o déficit nominal das contas do setor público somou expressivos R$ 69,24 bilhões em março.Superávit primário em abril
+	No caso do superávit primário (sem contar os juros da dívida pública, mas apenas as receitas e despesas), principal conceito utilizado como comparação das contas públicas no Brasil, houve um superávit de R$ 13,44 bilhões em abril, o pior para o mês em dois anos, e de R$ 32,44 bilhões até abril - o pior para este período em seis anos.O que são os 'swaps'?
+	Os swaps cambiais são contratos para troca de riscos. O Banco Central oferece um contrato de venda de dólares, com data de encerramento definida, mas não entrega a moeda norte-americana.
+	No vencimento deles, o BC se compromete a pagar uma taxa de juros sobre valor dos contratos e recebe do investidor a variação do dólar no mesmo período. De forma geral, o BC lucra com estas operações quando o dólar cai e perde quando a cotação da moeda norte-americana sobe.Emissão
+	Os contratos de "swap cambial" voltaram a ser emitidos em agosto de 2013, quando a moeda norte-americana atingiu R$ 2,40, visam dar proteção para os agentes ("hedge") que têm dívida em moeda estrangeira e fornecer liquidez para o mercado – evitando também uma volatilidade maior (forte sobe e desce) das cotações no mercado à vista.
+	Entretanto, analistas observam que, com estas operações, o BC também contém uma disparada da moeda norte-americana, o que dificultaria mais o controle da inflação, pois os produtos e insumos importados ficariam mais caros no Brasil. Desde o fim de março, o BC está apenas rolando os vencimentos, e não de forma integral. Com isso, deixou de fazer emissões líquidas deste instrumento.
+	Segundo informações da Secretaria do Tesouro Nacional, o estoque de contratos de "swap cambial" em mercado somou R$ 342 bilhões no fechamento de abril – um valor acima de US$ 100 bilhões. Com isso, o estoque da dívida do governo somou 15,26% do volume total em março deste ano.

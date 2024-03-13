@@ -1,0 +1,11 @@
+Data:
+2020-01-14
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2020/01/14/firefox-recebe-atualizacao-para-corrigir-brecha-grave-que-permite-instalar-virus-no-computador.ghtml
+
+Título:
+Firefox recebe atualização para corrigir brecha grave que permite instalar vírus no computador
+
+Descrição:
+A Mozilla lançou uma atualização de emergência para o navegador Firefox, eliminando uma falha de segurança que já estaria sendo explorada por hackers em ataques na internet.  O problema, que está localizado em um componente responsável pelo processamento de códigos em páginas de internet, permite que sites instalem vírus no computador das vítimas que acessarem uma página maliciosa.  A falha foi encontrada pela fabricante de antivírus chinesa Qihoo e obrigou a Mozilla a lançar uma atualização para o Firefox 72 apenas um dia depois de a versão ser lançada, na terça-feira passada (7). A versão corrigida é a 72.0.1, disponibilizada na quarta-feira (8).  A Mozilla não deu muitos detalhes sobre a vulnerabilidade. A página que detalha o problema está com restrição de acesso. No entanto, foi a própria organização que informou que "está ciente de ataques reais que abusam desta falha".  O download deve começar imediatamente quando a janela for aberta. Depois, basta clicar no botão que aparecerá para reiniciar o navegador e concluir o procedimento.  Antes de receber a atualização para eliminar essa brecha, a versão 72 do Firefox já havia trazido algumas melhorias de segurança, graças a um reforço nas proteções contra rastreamento on-line e limitações nos pedidos de notificação.  Como já informado neste blog, a Mozilla conduziu um estudo mostrando que, para cada pedido de notificação que recebia uma interação positiva, 60 eram ignorados ou negados. Levando em conta esses resultados, a organização decidiu ocultar mais notificações a partir da versão 72.  O Firefox 72 tinha seu lançamento programado para dezembro, mas acabou sendo lançado só no dia 7 de janeiro.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

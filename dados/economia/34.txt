@@ -1,0 +1,19 @@
+Data:
+2014-07-13
+
+URL:
+http://g1.globo.com/economia/noticia/2014/08/indice-de-precos-ao-produtor-tem-deflacao-em-julho-diz-ibge.html
+
+Título:
+Índice de Preços ao Produtor tem deflação em julho, diz IBGE
+
+Descrição:
+O Índice de Preços ao Produtor (IPP) mostrou deflação em em julho, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). A queda foi de 0,29% em comparação com o mês anterior, resultado superior ao alcançado em junho, quando houve recuo de 0,16% (dado revisado).
+	“É o quinto mês consecutivo de variações negativas do IPP”, afirmou Alexandre Brandão, gerente da coordenação da indústria.
+	O IPP mede a evolução dos preços de produtos “na porta de fábrica”, sem impostos e fretes, de 23 setores das indústrias de transformação.
+	No ano, o índice acumula alta de 0,61%, contra 0,90%, verificado em junho. Na comparação com o mesmo mês de 2013 (acumulado em 12 meses), os preços aumentaram 3,45%, contra 5,01% em junho.
+	“No caso do acumulado do ano, só teve uma taxa menor que essa em toda série, que foi em julho de 2011 (0,59%). Naquele momento, a valorização do real era maior do que é agora. São dois momentos em que o real está bastante valorizado, e isso faz com que a taxa acumulada do IPP acabe sendo baixa”, disse o gerente.
+	Frente a junho, 6 das 23 atividades pesquisadas registraram variações positivas de preços, contra 8 do mês anterior. Os destaques negativos ficaram com impressão (-2,15%), calçados e artigos de couro (-1,38%), alimentos (-1,18%) e madeira (-0,96%).
+	“Dois setores terem subido de preço (minerais não-metálicos e refino de petróleo e produtos de álcool) foi suficiente par segurar uma possível queda maior do IPP. Metalurgia que estava crescendo preço, agora cai. Mas também o montante em si. No caso de alimentos, também fazem esse efeito. Não pode dizer, aumentou só por isso. É uma série de fatores”,
+	De janeiro a julho, as maiores variações percentuais partiram de metalurgia (5,62%), confecção de artigos do vestuário e acessórios (4,70%), refino de petróleo e produtos de álcool (4,01%) e madeira (-3,95%).
+	No acumulado em 12 meses, as maiores altas partiram de refino de petróleo e produtos de álcool (8,93%), calçados e artigos de couro (7,76%), impressão (-6,90%) e metalurgia (6,01%).

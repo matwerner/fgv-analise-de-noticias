@@ -1,0 +1,11 @@
+Data:
+2019-09-22
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/09/19/huawei-lanca-linha-de-smartphones-mate-30-sem-apps-do-google.ghtml
+
+Título:
+Huawei lança linha de smartphones Mate 30, sem apps do Google
+
+Descrição:
+A Huawei anunciou nesta quinta-feira (19) a linha de smartphones Mate 30, principal lançamento da empresa no ano. A peculiaridade dessa vez é que os aparelhos chegam sem os aplicativos e serviços do Google, como geralmente acontece em aparelhos baseados no Android.  Isso se deve à guerra comercial travada por Estados Unidos e China, que envolveu a Huawei, incluída este ano, pelo governo americano, em uma lista de proibição comercial. Isso impediu que a empresa firmasse uma parceria mais direta com o Google.  Os novos aparelhos, Mate 30 e Mate 30 Pro, chegam com um sistema operacional chamado EMUI 10, baseado no Android 10, que é de código aberto, o que ajudou a empresa a contornar parte das sanções.  Como os smartphones foram lançados sem a Play Store, os aplicativos precisam ser baixados pela Huawei App Gallery, loja própria da empresa. Segundo a Huawei, cerca de 45 mil apps já estão integrados nessa plataforma.  Os aparelhos chegam com especificações bastante robustas de processador e e câmera. O processador dos dois modelos é o Kirin 990, lançado pela Huawei no começo do mês em uma feira de tecnologia em Berlim. Em uma das versões do Mate 30 Pro, ele vem com conectividade 5G — novidade nos processadores de fabricação própria da Huawei.  Ambos os modelos têm 8GB de memória, mas o armazenamento interno é diferente: O Mate 30 vem com 128GB e o Mate 30 Pro com 256GB.  Veja os preços anunciados:  Nas câmeras, a Huawei trouxe novamente uma parceria com a fabricante de câmeras e lentes Leica. A câmera principal do smartphone tem 40 megapixel com abertura f/1.8. As outras são uma grande angular de 16 megapixel, com abertura de f/2.2; uma teleobjetiva de 8 megapixel, com abertura de f/2.4; além de uma câmera com sensor 3D, para imagens mais refinadas.

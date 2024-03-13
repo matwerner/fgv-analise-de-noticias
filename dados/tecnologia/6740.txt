@@ -1,0 +1,11 @@
+Data:
+2019-11-11
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/11/06/whatsapp-libera-opcao-que-impede-que-usuario-seja-incluido-em-grupos-sem-autorizacao.ghtml
+
+Título:
+WhatsApp libera opção que impede que usuário seja incluído em grupos sem autorização
+
+Descrição:
+Antes disponível na versão de testes do aplicativo, o WhatsApp liberou nesta quarta-feira (6) um filtro em que permite ao usuário configurar quem poderá adicioná-lo a grupos.  Até então não era possível impedir que administradores de grupos adicionassem livremente outros usuários. Com a nova função, quem usa o aplicativo pode determinar se quer continuar com a atual configuração ou se quer incluir autorizações. São três as opções:  Para ativar, é preciso seguir os seguintes passos:  Na lista de contatos impedidos, é preciso incluir um a um.  Os contatos selecionados não ficam impedidos de enviar mensagens ou conversar com a pessoa: a restrição só impede que eles coloquem o usuário em grupos.  Nesses casos, o administrador que não puder adicionar um usuário a um grupo terá a opção de enviar um link de convite por mensagem. O usuário terá então 3 dias para aceitar ou não o convite antes que ele expire.

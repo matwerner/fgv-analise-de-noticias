@@ -1,0 +1,11 @@
+Data:
+2020-02-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2020/02/01/whatsapp-deixa-de-funcionar-em-celulares-com-sistema-operacional-defasado.ghtml
+
+Título:
+WhatsApp deixa de funcionar em celulares com sistema operacional defasado
+
+Descrição:
+O WhatsApp vai deixar de funcionar em celulares que tenham sistemas operacionais antigos a partir deste sábado (1º).  Veja as versões:  A medida acontece porque essas versões estão presentes em celulares muito antigos, que não recebem mais atualização das desenvolvedores dos sistemas operacionais, especificamente Apple e Google.  Um exemplo de celular que o WhatsApp terá problemas é o iPhone 4, que só foi atualizado até o iOS 7. No caso do Android, dados do Google mostram que apenas 0,3% dos usuários do sistema ainda utilizam a versão 2.3.7 — conhecida como Gingerbread.  O sistema do celular disponibiliza diversas funções que desenvolvedores devem utilizar para criar os recursos dos apps. Quando uma função do sistema é modificada ou adicionada, o aplicativo precisa ser adaptado para funcionar de acordo com o recurso novo.  No iPhone:  No Android:  Em certos casos, mudanças no sistema operacional do celular podem criar incompatibilidade com os chips de processamento e de rede mais antigos, que estão instalados nos dispositivos, o que dificulta a atualização para versões muito recentes do sistema.  Versões mais novas do sistema também tendem a ter mais funcionalidades, o que exige mais poder de processamento do que um celular antigo é capaz de fornecer.  Mas há situações em que um fabricante simplesmente decide, a seu próprio critério, não mais lançar atualizações para um aparelho. Isso acontece porque o fabricante é o responsável por realizar os ajustes finos exigidos para que o sistema funcione em cada modelo.

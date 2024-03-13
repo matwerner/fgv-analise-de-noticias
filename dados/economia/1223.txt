@@ -1,0 +1,16 @@
+Data:
+2015-09-06
+
+URL:
+http://g1.globo.com/economia/noticia/2015/09/precos-dos-imoveis-tem-1-queda-nominal-desde-2009.html
+
+Título:
+Preços dos imóveis têm 1ª queda nominal desde 2009
+
+Descrição:
+O preço dos imóveis registrou a primeira queda nominal desde 2009 - início da série histórica do Índice FipeZap, que mede os valores das moradiras em 20 cidades do país. O recuo nominal foi de 0,01%.
+	Nessa base de comparação, registraram queda nominal seis das 20 cidades pesquisadas: Rio de Janeiro, Belo Horizonte, Brasília, Curitiba, Niterói e Goiânia.
+	No ano, o indicador acumula alta de 1,50%, enquanto a inflação esperada para o IPCA (IBGE) no mesmo período é de 7,1%. "Dessa maneira, o preço médio anunciado do metro quadrado ampliou sua queda real para -5,2% em 2015".
+	Com exceção de Florianópolis, todas as outras cidades que compõem o Índice FipeZap registraram variações menores do que a inflação até agosto, sendo que Niterói, Brasília e Curitiba tiveram queda nominal nesse mesmo período.
+	Já no período de 12 meses, a variação do Índice FipeZap foi de 3,32%. No mesmo período, a inflação esperada para o IPCA (IBGE) é de 9,56%. Nesse período, os imóveis mostraram queda real de 5,69%. De acordo com a pesquisa, foi a oitava vez consecutiva em que a variação do Índice FipeZap foi menor do que a inflação nessa base de comparação.
+	O valor anunciado do metro quadrado médio das 20 cidades em agosto foi de R$ 7.613. A cidade com o metro quadrado mais caro continua sendo o Rio de Janeiro (R$ 10.593), seguida por São Paulo (R$ 8.607). Os dois municípios que apresentaram os menores preços foram Contagem (R$ 3.575) e Goiânia (R$ 4.179).

@@ -1,0 +1,14 @@
+Data:
+2014-10-09
+
+URL:
+http://g1.globo.com/economia/noticia/2014/10/pedidos-de-falencias-crescem-no-pior-setembro-em-4-anos.html
+
+Título:
+Pedidos de falências crescem no pior setembro em 4 anos
+
+Descrição:
+Os pedidos de falência cresceram em setembro em todo o país, segundo o Indicador Serasa Experian de Falências e Recuperações. No mês, foram realizados 181 pedidos, alta de 21,5% em relação aos 149 registrados em agosto. Foi o pior resultado do ano em termos de quantidade de empresas que sofreram pedidos de falências. Na comparação com setembro de 2013, o número de pedidos de falência subiu 16%, com 156 pedidos. Foi o pior mês de setembro em quatro anos: 108 (2011), 135 (2012) e 156 (2013).
+	Dos 181 requerimentos de falência efetuados em setembro de 2014, 91 foram de micro e pequenas empresas, 39 de médias e 51 de grandes.
+	Economistas da Serasa Experian creditam o índice à recessão interna, aos juros altos, à queda dos níveis de confiança empresariais e, mais recentemente, à alta do dólar.
+	As recuperações judiciais requeridas apresentaram aumento de 38,5% em setembro de 2014, quando comparadas com o mês anterior. Foram 90 solicitações realizadas, contra 65 em agosto. As micro e pequenas empresas lideraram os requerimentos de recuperação judicial com 49 pedidos, seguidos pelas médias (25), e pelas grandes empresas (16).

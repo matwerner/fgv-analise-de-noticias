@@ -1,0 +1,11 @@
+Data:
+2020-02-01
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2020/01/31/microsoft-promete-corrigir-erro-visual-da-area-de-trabalho-na-ultima-atualizacao-do-windows-7.ghtml
+
+Título:
+Microsoft promete corrigir erro visual da área de trabalho na 'última' atualização do Windows 7
+
+Descrição:
+A Microsoft reconheceu que a última atualização geral do Windows 7, além de corrigir alguns problemas de segurança e estabilidade, também introduziu um novo "bug": o sistema perde o papel de parede e fica com o fundo da área de trabalho todo preto caso o usuário escolha "estender" a imagem configurada.  O suporte geral ao Windows 7 acabou no dia 14 de janeiro. Desde então, qualquer atualização ou correção exigida pelo sistema só está garantida para empresas que possuam um contrato de suporte estendido (chamado de "ESU", na sigla em inglês).  A Microsoft inicialmente anunciou que consertaria o problema no papel de parede em uma atualização exclusiva para os clientes com esse contrato. Mas a empresa mudou seu posicionamento e agora diz que vai disponibilizar uma correção para "todos os clientes que estejam executando Windows 7 ou Windows Server 2008 SP1".  Não é a primeira vez que a Microsoft decide lançar atualizações para clientes que ainda estão com versões obsoletas. O Windows XP, que não é mais oficialmente suportado desde 2014, recebeu atualizações em 2017 e 2019 para corrigir falhas graves que permitiam que o sistema fosse invadido só por estar conectado à internet.  Enquanto a atualização não chega, é possível contornar o problema escolhendo uma das demais opções de ajuste da imagem, como "Centro" e "Ajustar". A solução ideal, porém, é atualizar o sistema o quanto antes para o Windows 10.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

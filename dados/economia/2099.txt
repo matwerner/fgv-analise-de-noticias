@@ -1,0 +1,23 @@
+Data:
+2016-07-09
+
+URL:
+http://g1.globo.com/economia/noticia/2016/07/inflacao-pelo-ipc-s-avanca-na-1-semana-de-julho-diz-fgv.html
+
+Título:
+Arroz e feijão ajudam no avanço da inflação pelo IPC-S em julho, diz FGV
+
+Descrição:
+A inflação medida pelo Índice de Preços ao Consumidor - Semanal (IPC-S) acelerou na primeira semana de julho, segundo a Fundação Getúlio Vargas (FGV). A taxa ficou em 0,44%, 0,18 ponto percentual acima da taxa registrada na semana terminada em 29 de junho.
+	Quatro das oito classes de despesa componentes do índice apresentaram acréscimo nas taxas de variação. A maior contribuição partiu do grupo alimentação (0,07% para 0,82%), com destaque para o arroz e o feijão, cuja taxa passou de 14,64% para 21,81%.
+	Também registraram acréscimo em suas taxas de variação os grupos educação, leitura e recreação (0,26% para 0,72%), transportes (-0,22% para -0,13%) e despesas diversas (0,41% para 0,5%).
+	Em contrapartida, apresentaram decréscimo nas taxas de variação os grupos
+	habitação (0,63% para 0,44%), vestuário (0,37% para 0,1%), saúde e cuidados pessoais (0,54% para 0,51%) e comunicação (0,11% para 0,1%).Veja a variação de preços de alguns itens:
+	Arroz e feijão (14,64% para 21,81%)
+	Passagem aérea (6,55% para 21,38%)
+	Gasolina (-1,59% para -1,52%)
+	Bilhete lotérico (3,95% para 8,62%)
+	Tarifa de eletricidade residencial (0,44% para 0,07%)
+	Roupas (0,15% para -0,3%)
+	Medicamentos em geral (0,11% para 0,06%)
+	Tarifa de telefone residencial (0,12% para 0,02%)

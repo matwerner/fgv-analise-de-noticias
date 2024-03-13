@@ -1,0 +1,11 @@
+Data:
+2019-11-14
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/11/13/google-vai-oferecer-contas-correntes-a-usuarios-em-2020-diz-jornal.ghtml
+
+Título:
+Google vai oferecer contas correntes a usuários em 2020, diz jornal
+
+Descrição:
+O Google vai oferecer contas correntes a usuários no próximo ano em parceria com o banco Citi e uma pequena cooperativa de crédito da Universidade Stanford, afirmou uma fonte a par do assunto nesta quarta-feira (13) ao jornal "The Wall Street Journal". O projeto se chamará "Cache".  "Nossa estratégia é de sermos grandes parceiros de bancos e do sistema financeiro", disse Caesar Sengupta, vice-presidente de pagamentos do Google, em entrevista ao "Wall Street Journal". "Pode ser um caminho um pouco mais longo, mas é mais sustentável", disse Sengupta, ao jornal.  O "Wall Street Journal" afirmou que existe uma grande quantidade de dados e informações sobre gastos dos consumidores e sobre renda em contas bancárias. O Google, no entanto, afirmou que não pretende vender dados financeiros dos clientes para anunciantes e que não usa dados do Google Pay para fins publicitários.  O serviço Google Pay já é popular em países como a Índia, onde tem mais de 67 milhões de usuários mensais e é utilizado para pagamento de tudo desde compras de mercado até corridas feitas pela Uber.  O projeto Cache segue movimentos da Apple e do Facebook, de ingresso na indústria financeira. O Facebook anunciou a moeda digital libra em junho e a Apple firmou uma parceria com o banco Goldman Sachs para emissão de um cartão de crédito.  Questionado a respeito dos planos do Google, o senador norte-americano Mark Warner, democrata que participa de painel do Senado que fiscaliza os bancos, afirmou que tem algumas ressalvas sobre o projeto.  Warner afirmou à rede CNBC nesta quarta-feira (13) que sua preocupação é que gigantes da tecnologia entrem em novas áreas antes de haver regras para isso. "Creio que é preciso haver uma fiscalização muito intensa", acrescentou.

@@ -1,0 +1,11 @@
+Data:
+2019-01-17
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/01/16/o-que-e-o-modo-noturno-e-quais-sao-as-suas-vantagens.ghtml
+
+Título:
+O que é o modo noturno e quais são as suas vantagens?
+
+Descrição:
+Os principais programas e aplicativos estão recebendo a opção de modo noturno ou "dark mode".  Na versão mais recente do macOS, foi uma das melhorias que mais agradou aos usuários. O Google recentemente confirmou que a próxima versão do Android receberá também o modo noturno. Essa opção está entre os principais aprimoramentos desejados para o WhatsApp.  Mas afinal, o que é o modo noturno?  O dark mode é uma alteração temporária no esquema de cores das telas dos programas. Quando ele é ativado, a aparência da interface gráfica é apresentada com cores escuras ou com o brilho reduzido. Esse recurso torna a experiência de uso mais agradável, principalmente quando o dispositivo estiver sendo usado em ambientes com pouca iluminação.  E, com a redução do brilho da tela, esse modelo de funcionamento aumenta a autonomia da bateria, devido à economia de energia.  Essa configuração é uma excelente alternativa para quem passa horas em frente ao computador, celular ou tablet. A tendência é que, em breve, o modo noturno seja uma opção padrão presente em todos os sistemas operacionais, sendo facilmente habilitada conforme a necessidade do usuário.  O modo noturno no WhatsApp é uma das funcionalidades mais esperadas para 2019. Uma conta no Twitter que divulga o que está em fase de testes pela equipe de desenvolvimento do aplicativo mostrou o que pode  Não há previsão de data para que os usuários inscritos no programa de testes do WhatsApp possam baixar essa atualização.  É possível instalar complementos para proporcionar um efeito equivalente de redução de luminosidade enquanto essa opção não é nativa. Confira abaixo a lista dos plug-ins de modo noturno mais usados:

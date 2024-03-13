@@ -1,0 +1,11 @@
+Data:
+2020-01-22
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2020/01/20/facebook-se-desculpa-por-traducao-vulgar-do-nome-do-presidente-da-china-xi-jinping.ghtml
+
+Título:
+Facebook se desculpa por tradução vulgar de nome do presidente da China
+
+Descrição:
+O Facebook culpou um erro técnico pelo tradução do nome do líder chinês Xi Jinping ter aparecido como "Sr. Shithole" em algumas postagens na rede social. O erro acontecia quando o nome era traduzido de birmanês para o inglês.  A empresa pediu desculpas por qualquer ofensa causada.  O erro veio à tona quando a conselheira Daw Aung San Suu Kyi, a líder civil de Mianmar, postou um comunicado sobre a visita de dois dias do presidente chinês em sua página oficial no Facebook. Quando o texto era traduzido, estava repleto de referências ao "Sr. Shithole" enquanto uma manchete no jornal local Irrawaddy apareceu como "Jantar em homenagem ao presidente shithole".  Essa foi a primeira visita de um líder chinês a Mianmar em quase 20 anos. Os dois líderes assinaram dezenas de acordos, como planos de infraestrutura apoiados por Pequim, que está expandindo sua presença na região.  Não ficou claro quanto tempo durou o problema, mas a função de tradução do Google não mostrou o mesmo erro.  "Corrigimos um problema técnico que causava traduções incorretas do birmanês para o inglês no Facebook. Isso não deveria ter acontecido e estamos tomando providências para garantir que isso não aconteça novamente. Pedimos sinceras desculpas pela ofensa que isso causou", disse o Facebook em nota.  O sistema do Facebook não tinha o nome do presidente Xi Jinping em seu banco de dados birmanês e adivinhou a tradução, disse a empresa. Testes de tradução de palavras semelhantes que começam com "xi" e "shi" em birmanês também produziram "shithole", acrescentou.  Segundo o jornal "The New York Times", as notícias sobre a tradução vulgar do nome do presidente foram aparentemente censuradas na China — sem relatos nos principais portais e redes sociais do país. O Ministério das Relações Exteriores da China não quis comentar.

@@ -1,0 +1,11 @@
+Data:
+2019-08-18
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/08/15/saiba-se-android-precisa-de-antivirus.ghtml
+
+Título:
+Android precisa de antivírus? Vale a pena?
+
+Descrição:
+É necessário instalar antivírus no Android? Eles funcionam? Você indica algum gratuito, sem muita propaganda? – Rosana  O Android já possui um antivírus embutido, o Google Play Protect. Algumas pessoas talvez precisem instalar mais um programa para reforçar a segurança do aparelho, mas o antivírus não é tão importante no celular quanto é no notebook ou no computador. No celular, conferir os ajustes de bloqueio de tela e a proteção contra roubo são mais importantes.  Se você tem alguma dúvida sobre segurança da informação (antivírus, invasões, cibercrime, roubo de dados etc.) vá até o fim da reportagem e utilize o espaço de comentários ou envie um e-mail para g1seguranca@globomail.com. A coluna responde perguntas deixadas por leitores no pacotão, às quintas-feiras.

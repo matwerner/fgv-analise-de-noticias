@@ -1,0 +1,11 @@
+Data:
+2019-05-05
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/05/02/roubos-e-fraudes-com-criptomoedas-atingem-us-12-bi-no-1-trimestre.ghtml
+
+Título:
+Roubos e fraudes com criptomoedas atingem US$ 1,2 bi no 1° trimestre
+
+Descrição:
+As perdas de criptomoedas por roubo e atividades relacionadas a fraudes em todo o mundo aumentaram no 1º trimestre do ano para US$ 1,2 bilhão - 70% do registrado em todo o ano de 2018 - informou a especialista em segurança cibernética CipherTrace.  O crime relacionado a criptomoedas aumentou à medida que o mercado desacelerou, os preços despencaram e a atividade comercial estagnou.  No 1º trimestre de 2019, o roubo de moedas digitais de bolsas de câmbio e gerado em golpes totalizou US$ 356 milhões, enquanto as perdas decorrentes de fraudes ou fundos desviados atingiram US$ 851 milhões.  "O crime com criptomoedas ficou pior porque as regulamentações ainda são pouco aplicadas. A Europa ainda não implementou suas regulamentações e a comunidade de criminosos cibernéticos continua a crescer", disse o presidente-executivo da CipherTrace, Dave Jevans, à Reuters.  "Além disso, questões internas como fraude ou roubo cresceram principalmente devido a operações fora dos EUA, onde as normas são fracas ou simplesmente devido à ganância e má administração por parte de jovens gestores destas empresas de criptomoedas que gerenciam centenas de milhões ou até bilhões de dólares".  Jevans também é presidente do grupo Anti-Phishing Working, uma organização global focada em ajudar na solução de cibercrimes.  O relatório aponta ainda uma grande lacuna no atual ambiente regulatório de criptomoedas no que diz respeito aos pagamentos transfronteiriços das bolsas dos EUA para as bolsas no exterior, que estão além do alcance das autoridades norte-americanas.  Uma análise de 164 milhões de transações com bitcoins mostrou que pagamentos internacionais para bolsas no exterior cresceram 46% nos últimos dois anos, contribuindo para os US$ 8,7 trilhões, ou 11,5% da riqueza mundial que está escondida no exterior, segundo o relatório.

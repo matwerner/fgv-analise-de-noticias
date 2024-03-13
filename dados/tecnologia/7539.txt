@@ -1,0 +1,11 @@
+Data:
+2020-01-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2020/01/01/pagamento-instantaneo-servico-de-transferencia-bancaria-por-qr-code-sera-destaque-em-2020.ghtml
+
+Título:
+Pagamento instantâneo: serviço de transferência bancária por QR Code será destaque em 2020
+
+Descrição:
+A expansão no Brasil da rede 5G estaria entre as minhas apostas em tecnologia para 2020, mas infelizmente parece que teremos que esperar por muito mais tempo até que que a internet de alta velocidade se torne uma realidade. No entanto, confirmando uma das tendências que já foi aposta aqui no blog, o uso prático do blockchain sem qualquer tipo de relação com o bitcoin está viabilizando uma revolução nas operações financeiras. E, para 2020, o pagamento instantâneo é a minha aposta para este ano.  Uma transferência de valores entre contas bancárias é a maneira mais prática para o repasse de valores, mas existem limitações nesse tipo de serviço. Por exemplo, a transferência eletrônica disponível (TED) possui um limite de horário para que ela seja concluída - em finais de semana a operação só será compensada no próximo dia útil.  Cada instituição tem o seu próprio processo de compensação, horário diário de limite para que a transação ocorra, entre outras restrições. Com o pagamento instantâneo não haverá esse tipo de limitação, pois o serviço de compensação funcionará durante 24 horas por dia e 7 dias por semana. As transferências ocorrem diretamente da conta do usuário pagador para a conta do usuário recebedor, sem a necessidade de intermediários, o que propicia custos de transação menores.  O maior benefício proporcionado por essa tecnologia consiste em reduzir o custo das operações, acelerar as atividades financeiras e melhorar a experiência de clientes. Qualquer pessoa poderá realizar uma transferência usando apenas o telefone celular com um aplicativo de leitura de QR Code, isso significa que máquinas de cartão de crédito e até mesmo os caixas eletrônicos se tornarão equipamentos obsoletos.  Além da agilidade, os usuários contarão com mais segurança em realizar as suas transferências devido a tecnologia do QR Code, que tem camadas de segurança adicionais.

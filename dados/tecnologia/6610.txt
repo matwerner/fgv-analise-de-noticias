@@ -1,0 +1,11 @@
+Data:
+2019-05-26
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/05/24/spacex-lanca-primeiros-satelites-para-sua-rede-de-internet.ghtml
+
+Título:
+SpaceX lança primeiros satélites para rede que vai prover internet do espaço
+
+Descrição:
+A SpaceX lançou nesta quinta-feira (23) os primeiros 60 satélites de seu sistema "Starlink", cujo objetivo é prover Internet a partir do espaço. Elon Musk, que também é dono da montadora de carros elétricos Tesla, é quem está por trás da empresa espacial.  Em 2018, o empresário chegou a enviar um carro Roadster para o espaço, durante o lançamento do 'superfoguete' Falcon Heavy.  Um foguete Falcon 9 da empresa decolou de Cabo Canaveral, na Flórida, por volta das 22h30 local (23h30 em Brasília). Os satélites começaram a ser liberados uma hora após o lançamento, a uma altitude de 440 km, e usarão seus próprios propulsores para se posicionar em uma órbita relativamente baixa, a 550 km.  Elon Musk anunciou o sucesso da operação por meio de seu Twitter. "Implementação bem-sucedida de 60 satélites Starlink confirmada", disse Musk.  Inicialmente, o lançamento estava previsto para a semana passada, mas foi adiado devido à necessidade de atualizações de um software. Cada satélite pesa 227 kg e foi construído em Redmond, na região de Seattle.  A empresa do magnata Elon Musk lidera a corrida espacial privada. Musk espera captar entre 3% e 5% do futuro mercado global, o que poderá render à SpaceX US$ 30 bilhões ao ano, dez vezes mais do que arrecada com o lançamento de foguetes.  A SpaceX obteve aprovação do governo dos Estados Unidos para lançar até 12 mil satélites, em diferentes níveis de órbita, mas Musk avaliou na véspera que mil serão suficientes para que o sistema seja "economicamente viável".  A Starlink começará a funcionar assim que forem ativados 800 satélites, o que exigirá uma dúzia de lançamentos. "Acredito que dentro de um ano e meio, talvez dois, se as coisas forem bem, é provável que SpaceX tenha mais satélites em órbita que todos os demais satélites combinados", disse Musk na semana passada.  Atualmente, há cerca de 2.100 satélites ativos orbitando a Terra, além de milhares já inativos. Para reduzir o risco de acidente com outros satélites, cada equipamento da Starlink contará com tecnologia contra colisão, segundo a SpaceX.

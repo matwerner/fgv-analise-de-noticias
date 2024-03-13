@@ -1,0 +1,11 @@
+Data:
+2019-12-06
+
+URL:
+https://g1.globo.com/economia/tecnologia/post/2019/12/05/por-que-o-botao-sair-fica-escondido-em-alguns-aplicativos-ele-e-necessario.ghtml
+
+Título:
+Por que o botão 'sair' fica escondido em alguns aplicativos? Ele é necessário?
+
+Descrição:
+Por que os aplicativos de celular ficam sempre logados? Nos sites que entro pelo computador, eu tenho a opção "SAIR", mas não nos apps. Por quê? Isso gasta dados do plano ou é ruim para a minha segurança? E se eu quiser sair, como faço? – Cláudio Roberto  Cláudio, essa diferença que você percebeu entre os aplicativos de celular e os navegadores web no computador não é "obra do acaso".  Diferentemente do navegador web no computador – que de uma forma ou outra pode ter seus dados acessados por outros programas instalados –, os apps no celular utilizam um armazenamento privativo.  Em condições normais, esse armazenamento fica fora de alcance para os demais aplicativos instalados. Na prática, cada programa instalado no celular pode ficar "isolado", o que significa que o risco de roubo de dados é menor.  Outro fator é a natureza do dispositivo. O smartphone é pessoal. Não é comum emprestar o celular para uso prolongado e não existe o conceito de "cibercafé" com "smartphones públicos".  Mas computadores públicos existem sim, em bibliotecas, no trabalho, escolas e outros locais. Isso cria a necessidade do botão "sair".  Apesar disso tudo, alguns aplicativos trazem sim o botão sair. Você pode encontrá-los nos apps do Facebook e do Twitter, por exemplo, embora muitas vezes ele esteja em locais menos visíveis do que no computador.  Outros, como o Gmail, não tem mesmo esse botão, porque o controle da conta é feito diretamente nas configurações do aparelho.  Manter seus apps logados no celular é uma conveniência e não traz riscos significativos à sua segurança.  Se você tem alguma dúvida sobre segurança da informação (antivírus, invasões, cibercrime, roubo de dados etc.), envie um e-mail para g1seguranca@globomail.com. A coluna responde perguntas deixadas por leitores às quintas-feiras.

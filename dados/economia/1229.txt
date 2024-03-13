@@ -1,0 +1,37 @@
+Data:
+2015-10-13
+
+URL:
+http://g1.globo.com/economia/noticia/2015/10/senado-aprova-regra-progressiva-para-obter-aposentadoria.html
+
+Título:
+Senado aprova novas regras para aposentadoria e 'desaposentação'
+
+Descrição:
+O Senado aprovou nesta quarta-feira (7) medida provisória que institui uma regra para aposentadoria que varia progressivamente de acordo com a expectativa de vida da população brasileira.
+	A medida provisória já havia sido aprovada pela Câmara dos Deputados e, agora, segue para sanção da presidente Dilma Rousseff.
+	O texto também autoriza a chamada "desaposentadoria", ou "desaposentação", que é a possibilidade de o aposentado que continuou trabalhando fazer novo cálculo do benefício, tomando por base o novo período de contribuição e o valor dos salários.
+	A possibilidade da “desaposentadoria” foi incluída pela Câmara, por meio de uma emenda, e gerará rombo  à Previdência Social de R$ 70 bilhões em 20 anos, segundo o governo.
+	A MP que mudas regras para pedir a aposentadoria foi editada pela presidente Dilma Rousseff como uma alternativa à regra 85/95, aprovada, em maio, pelo Congresso Nacional e que pôs fim ao fator previdenciário.
+	A fórmula aprovada pelo Legislativo, na época, permitia aposentadoria integral quando a soma da idade e do tempo de contribuição atingisse 85, para as mulheres, e 95, para os homens.
+	A presidente Dilma Rousseff vetou esse cálculo, sob a justificativa de que aumentaria o rombo na Previdência Social, e editou a medida provisória com outras regras.
+	Pela MP de Dilma, a fórmula para calcular a aposentadoria varia progressivamente conforme a expectativa de vida da população – que, em tese, aumenta a cada ano - começando em 85/95.
+	Os parlamentares aprovaram uma modificação ao texto original do Executivo, para instituir uma condição mais benéfica ao trabalhador, mas que representará gasto maior aos cofres públicos.
+	Pela proposta da presidente, a cada ano, seria necessário um ponto a mais na soma para obter a aposentadoria. Em 2017, por exemplo, mulheres precisariam de 86 pontos e homens, de 96 – ou seja, seria adicionado um ponto. Em 2022, seriam cinco pontos a mais.
+	O texto aprovado pelos deputados, porém, prevê uma escala mais longa. A primeira alta na soma, de 85/95 para 86/96, seria em 31 de dezembro de 2018.
+	A partir daí, seria adicionado um ponto no cálculo a cada dois anos e não apenas um, conforme havia proposto a MP enviada pelo governo.
+	Essas alterações no texto foram feitas na comissão mista que analisou a MP antes de ela ir ao plenário da Câmara. O Planalto aceitou as modificações para garantir que o Congresso mantivesse o veto de Dilma à fórmula 85/95, o que ocorreu em setembro.Pontuação
+	Veja abaixo como fica a pontuação mínima para homens e mulheres, em cada dois anos, para receber 100% do benefício de aposentadoria:
+	- Em 31 de dezembro de 2018: 86 para mulheres e 96 para homens (acréscimo de 1 ponto na fórmula 95/85)
+	- Em 31 de dezembro de 2020: 87 para mulheres e 97 para homens (acréscimo de 2 pontos na fórmula 95/85)
+	- Em 31 de dezembro de 2022: 88 para mulheres e 98 para homens (acréscimo de 3 pontos na fórmula 95/85)
+	- Em 31 de dezembro de 2024: 89 para mulheres e 99 para homens (acréscimo de 4 pontos na fórmula 95/85)
+	- Em 31 de dezembro de 2026: 90 para mulheres e 100 para homens (acréscimo de 5 pontos na fórmula 95/85)Desaposentadoria
+	De acordo com a emenda acrescentada ao texto na Câmara e mantida pelo Senado, o aposentado que continuou a trabalhar poderá pedir um "recálculo" do benefício depois que tiver feito 60 contribuições ao INSS, posteriores à primeira aposentadoria.
+	O valor da aposentadoria mensal estará limitado ao teto estabelecido pelo Instituto Nacional de Seguridade Social (INSS), que atualmente é de R$ 4.663. Atualmente, o governo não admite que o segurado renuncie ao benefício recebido para pedir outro, com base em novas condições de contribuição e salário. Por isso, os aposentados que continuam trabalhando e contribuindo para o INSS têm recorrido à Justiça para garantir benefício maior.
+	O caso chegou ao Supremo Tribunal Federal (STF) e, em agosto do ano passado, dois ministros votaram contra a possibilidade de “desaposentação” – Dias Toffoli e Teori Zavascki –, enquanto outros dois votaram a favor- Luís Roberto Barroso e Marco Aurélio Mello.
+	O julgamento foi interrompido, porém, por um pedido de vista da ministra Rosa Weber, que queria mais tempo para analisar a matéria. Desde então o processo não voltou à pauta do STF e as dúvidas sobre a possibilidade de recálculo continuam.
+	De acordo com a emenda acrescentada ao texto na Câmara e mantida pelo Senado, o aposentado que continuou a trabalhar poderá pedir um "recálculo" do benefício depois que tiver feito 60 contribuições ao INSS, posteriores à primeira aposentadoria.
+	O valor da aposentadoria mensal estará limitado ao teto estabelecido pelo Instituto Nacional de Seguridade Social (INSS), que atualmente é de R$ 4.663. Atualmente, o governo não admite que o segurado renuncie ao benefício recebido para pedir outro, com base em novas condições de contribuição e salário. Por isso, os aposentados que continuam trabalhando e contribuindo para o INSS têm recorrido à Justiça para garantir benefício maior.
+	O caso chegou ao Supremo Tribunal Federal (STF) e, em agosto do ano passado, dois ministros votaram contra a possibilidade de “desaposentação” – Dias Toffoli e Teori Zavascki –, enquanto outros dois votaram a favor- Luís Roberto Barroso e Marco Aurélio Mello.
+	O julgamento foi interrompido, porém, por um pedido de vista da ministra Rosa Weber, que queria mais tempo para analisar a matéria. Desde então o processo não voltou à pauta do STF e as dúvidas sobre a possibilidade de recálculo continuam.

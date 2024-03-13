@@ -1,0 +1,11 @@
+Data:
+2019-01-24
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/22/telegram-expande-numero-maximo-de-pessoas-em-grupo-para-200-mil.ghtml
+
+Título:
+Telegram expande número máximo de pessoas em grupo para 200 mil
+
+Descrição:
+O aplicativo de mensagens Telegram, um conhecido concorrente do WhatsApp, anunciou uma atualização nesta terça-feira (22) que expande o número máximo de pessoas em um único grupo para 200 mil usuários. O máximo anterior já era de 100 mil membros.  "Caso você já tenha se sentido sozinho em um grupo com 100 mil pessoas, o Telegram agora permite grupos de até 200 mil membros — para que você possa se sentir duas vezes mais solitário", brincou a empresa no comunicado oficial.  O aplicativo, que anunciou ter chegado à marca de 200 milhões de usuários em todo o mundo em março de 2018, foi criado pelo russo Pavel Durov, que hoje está exilado em Dubai, também criador do VKontakt, o Facebook da Rússia. O país entrou na Justiça no ano passado para bloquear o aplicativo, sob alegações de que o Telegram não estava entregando mensagens privadas.  A atualização vai na contra-mão das redes sociais mais conhecidas, que estão sob forte escrutínio diante da disseminação de boatos. Na segunda-feira, o WhatsApp anunciou que iria limitar o encaminhamento de mensagens, reduzindo o número de destinatários possíveis de 20 para 5 em todo o mundo.  Além do aumento no número de usuários, o Telegram também mudou permissões para grupos, permitindo que os administradores determinem o que pode ou não ser compartilhado.  No anúncio, a empresa afirma que agora é possível que administradores sejam os únicos a postar mensagens nos grupos, enquanto os outros usuários podem apenas ler. Também passa a ser possível retirar a opção de enviar GIFs ou até mesmo figurinhas, os stickers — um recurso que só recentemente chegou ao WhatsApp.  Outros recursos anunciados na mudança incluem a opção de recuperar uma mensagem ou conversa deletada e aprimoramentos no modo noturno para Android.

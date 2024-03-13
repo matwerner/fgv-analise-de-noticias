@@ -1,0 +1,11 @@
+Data:
+2019-07-25
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/07/26/como-desativar-o-servico-de-caixa-postal-nas-principais-operadoras.ghtml
+
+Título:
+Como desativar o serviço de caixa postal nas principais operadoras
+
+Descrição:
+O sistema de caixas postais esteve no cerne das invasões do aplicativo Telegram do ministro Sérgio Moro e outras autoridades. Nesta semana, 4 pessoas foram presas pela Operação Spoofing, da Polícia Federal, acusadas de serem os hackers responsáveis pelo ataque.  O Juiz Vallisney de Oliveira, da 10ª Vara da Justiça Federal, de Brasília, responsável pela decisão que decretou a prisão dos suspeitos, afirma que as investigações apontaram que os supostos hackers conseguiram acesso ao código enviado pelos servidores do aplicativo Telegram via ligação telefônica. Eles então exploraram uma vulnerabilidade na caixa postal para conseguir ouvir o código e invadir o aplicativo.  O serviço de caixa postal pode ser cancelado junto às operadoras. Saiba como desativar nas principais provedoras de telefonia móvel do país:  É preciso acessar o site ou o aplicativo "Minha Claro" e logar com usuário e senha — essa medida serve para pessoas físicas. No site, siga os seguintes passos:  Para desativar o serviço, clientes devem ligar para o número *144 e selecionar a opção 3, voltada para serviços.  Também é possível fazer isso no site "Minha Oi":  Segundo o site da operadora, é possível desativar o serviço de caixa postal pela central de relacionamento, ligando para *144 do próprio celular.  Ou pelo site "Meu Tim" (o aplicativo não apresenta a opção necessária para desativar a caixa postal):  É preciso ligar no serviço para solicitar a desativação do serviço de caixa postal:

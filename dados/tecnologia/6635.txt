@@ -1,0 +1,11 @@
+Data:
+2019-06-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/06/29/google-anuncia-funcao-que-mostra-se-o-onibus-ou-o-metro-estao-lotados.ghtml
+
+Título:
+Google anuncia função que mostra se o ônibus ou o metrô estão lotados
+
+Descrição:
+Entre as 10 linhas de metrô mais cheias de gente em todo o mundo, 3 delas estão em São Paulo. O dado é do Google que agora disponibiliza informações sobre a lotação dos metrôs, trens e ônibus.  A empresa divulgou os dados nesta quinta-feira (27) e anunciou novas funções do Google Maps que preveem o quão cheias estão as conduções em algumas cidades brasileiras. Os recursos serão lançados em 200 cidades ao redor do mundo.  As novas funcionalidades são três:  Tempo real do tráfego de ônibus: o recurso será disponibilizado em Salvador, Recife e Brasília e vai mostrar, cruzando informações das agências de transporte locais permitindo saber se o ônibus está atrasado ou quanto tempo vai levar para chegar ao destino com base nas informações de tráfego que o Google já tem. Essa ferramenta já está disponível em São Paulo.  Previsão de lotação: no Rio de Janeiro e em São Paulo, o Google vai começar a informar como estão as condições em um terminal, estação ou rota de transporte público. O recurso usa dados que o próprio Google arrecadou para traçar padrões e cruzar informações.  O Google Maps tem enviado algumas notificações para usuários do app, perguntando sobre a lotação de algumas linhas de metrô e de estações. Os resultados dessas pesquisas foram usados para compor essa base de dados que permite estimar os horários em que as estações estão mais cheias. Dessa maneira, o aplicativo consegue te dizer se você vai ter um lugar para sentar ou se vai fazer a viagem de pé.  Tendências de lotação ao redor do mundo: utilizando essas informações coletadas, o Google agora tem dados globais de locomoção, sobre linhas mais cheias e estações com maior aglomeração de pessoas.  Aqui no Brasil as informações iniciais são da cidade de São Paulo. De acordo com a empresa, as três rotas mais lotadas de trens e ônibus na cidade são:  Veja a lista das 10 linhas de metrô mais cheias do mundo:

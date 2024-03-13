@@ -1,0 +1,11 @@
+Data:
+2019-01-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/29/apos-descoberta-de-problema-de-privacidade-no-facetime-apple-afirma-que-ira-consertar-bug.ghtml
+
+Título:
+Após descoberta de problema de privacidade no FaceTime, Apple afirma que irá consertar bug
+
+Descrição:
+A Apple vai resolver um problema de software nesta semana envolvendo uma falha que permite a usuários do iPhone ouvir áudio de usuários que não aceitaram uma chamada por vídeo.  O bug permite que um usuário do iPhone faça uma chamada de vídeo por meio do aplicativo FaceTime e ouça os sons ao redor do aparelho do destinatário da chamada mesmo que ele não tenha atendido a ligação. A falha parece estar relacionada ao recurso de chamadas em vídeo em grupo.  Em certas situações, a falha também consegue permitir a transmissão de vídeo e áudio do aparelho do destinatário da chamada, publicou o site de tecnologia Verge.  "Estamos cientes do problema e identificamos uma solução que será liberada na forma de uma atualização de software nesta semana", afirmou um porta-voz da Apple.  O recurso de chamadas em grupo do FaceTime foi temporariamente desativado por causa do problema, informou a Apple.  A companhia norte-americana anunciou o recurso de chamada em grupo no ano passado.

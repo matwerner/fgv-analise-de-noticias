@@ -1,0 +1,11 @@
+Data:
+2019-11-18
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/11/15/os-indestrutiveis-robos-do-mit-capazes-de-dar-saltos-mortais-e-jogar-futebol.ghtml
+
+Título:
+Os 'indestrutíveis' robôs do MIT capazes de dar saltos mortais e jogar futebol
+
+Descrição:
+O laboratório de robótica do Instituto de Tecnologia de Massachussetts (MIT) testou um novo tipo de protótipo no campus da universidade, nos Estados Unidos (veja o vídeo).  São os robôs chamados pelos pesquisadores de mini cheetah (ou mini-guepardo).  Com 9 kg, eles podem dar cambalhota e correr a até 8 km/h – apesar de impressionante para um robô, no entanto, ainda está muito longe da velocidade máxima de um guepardo real, que pode atingir até 120 km/h.  Nove deles foram testados. No futuro, eles vão poder ser usados em situações de emergência. Mas agora, servem para pesquisas – e para divertir pesquisadores e alunos.

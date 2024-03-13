@@ -1,0 +1,11 @@
+Data:
+2020-01-29
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2020/01/27/governo-cobra-explicacoes-da-microsoft-sobre-falha-que-expos-dados-do-suporte-ao-cliente.ghtml
+
+Título:
+Governo cobra explicações da Microsoft sobre falha que expôs dados do suporte ao cliente
+
+Descrição:
+O Ministério da Justiça cobrou explicações da Microsoft sobre uma falha que teria exposto 250 milhões de dados do suporte ao cliente da empresa, incluindo informações como e-mails, endereços de IP, localização e notas internas marcadas como confidenciais.  A própria Microsoft divulgou o caso, na última quarta-feira (22), assegurando que a brecha já tinha sido rapidamente corrigida. A empresa foi avisada do problema no fim do ano por uma companhia especializada em segurança.  A Microsoft acrescentou que "a maioria dos dados não continha informações pessoais". A empresa diz que está estão notificando os clientes que tiveram informações foram expostas, mas que a maior parte estava parcialmente "censurada" (não visível), segundo o padrão da empresa para armazenamento.  A Secretaria Nacional do Consumidor, vinculada ao ministério, perguntou à companhia se clientes do Brasil foram afetados e se essas pessoas foram avisadas. Além disso, quer saber se os dados expostos foram acessados de fato.  Procurada pelo G1, a Microsoft não comentou a notificação do ministério.

@@ -1,0 +1,11 @@
+Data:
+2019-02-16
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/noticia/2019/02/15/sites-confirmam-invasoes-apos-dados-de-milhoes-de-usuarios-serem-vendidos-por-hackers.ghtml
+
+Título:
+Sites confirmam invasões após dados de milhões de usuários serem vendidos por hackers
+
+Descrição:
+Após o site britânico The Register revelar a existência de um pacote com 620 milhões de credenciais (nomes de usuário e senhas) à venda no submundo da web, outros sites citados pela publicação agora confirmam que sofreram a invasão de hackers e que dados de usuários foram acessados.  Inicialmente, dos 16 serviços envolvidos, cinco deles - MyHeritage, Animoto, MyFitnessPal, Dubsmash e 500px – confirmaram a existência de algum vazamento ou já haviam comunicado invasões em 2018 que aparentemente correspondem ao pacote ofertado pelos hackers.  Agora, outros 5 – EyeEm, 8fit, Artsy, CoffeeMeetsBagel e DataCamp – entraram para a lista de sites que confirmaram ser vítimas de ataques. Juntos, eles tiveram 51,2 milhões de credenciais vazadas no pacote encontrado pelo The Register.  Armor Games, Bookmate, Fotolog, HauteLook, ShareThis e Whitepages ainda não publicaram nenhum comunicado.  Destes que ainda não se pronunciaram, o maior pacote roubado (41 milhões de credenciais) pertenceria ao ShareThis, seguido por HauteLook (28 milhõe), Whitepages (17 milhões) e Fotolog (16 milhões). O menor é o de Armor Games, com 11 milhões de registros.  As senhas presentes nos pacotes estão cifradas com a tecnologia de "hashing", que garante alguma proteção à senha. Embora seja um procedimento longo, os invasores ainda podem conseguir, com muitos recursos de processamento e tempo, transformar essas senhas de volta para o seu formato legível.  Por isso, os sites que comunicaram seus usuários sobre o problema já invalidaram as senhas anteriores e iniciaram um recadastramento das senhas de todas as contas. Caso a senha tenha sido repetida em algum outro site ou serviço, ela deverá ser trocada também nesses locais.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

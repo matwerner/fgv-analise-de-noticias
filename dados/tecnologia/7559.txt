@@ -1,0 +1,11 @@
+Data:
+2020-01-23
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2020/01/22/modo-escuro-no-whatsapp-ja-esta-disponivel-para-os-usuarios-de-versao-beta.ghtml
+
+Título:
+Modo escuro no WhatsApp já está disponível para os usuários de versão beta
+
+Descrição:
+O WhatsApp liberou nesta quarta-feira (22) uma atualização contendo uma das funcionalidades mais aguardadas para o aplicativo. Os usuários de dispositivos com o Android e que estavam inscritos previamente no programa de testes, já podem baixar a versão 2.20.13.  O modo escuro ou modo noturno proporciona mais conforto visual e também ajuda a economizar energia da bateria. Para habilitá-lo, siga os passos descritos abaixo:  Pronto! O WhatsApp teve o seu tema alterado. Para desfazer a configuração basta repetir os passos indicados acima e ativar o modo "Claro".  O visual "dark" ficou atraente e, de fato, proporciona um melhor conforto visual. Ainda é cedo para avaliar o impacto que ocorrerá na economia da bateria, pois isso varia do quanto o aplicativo será usado. Mas vale a pena conferir a novidade e tirar as suas próprias conclusões. Ainda não foi anunciada a data em que todos os usuários terão acesso a nova versão do WhatsApp.

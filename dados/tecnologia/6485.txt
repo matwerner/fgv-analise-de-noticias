@@ -1,0 +1,11 @@
+Data:
+2019-01-09
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/08/intel-trabalha-com-facebook-em-chip-de-inteligencia-artificial-a-ser-lancado-este-ano.ghtml
+
+Título:
+Intel trabalha com Facebook em chip de inteligência artificial a ser lançado este ano
+
+Descrição:
+A Intel está trabalhando com o Facebook em um novo chip de inteligência artificial a ser lançado no segundo semestre deste ano. O anúncio foi feito durante a feira de tecnologia CES, em Las Vegas.  O processador é a aposta da Intel para manter posição no segmento de inteligência artificial que atravessa rápido crescimento, mas a empresa enfrenta competição de chips similares desenvolvidos por Nvidia e Amazon.  O novo chip da Intel ajudará em tarefas chamadas por pesquisadores de "inferência", que é o processo de usar um algoritmo de inteligência artificial em tarefas como inserção automática de tags em fotos.  Os processadores da Intel já dominam o mercado de inferência para aprendizagem de máquina, que analistas da Morningstar acreditam que vai valer US$ 11,8 bilhões até 2021.  Em setembro, a Nvidia lançou seu próprio chip de inferência para competir com a Intel.  Também em novembro, a Amazon disse que criou um chip de inferência. Mas o chip da Amazon não é uma ameaça direta aos negócios da Intel e Nvidia porque a empresa não está vendendo os processadores.  A Amazon optou por vender serviços que usam os chips a seus clientes de computação em nuvem a partir do próximo ano. Se depender de seus próprios processadores, a empresa poderá privar Nvidia e Intel de um grande cliente.  Durante a CES, a Intel também afirmou que a Dell vai usar a próxima geração de processadores da Intel, de 10 nanômetros, em sua linha de notebooks XPS.  Navin Shenoy, diretor de centrais de dados da Intel, reiterou que os novos chips estarão disponíveis até o final deste ano e em centros de processamento de dados no início de 2020.  Também na feira, Amnon Shashua, diretor da unidade direção autônoma de veículos da Intel, a Mobileye, afirmou que a divisão mapeou todas as estradas do Japão por meio de câmeras inseridas em veículos produzidos pela Nissan que estão saindo de fábrica com sistemas da startup.  As rivais da Intel na área, como Alphabet, dona do Google, e Apple, estão recolhendo dados de mapeamento por meio de veículos especiais com câmeras equipadas no teto deles.

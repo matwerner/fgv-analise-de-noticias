@@ -1,0 +1,11 @@
+Data:
+2019-01-29
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/01/28/homem-e-preso-no-reino-unido-acusado-de-roubar-r-43-milhoes-em-criptomoeda.ghtml
+
+Título:
+Homem é preso no Reino Unido acusado de roubar R$ 43 milhões em criptomoeda
+
+Descrição:
+A Europol anunciou a prisão de um homem de 36 anos no Reino Unido, suspeito de roubar 10 milhões de euros (aproximadamente R$ 43 milhões) em valores convertidos da criptomoeda IOTA. Além do roubo, ele terá de responder por lavagem de dinheiro.  O nome e o rosto do acusado não foram revelados. Ele foi preso na cidade de Oxford após autoridades alemãs identificarem sua localização durante uma investigação que estava em curso desde o início de 2018. Em sua residência, a polícia apreendeu eletrônicos, drogas e dinheiro.  O homem é acusado de criar e operar o site "Iotaseed.io". Criado em 2017, o site prometia gerar "sementes aleatórias" para o uso seguro da moeda.  A semente é uma informação utilizada pelo código da moeda para gerar a chave secreta que dá acesso às moedas de cada utilizador. Ela não pode ser compartilhada com outra pessoa. No site, a semente era supostamente gerada a partir da movimentação do mouse do usuário.  Na prática, no entanto, os números gerados eram sequenciais, o que permitia ao homem controlar as moedas das pessoas que utilizaram o site. Segundo a Europol, ele teria roubado pelo menos 85 pessoas de todo o mundo.  A fraude foi revelada ainda em janeiro de 2018, quando especialistas analisaram o código do site Iotaseed.io e perceberam que as chaves geradas não eram aleatórias como o site prometia.  A IOTA é uma criptomoeda criada para a internet das coisas. A ideia é que ela seja usada como moeda de troca entre máquinas para que um sistema ou dispositivo realize determinadas funções.  A moeda estava em seu auge na época da fraude, chegando a valer US$ 5 (cerca de R$ 18) no início de 2018. Hoje, uma moeda IOTA é comercializada a US$ 0,30 (cerca de R$ 1,10).  A IOTA não acompanha um gerador de semente, o que obriga utilizadores a buscar um gerador on-line ou inventar uma semente aleatória por conta própria, conforme orientação dos criadores da moeda.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

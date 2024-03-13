@@ -1,0 +1,13 @@
+Data:
+2016-03-19
+
+URL:
+http://g1.globo.com/economia/noticia/2016/03/inflacao-em-sp-acelera-alta-puxada-por-alimentos-e-roupas.html
+
+Título:
+Inflação em SP acelera alta, puxada por alimentos e roupas
+
+Descrição:
+Alimentação e vestuário ficaram mais caros e pressionaram a inflação medida pelo Índice de Preços ao Consumidor (IPC) de São Paulo subiu 0,94% na segunda prévia de março, após avançar 0,80% na semana anterior, informou a Fundação Instituto de Pesquisas Econômicas (Fipe) nesta sexta-feira (18).
+	A alta dos preços dos alimentos foi de 0,86% para 1,37%; de vestuário, de 0,58% para 0,97%; de despesas de diversas, de 1,26% para 1,55%. Por outro lado, desaceleraram as variações de gastos relativos à habitação (de 0,83% para 0,71%); transportes (de 0,42% para 0,40%); saúde, de 0,89% para 0,65%) e educação (de 0,21% para 0,15%).
+	O IPC-Fipe mede as variações quadrissemanais dos preços às famílias paulistanas com renda mensal entre 1 e 10 salários mínimos.

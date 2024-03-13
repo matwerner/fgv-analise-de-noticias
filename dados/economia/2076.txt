@@ -1,0 +1,65 @@
+Data:
+2016-06-08
+
+URL:
+http://g1.globo.com/economia/noticia/2016/06/inflacao-oficial-fica-em-078-em-maio-diz-ibge.html
+
+Título:
+Inflação oficial volta a ganhar força e fica em 0,78% em maio, diz IBGE
+
+Descrição:
+O Índice de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, voltou a acelerar e atingiu 0,78% em maio, depois de subir 0,61% no mês anterior, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Considerando apenas o mês de maio, esse índice é o maior desde 2008, quando ficou em 0,79%.
+	No ano, de janeiro a maio, o IPCA acumula avanço de 4,05%, acima dos 3,25% registrados até abril e, em 12 meses, de 9,32%, acima dos 9,28% verificados no mês anterior. Em maio de 2015, o índice havia ficado em 0,74%.Previsões
+	A previsão dos economistas do mercado financeiro é que o IPCA feche o ano de 2016 em 7,12%, segundo o boletim Focus. O Banco Central tem informado que buscará trazer a taxa para até 6,5%, que é o teto da meta do governo para a inflação.Preços administrados
+	“Característica deste mês de maio é a volta a pressão dos itens administrados que pressionaram a taxa do mês: água e esgoto, remédio, cigarro e energia elétrica. Então, os [preços] administrados foram ‘estrelas’ em maio”, analisou Eulina Nunes dos Santos, coordenadora de índice de preços do IBGE.
+	A taxa de água e esgoto, integrada ao grupo habitação, foi o item que mais pressionou a taxa de inflação em maio (10,37% de alta), em decorrência principalmente pela variação de 41,9% do item na região metropolitana de São Paulo, com o fim do Programa de Incentivo à Redução do Consumo de Água e o reajuste de 8,4% sobre o valor das tarifas, segundo o IBGE.
+	“Essa pressão [da taxa de água e esgoto sobre a inflação do mês] é uma pressão pontual sim. Foi um fato que aconteceu em São Paulo que fez com que a taxa de água e esgoto se elevasse dessa forma. A gente não consegue [no entanto] isolar o efeito de São Paulo [sobre a taxa da inflação do país]. O que a gente pode dizer é que foi um momento forte em função de uma característica. Se não acontecesse [esse aumento, porém] seria menor a taxa do mês”, ponderou Eulina.
+	De acordo com a coordenadora, a taxa de água e esgoto foi o principal impacto da inflação na região metropolitana de São Paulo.
+	Contudo, para o país, outros itens também exerceram impacto, como a energia elétrica, que teve variação em maio de 2,28%. As pressões foram exercidas pelas regiões metropolitanas de Salvador (11,25%), Recife (11,22%), Fortaleza (6,41%), Belo Horizonte (3,24%), Campo Grande (0,64%) e São Paulo (2,02%).
+	Já os preços dos remédios, que haviam aumentado 6,26% em abril, subiram mais 3,1% em maio. Com isso, nestes dois meses, a alta foi de 9,55%, reflexo do reajuste de 12,5% em vigor desde o dia 1º de abril.
+	“Neste ano, os remédios já aumentaram 10,52%. E isso está muito ligado ao dólar”, diz a coordenadora do IBGE.
+	O cigarro, cuja alta foi a 9,33%, refletiu reajustes entre 3% e 14%, conforme a marca, em vigor desde 1º de maio.Alimentos
+	Segundo o IBGE, no grupo alimentação e bebidas, os preços continuaram a subir (0,78%), embora menos do que em abril (1,09%). Vários produtos tiveram aumentos significativos, a exemplo da batata-inglesa, que ficou 19,12% mais cara de abril para maio e já acumula alta de 50,91% neste ano.
+	“A batata o problema é a geada, a chuva, a qualidade dela fica aguada. Além de diminuir a oferta, a qualidade ficou prejudicada”, explica Eulina.
+	“Os alimentos continuam subindo, mas em relação ao mês anterior eles deram uma certa travada. Nos últimos seis meses, os alimentos ficaram sempre 1% mais caros a cada mês, e nesse mês [maio] ele ficou em 0,78%. Desde novembro é a primeira vez [que o aumento dos alimentos ficou] abaixo de 1%. Mas é importante observar que os preços continuaram a subir”, diz.
+	A coordenadora explicou ainda que o leite também vem apresentando altas por causa da pressão dos custos para a sua produção, o que tem estimulado o abate e, com isso, “a carne não está subindo tanto”.
+	“O milho foi muito prejudicado por problemas climáticos. Alguns fabricantes de ração estão substituindo o milho pelo trigo, que tem o preço forçado. Isso faz uma pressão de custo. Segundo os produtores de leite, os custos estão tão altos que eles continuam no vermelho e muitos têm optado por abater, dado o preço alto para produzir o leite”, afirma a coordenadora.Pressões negativas
+	Eulina Nunes ressaltou ainda que os principais destaques em queda no mês de maio foram os combustíveis, que caíram 2,43%, e as passagens aéreas, que ficaram 8,22% menores.
+	Do lado das quedas, sobressaem ainda os itens: etanol (-9,54%), excursão (-1,28%), hotel (-0,98%), gasolina (-0,85%), gás de botijão (-0,74%) e mobiliário (-0,42%).
+	“As companhias estão colocando que os aviões estão andando muito ociosos, querendo diminuir frota porque o brasileiro está viajando bem menos do que viajava. Viagens a negócio também reduziram. E no caso dos combustíveis, é o etanol. A cana de açúcar está em plena moagem e o preço do etanol está caindo", justifica.Veja a variação de preços de alguns itens em maio:
+	Batata-inglesa: 19,12%
+	Cebola: 10,09%
+	Feijão-mulatinho: 9,85%
+	Feijão-carioca: 7,61%
+	Manteiga: 4,9%
+	Alho: 3,58%
+	Leite longa vida: 3,43%
+	Iogurte: 3,2%
+	Farinha de mandioca: 3,19%
+	Leite condensado: 3,17%
+	Margarina: 2,58%
+	Azeite: 2,4%
+	Linguiça: 2,26%
+	Queijo: 2,12%
+	Sorvete: 2,11%
+	Chocolate em barra e bombom: 1,87%
+	Leite em pó: 1,42%
+	Café moído: 1,38%
+	Macarrão: 1,36%
+	Chocolate e achocolatado em pó: 1,28%
+	Outras bebidas alcoólicas: 1,28%
+	Biscoito: 1,25%
+	Café da manhã: 1,21%
+	Tomate: 1,04%
+	Frango em pedaços: 1%
+	Doces: 0,91%
+	Lanche fora: 0,85%
+	Bolo: 0,8%
+	Arroz: 0,54%
+	Refeição fora: 0,53%
+	Cenoura: -23,08%
+	Ovos: -2,26%
+	Hortaliças: -2,07%
+	Frutas: -1,37%INPC
+	O IBGE também divulgou nesta quarta-feira o Índice Nacional de Preços ao Consumidor (INPC), que avançou mais de abril para maio, passando de 0,64% para 0,98%. Em 12 meses, o índice acumula alta de 9,82%. Em maio de 2015 o INPC ficou em 0,99%.
+	Semelhante ao IPCA, o INPC verifica a variação do custo médio das famílias com rendimento familiar médio entre 1 e 5 salários mínimos. Indica as variações de preços nos grupos mais sensíveis, que gastam todo rendimento em consumo corrente (alimentação, remédio, etc.). O índice abrange 10 regiões metropolitanas do país, além dos municípios de Goiânia, Campo Grande e de Brasília.

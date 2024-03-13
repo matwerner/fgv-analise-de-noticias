@@ -1,0 +1,11 @@
+Data:
+2020-01-26
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2020/01/26/como-criar-respostas-automaticas-personalizadas-no-gmail.ghtml
+
+Título:
+Como criar respostas automáticas personalizadas no Gmail?
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Oi, Ronaldo! Existe alguma maneira de criar respostas automáticas dependendo do assunto da mensagem no Gmail? – Graziela  Olá, Graziela! Sim, o Gmail permite que o usuário crie as suas próprias respostas automáticas, além daquele aviso de "Férias" disponível. Para criar mensagens automáticas que serão enviadas de acordo com uma regra definida previamente, siga os seguintes passos:  Pronto! Após salvar a configuração de envio de mensagens automáticas, todas as mensagens recebidas serão respondidas conforme o modelo personalizado.  Oi, Ronaldo! Eu gostei muito da planilha para o controle de gastos pessoais, você poderia disponibilizá-la? – Joana  Olá, Joana! O modelo da planilha para o controle de gastos pessoais está disponível neste link. O arquivo publicado no Google Drive está disponível apenas para visualização, mas você pode obter uma cópia seguindo os seguintes passos:  Pronto! Agora você tem a sua própria cópia da planilha. Ela só poderá ser acessada pelos usuários que você permitir.

@@ -1,0 +1,19 @@
+Data:
+2015-04-27
+
+URL:
+http://g1.globo.com/economia/noticia/2015/05/preco-da-energia-fica-abaixo-do-teto-em-3-regioes-pela-1-vez-no-ano.html
+
+Título:
+Preço da energia fica abaixo do teto em 3 regiões pela 1ª vez no ano
+
+Descrição:
+O valor da energia elétrica no mercado de curto prazo, dado pelo Preço de Liquidação de Diferenças (PLD), ficou abaixo do teto nas regiões Sudeste, Sul e Nordeste pela primeira vez no ano, informou nesta sexta-feira (29) a Câmara de Comercialização de Energia Elétrica (CCEE), mas as chamadas bandeiras tarifárias continuarão vermelhas em junho, indicando ainda custos elevados na geração.
+	Segundo a CCEE, o PLD para a próxima semana foi fixado em uma média de R$ 370,41 por megawatt-hora (MWh) em todos os submercados do país, abaixo do teto de R$ 388,48.
+	Um fator que pesou para a redução no PLD foi o armazenamento nos reservatórios das hidrelétricas, equivalente a 1,3 mil MW médios acima do previsto em todo o sistema.
+	Apesar disso, a Agência Nacional de Energia Elétrica (Aneel) anunciou nesta sexta-feira a manutenção das bandeiras tarifárias vermelhas para o mês de junho, que indicam custo maiores na geração e levam a um acréscimo, nas contas dos consumidores, de R$ 5,50 para cada 100 quilowatts-hora utilizados.
+	A demanda por eletricidade no Sistema Interligado Nacional (SIN) deve subir apenas 0,3% em junho ante mesmo mês de 2014, puxada pela alta de 6,5% no Nordeste, estimou nesta sexta-feira relatório do Operador Nacional do Sistema (ONS).
+	Enquanto a carga no Nordeste deve subir 6,5%, a do Sudeste/Centro-Oeste, principal consumidora de energia do país, deve ver recuo de 1,6%, segundo o relatório Informe do Programa Mensal de Operação, divulgado semanalmente.
+	Para a região Sul, a expectativa é de estabilidade para junho, enquanto para o Norte espera-se alta de 2,9%.
+	Além disso, o ONS espera que as chuvas que chegarão às represas de hidrelétricas do Sudeste em junho fiquem dentro de 90% da média histórica. Isso deve ajudar, junto com a perspectiva de queda na demanda por energia, a elevar o nível operativo dos reservatórios das usinas da região para 36,7% no fim do mês, ante 35,8% na véspera.
+	Mas para o Nordeste, a expectativa para as afluências é de 57%, com as represas das usinas da região devendo exibir no final do mês que vem nível operativo de 24,6% abaixo dos 27% da véspera.

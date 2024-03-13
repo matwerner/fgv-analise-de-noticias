@@ -1,0 +1,11 @@
+Data:
+2019-03-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/03/28/governo-americano-processa-facebook-por-discriminacao-racial-em-anuncios-de-moradia.ghtml
+
+Título:
+Governo americano processa Facebook por discriminação racial em anúncios de moradia
+
+Descrição:
+O Departamento de Habitação e Desenvolvimento Urbano dos Estados Unidos (HUD, na sigla em inglês) processou o Facebook nesta quinta-feira (28) de violar o Fair Housing Act (Ato de Habitação Justa, em tradução livre) alegando que a publicidade direcionada da empresa é discriminatória com base em raça e cor.  O HUD afirma que o Facebook restringe quem pode ver anúncios relacionados a moradia com base na origem nacional, religião, status familiar, sexo e deficiência. No processo, o departamento diz que a empresa usa seu processo de filtragem de dados para determinar quem pode ver um anúncio com nesses aspectos.  O Facebook diz que ficou surpreso com a decisão e vem trabalhando com o departamento para resolver suas preocupações, tomando medidas significativas para impedir a discriminação em anúncios em suas plataformas.  "O Facebook está discriminando as pessoas com base em quem são e onde vivem", disse o secretário do HUD, Ben Carson. "Usar um computador para limitar as escolhas de moradia de uma pessoa pode ser tão discriminatório quanto bater uma porta na cara de alguém".  O Fair Housing Act proíbe a discriminação em moradia e serviços relacionados, incluindo anúncios online, com base em raça, cor, nacionalidade, religião, sexo, deficiência ou status familiar.  A rede social disse na semana passada que criaria um novo portal de publicidade para anúncios ligados a moradia e emprego que limitaria as opções de segmentação para os anunciantes.

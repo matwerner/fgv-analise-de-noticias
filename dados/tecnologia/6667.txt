@@ -1,0 +1,11 @@
+Data:
+2019-08-11
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/08/09/huawei-anuncia-o-proprio-sistema-operacional-chamado-de-harmonyos.ghtml
+
+Título:
+Huawei anuncia o próprio sistema operacional, chamado de HarmonyOS
+
+Descrição:
+A Huawei anunciou oficialmente nesta sexta-feira (9) o sistema operacional HarmonyOS, que a empresa estava desenvolvendo para substituir o Android em seus aparelhos. Na China, a interface será chamada de Hongmeng.  De acordo com a fabricante, o HarmonyOS, que será de código aberto, vai funcionar em diferentes tipos de dispositivos, de celulares a carros, acessórios inteligentes e assistentes de voz residenciais. O sistema operacional deve ser lançado para terminais de veículos e acessórios até o final deste ano e ser expandido para outros aparelhos nos próximos 3 anos.  A empresa também anunciou a nova versão do sistema baseado em Android EMUI10, que é feito para funcionar nos telefones e tablets da Huawei enquanto acontece a transição para o HarmonyOS. De acordo com Richard Yu, diretor da divisão de negócios para consumidor da Huawei, a empresa pode começar a usar o HarmonyOS em smartphones "a qualquer momento", mas por enquanto está dando prioridade para o Android.  O anúncio acontece em meio a entraves que a empresa chinesa enfrenta com o governo norte-americano. Em maio, a administração de Donald Trump incluiu a Huawei em uma lista de companhias que não poderiam fazer negócios com empresas americanas.  Por causa disso, o Google cortou laços com a Huawei e as atualizações do Android nos celulares da chinesa ficaram rodeadas de incerteza.  Além do sistema operacional, a Huawei já fabrica alguns componentes para seus celulares, como os processadores Kirin. A empresa é a segunda maior vendedora de smartphones do mundo e lidera o setor de equipamentos de telecomunicação.  Em pronunciamento, Yu disse que o sistema é "completamente diferente do Android e do iOS" porque tem a habilidade de escalar os aplicativos para diferentes aparelhos. "É possível desenvolver o aplicativo uma vez e então, de maneira flexível, expandi-lo para diferentes devices", disse.

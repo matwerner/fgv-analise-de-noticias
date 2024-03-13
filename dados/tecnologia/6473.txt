@@ -1,0 +1,11 @@
+Data:
+2019-01-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2018/12/31/blockchain-tecnologia-que-ira-revolucionar-a-integracao-de-dados-distribuidos-globalmente-sera-destaque-em-2019.ghtml
+
+Título:
+Blockchain: tecnologia que irá revolucionar a integração de dados distribuídos globalmente será destaque em 2019
+
+Descrição:
+O blockchain ganhou notoriedade devido a popularização do Bitcoin, porém essa tecnologia não serve apenas como o "livro caixa" virtual para registrar operações envolvendo criptomoedas. O potencial da tecnologia abrange diversas áreas sem qualquer relação com transações financeiras, e por esse motivo é a minha aposta para 2019. Mas por que o blockchain é tão importante?  É uma tecnologia que é vista por especialistas como sendo uma das mais revolucionárias para resolver problemas computacionais que envolvem um grande volume de dados espalhados pelo mundo.  A indústria é um dos segmentos que mais poderão se beneficiar do blockchain, principalmente em projetos envolvendo a cadeia de distribuição de suprimentos e logística. A saúde, um ramo completamente distante dos meios de pagamentos digitais, é uma área que poderá atingir um avanço expressivo, devido à versatilidade de confiabilidade do blockchain. Através dessa tecnologia, será possível desenvolver sistemas seguros para o gerenciamento de prontuários médicos, compartilhamento de pesquisas e o monitoramento de doenças infecciosas. Já existe um programa que combina o blockchain com inteligência artificial (IA), para coletar dados de nível molecular, e realizar uma análise profunda para auxiliar em descobertas médicas.  O Spotify utiliza o blockchain para simplificar o gerenciamento de licenças de direitos autorais espalhadas globalmente; esse mecanismo favorece diretamente os produtores musicais na monetização das suas músicas.  As instituições financeiras também estão atentas ao potencial do blockchain, e não necessariamente para a criação de mais uma moeda virtual, mas como um aprimoramento a segurança dos sistemas bancários atuais. A utilização do blockchain ainda é pequena, dificilmente será identificada pelos usuários, mas certamente receberá uma atenção especial devido ao seu enorme potencial.

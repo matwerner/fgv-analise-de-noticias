@@ -1,0 +1,23 @@
+Data:
+2016-04-06
+
+URL:
+http://g1.globo.com/economia/noticia/2016/04/inflacao-da-baixa-renda-perde-forca-em-marco.html
+
+Título:
+Tarifa de ônibus sobe menos, e inflação da baixa renda perde força
+
+Descrição:
+O Índice de Preços ao Consumidor - Classe 1 (IPC-C1), também conhecido como inflação da baixa renda, desacelerou em março, passando de 0,73% em fevereiro, para 0,44% em março. No ano, o indicador acumula alta de 3,10% e, em 12 meses, de 9,99%.
+	Neste mês, contribuíram para a queda os preços de ônibus urbano, energia elétrica, artigos de higiene pessoal e cigarro.
+	A taxa para a baixa renda ficou acima da registrada para o conjunto da população, calculada pelo Índice de Preços ao Consumidor – Brasil (IPC-BR), que atingiu 0,50% em março e 9,37%, nos últimos 12 meses.
+	Dos oito grupos de despesa usados no cálculo do IPC-C1, metade mostrou taxas menores de fevereiro para março: transportes (de 1,55% para 0,19%), habitação (de 0,08% para -0,43%), saúde e cuidados pessoais (de 0,58% para 0,36%) e despesas diversas (de 1,84% para 0,97%).
+	Na contramão, subiram mais os preços de alimentação (de 1,01% para 1,21%), educação, leitura e recreação (de 0,38% para 0,42%), vestuário (de 0,31% para 0,37%) e comunicação (de 0,66% para 0,69%).Veja a variação de preços de alguns itens:
+	Tarifa de ônibus urbano (de 1,82% para 0,06%)
+	Tarifa de eletricidade residencial (de -2,33% para -4,09%)
+	Artigos de higiene e cuidado pessoal (de 0,93% para 0,27%)
+	Cigarros (de 3,02% para 1,27%)
+	Laticínios (de 0,85% para 2,89%)
+	Hotel (de -1,97% para -0,21%),
+	Roupas (de 0,21% para 0,50%)
+	Tarifa de telefone móvel (de 1,07% para 1,45%)

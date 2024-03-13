@@ -1,0 +1,17 @@
+Data:
+2016-06-08
+
+URL:
+http://g1.globo.com/economia/noticia/2016/06/custo-da-construcao-sobe-083-em-maio-diz-ibge.html
+
+Título:
+Custo da construção sobe 0,83% em maio, diz IBGE
+
+Descrição:
+O custo nacional da construção subiu 0,83% em maio em relação a abril, segundo o Índice Nacional da Construção Civil (Sinapi), divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) nesta quarta-feira (8). Nos últimos 12 meses, o aumento foi de 6,68%, inferior aos 7,14% registrados anteriormente.
+	Em abril, o índice tinha registrado uma alta mensal mais elevada, de 0,46%.
+	O custo nacional da construção por metro quadrado aumentou em maio, chegando a R$ 997,60, sendo R$ 527,68 para os materiais e R$ 469,92 relativos à mão de obra. Em abril, o valor foi menor, de R$ 989,37.
+	O preço dos materiais de construção teve alta de 0,17% em maio, ficando 0,10 ponto percentual abaixo da taxa de abril (0,27%). Já a parcela da mão de obra, apresentou crescimento de 1,58%, também maior do que a taxa de março, de 0,69%.
+	De janeiro a maio, o aymento foi de 2,25% para os materiais e de 5,03% na mão de obra. No acumulado de 12 meses, as variações foram de 4,50% em materiais e 9,22% em mão de obra.Por regiões
+	A região Sudeste teve a maior variação regional em maio, com alta de 1,67%. As demais regiões apresentaram os seguintes resultados: 0,29% (Norte), 0,28% (Nordeste), 0,11% (Sul) e 0,56% (Centro-Oeste).
+	Os custos regionais por metro quadrado foram de R$ 1.013,78 (Norte); R$ 926,82 (Nordeste); R$ 1.044,07 (Sudeste); R$ 1.021,76 (Sul) e R$ 998,86 (Centro-Oeste).

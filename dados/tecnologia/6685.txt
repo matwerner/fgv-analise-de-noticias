@@ -1,0 +1,11 @@
+Data:
+2019-09-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/08/30/jack-dorsey-presidente-do-twitter-tem-conta-no-twitter-hackeada.ghtml
+
+Título:
+Jack Dorsey, presidente do Twitter, tem conta no Twitter hackeada
+
+Descrição:
+A conta oficial do presidente do Twitter, Jack Dorsey (@jack), foi hackeada nesta sexta-feira (30). Segundo a empresa, que informou pouco depois do ocorrido estar ciente do caso, a conta já está segura e não há qualquer indicação de que o sistema da rede social tenha sido comprometido.  Por volta das 17h, o perfil começou a fazer postagens estranhas — algumas com ofensas raciais ou antissemitas. Outras remetiam a um grupo de pessoas, cujos apelidos foram citados na primeira postagem da invasão. Em um determinado tuíte, os invasores mencionaram algumas contas que haviam sido suspensas e ordenou o restabelecimento dos perfis.  O grupo que invadiu o perfil de Dorsey chegou a compartilhar um link para uma discussão na plataforma de conversas Discord, com uma hashtag que tentou viralizar. O perfil tem 4,2 milhões de seguidores.  Na semana passada, o mesmo grupo teria invadido as contas dos youtubers James Charles e Shane Dawson.  Ainda não está claro quais métodos foram usados pelos invasores para obter acesso à conta. O Twitter disse que está investigando o que aconteceu.

@@ -1,0 +1,48 @@
+Data:
+2016-07-09
+
+URL:
+http://g1.globo.com/economia/noticia/2016/07/inflacao-oficial-fica-em-035-em-junho.html
+
+Título:
+Inflação oficial perde força e fica em 0,35% em junho
+
+Descrição:
+O Índice de Preços ao Consumidor Amplo (IPCA), considerado a inflação oficial do país, voltou a perder força e atingiu 0,35% em junho, a menor taxa desde agosto de 2015. No mês anterior, o IPCA havia chegado a 0,78%, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE).
+	No ano, o índice acumula avanço de 4,42%. Em 12 meses, o índicador sobe 8,84% - ficando abaixo de 9% pela primeira vez desde junho de 2015.
+	Todos os grupos de despesa que entram no cálculo do IPCA mostraram taxas menores de maio para junho. Apenas os itens relativos a comunicação registraram avanço, mas leve, de 0,04%.
+	Apesar de os preços dos alimentos e bebidas terem subido menos de maio para junho, esse grupo de gastos foi o que mais pesou sobre a inflação geral percebida pelo consumidor brasileiro no mês passado. Ficaram mais caros, principalmente, o feijão-carioca - o novo vilão da inflação - e o leite longa vida. Na contramão, no entanto, caíram os preços da cenoura e da cebola, que vinham subindo nos últimos meses. (Veja, no final do texto, a variação de preços de mais itens)
+	A alta menor registrada pela taxa de água e esgosto também contribuíram com a inflação mais baixa em junho. De 10,37%, a alta desse serviço passou para 2,64%. Também subiram menos as roupas, de 1,88% para 0,85%, produtos farmacêuticos, de 3,10% para 0,65%, e cigarro, de 9,33% para 0,61%.
+	Sobre os índices regionais, o maior foi registrado na região metropolitana de Belo Horizonte, 0,66%, e o menor, em Porto Alegre, com queda de 0,02%.INPC
+	O IBGE também divulgou o Índice Nacional de Preços ao Consumidor (INPC), que variou 0,47%, depois de avançar 0,98% em maio. No ano, o índice acumula alta de 5,09% e, em 12 meses, de 9,49%. Em junho de 2015, o INPC ficou em 0,77%.Previsão do mercado
+	A previsão do mercado financeiro para o IPCA deste ano é de 7,27%, segundo o boletim do Banco Central mais recente. A estimativa permanece acima do teto de 6,5% do sistema de metas e bem distante do objetivo central de 4,5% fixado para 2016.Variação de preços, em junho e no ano
+	Feijão-carioca: 41,78% e 89,26%
+	Feijão-mulatinho: 34,15% e 84,38%
+	Leite longa vida: 10,16% e 26,70%
+	Feijão-preto: 9,80% e 30,44%
+	Feijão-fradinho: 9,32% e 23,68%
+	Manteiga: 6,36% e 43,82%
+	Chocolate em barra e bombom: 5,20 e 15,03%
+	Fubá de milho: 4,92% e 17,16%
+	Alho: 3,54 e 36,14%
+	Leite em pó: 2,60% e 6,72%
+	Café moído: 2,58% e 10,05%
+	Ovos: 2,45% e 11,24%
+	Tempero misto: 2,21 e 7,12%
+	Batata-inglesa: 2,08 e 54,06%
+	Arroz: 2% e 6,15%
+	Queijo: 1,85% e 6,10%
+	Sorvete: 1,59 e 7,40%
+	Farinha de mandioca 1,42% e 35,37%
+	Chocolate e achocolatado em pó: 1,41% e 9,20%
+	Lanche fora: 1,26% e 6,14%
+	Açúcar cristal 1,10% e 13,94%
+	Carnes industrializadas: 0,98% e 3,50%
+	Pão doce: 0,97% e 6,13%
+	Outras bebidas alcoólicas: 0,94% e 5,41%
+	Iogurte: 0,87% e 9,20%
+	Suco de frutas: 0,87% e 4,45%
+	Biscoito: 0,80% e 5,38%
+	Macarrão: 0,71 e 5,84%
+	Refeição fora: 0,69% e 4,39%
+	Refrigerante: 0,54% e  5,41%

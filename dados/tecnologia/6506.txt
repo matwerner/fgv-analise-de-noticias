@@ -1,0 +1,11 @@
+Data:
+2019-01-21
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/21/franca-multa-google-em-50-milhoes-de-euros-por-violacao-de-lei-de-privacidade-na-ue.ghtml
+
+Título:
+França multa Google em 50 milhões de euros por violação de lei de privacidade na UE
+
+Descrição:
+A agência de proteção de dados da França multou o Google nesta segunda-feira (21) em 50 milhões de euros (cerca de R$ 213 milhões) por violação de regras de privacidade da União Europeia.  É a maior penalidade do tipo imposta contra uma companhia de tecnologia dos Estados Unidos, relata a agência Reuters.  O regulador francês afirmou que o Google não é transparente e claro na maneira como informa usuários sobre como dados pessoais são coletados em seus serviços, incluindo o YouTube, o Mapas e o mecanismo de busca, para apresentação de anúncios publicitários personalizados.  A Regulação sobre Proteção Geral de Dados (GDPR) da UE, a maior reforma em leis de privacidade de dados em mais de duas décadas, entrou em vigor em maio do ano passado.  Ela permite aos usuários um melhor controle sobre seus dados pessoais e dá às autoridades o poder de impor multas de até 4% da receita global em caso de violações.  "O montante decidido e a publicidade da multa são justificados pela gravidade das infrações observadas", disse a agência francesa.  O Google afirmou que está "profundamente comprometido em cumprir as exigências de consentimento da GDPR".  Em 2012, o Google foi multado nos EUA em US$ 22,5 milhões, também por invasão de privacidade.  Em outubro passado, pelo mesmo motivo, o Facebook recebeu uma multa simbólica de 500 mil libras (US$ 644 mil) no Reino Unido, pelo caso da Cambridge Analytica.  Dois meses depois, a rede social também foi multada na Itália, em 10 milhões de euros, por venda de dados de usuários.

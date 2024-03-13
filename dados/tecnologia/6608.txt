@@ -1,0 +1,11 @@
+Data:
+2019-05-26
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/05/24/anatel-aprova-frequencias-que-servirao-para-5g-no-brasil.ghtml
+
+Título:
+Anatel aprova frequências que servirão para 5G no Brasil
+
+Descrição:
+A Anatel deliberou nesta quinta-feira (23) o destino e a regulamentação sobre o uso das faixas de 2,3 GHz e 3,5GHz, que serão usadas para a internet móvel de quinta geração, o 5G.  Segundo a Anatel, a faixa de 2,3 GHz é um importante para alinhamento com sistemas mundiais do tipo IMT (sigla em inglês para Telecomunicações Móveis Internacionais), enquanto que a faixa de 3,5 GHz é tida por muitos como a porta de entrada para as redes de altíssima velocidade da quinta geração de telefonia.  “A aprovação dessas duas matérias é um passo importante para o processo licitatório no qual temos trabalhado, para que seja contemplado o interesse nacional”, destacou em nota o presidente da Anatel, Leonardo de Morais.  O próximo passo é determinar um relator para o edital que será aberto para o leilão das redes no ano que vem. Depois, o edital irá para uma consulta pública.  Segundo a Anatel, a destinação das frequências levou em consideração blocos, arranjos, distribuição geográfica e contrapartidas a serem exigidas dos vencedores da futura licitação, até possíveis medidas preventivas e corretivas para mitigar eventuais interferências prejudiciais entre os sistemas de radiocomunicação.

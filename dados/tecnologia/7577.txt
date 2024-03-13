@@ -1,0 +1,11 @@
+Data:
+2020-02-01
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2020/01/31/whatsapp-os-celulares-em-que-o-app-nao-funcionara-mais-a-partir-de-fevereiro.ghtml
+
+Título:
+WhatsApp: os celulares em que o app não funcionará mais a partir de fevereiro
+
+Descrição:
+O aplicativo de mensagens WhatsApp deixará de funcionar em milhões de smartphones a partir de 1º de fevereiro.  Os dispositivos Android e iPhone que suportam apenas sistemas operacionais desatualizados não poderão mais executar o app, de propriedade do Facebook.  O WhatsApp disse que a medida é necessária para proteger a segurança de seus usuários.  Os smartphones com Android 2.3.7 e versões mais antigas e iPhone iOS 8 ou versões mais antigas serão os afetados pela atualização.  Os sistemas operacionais para os quais o WhatsApp está descartando o suporte são sistemas operacionais herdados, que não são mais atualizados ou instalados em novos dispositivos.  A maioria dos usuários simplesmente pode atualizar seus sistemas operacionais para continuar usando o serviço de mensagens.  "O WhatsApp claramente não tinha alternativa a não ser garantir a segurança de seu serviço, mas enfrenta o difícil efeito colateral de o aplicativo não ser mais compatível com smartphones mais antigos", diz Ben Wood, analista da consultoria CCS Insight.  "É provável que isso tenha um impacto numa parte de seus usuários, principalmente nos mercados emergentes, onde há uma alta proporção de dispositivos mais antigos."  O WhatsApp, que foi o quarto aplicativo mais baixado da década, alertou os usuários pela primeira vez que essas mudanças aconteceriam em 2017.  "Foi uma decisão difícil para nós, mas a decisão certa", disse um porta-voz da empresa.  É a mais recente de uma série de decisões desse tipo — como quando o aplicativo de mensagens, por exemplo, retirou o suporte para vários dispositivos em 2016 e, mais tarde, também de todos os telefones Windows em 31 de dezembro de 2019.  Se você usa Android, acesse o menu "Configurações" de seu aparelho e procure a seção "Sobre o dispositivo" e depois "Info.software", onde encontrará a versão do sistema operacional que está instalada.  Se tiver um iPhone, procure a opção "Geral" no menu "Ajustes" e clique em "Sobre" para verificar sua versão do iOS.  Você pode tentar atualizar o sistema, embora isso não seja possível em todos os casos.

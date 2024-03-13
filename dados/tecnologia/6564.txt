@@ -1,0 +1,11 @@
+Data:
+2019-03-15
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/03/14/facebook-instagram-e-whatsapp-voltam-ao-normal-apos-apresentarem-instabilidade.ghtml
+
+Título:
+Facebook, Instagram e WhatsApp voltam ao normal após apresentarem instabilidade
+
+Descrição:
+O Facebook, Instagram e WhatsApp voltaram ao normal nesta quinta-feira (14), após apresentarem instabilidade no Brasil e outros países desde o início da tarde desta quarta-feira (13). Todos esses apps pertencem ao Facebook.  Segundo o site especializado downdetector.com, os relatos de falha do serviço começaram a diminuir durante a madrugada.  É #FAKE que Facebook, Instagram e WhatsApp foram bloqueados por tempo indeterminado em razão de ataque em Suzano  Após a volta dos serviços, a empresa ainda não comentou o que causou o problema. Perto das 16h da quarta-feira, em seu perfil no Twitter, o Facebook afirmou que estava "focado em resolver a questão" e que o problema não está relacionado a um ataque de negação de serviço (DDoS), que é um acesso coordenado, em massa, que visa derrubar um site.  Mais cedo, a empresa já tinha admitido que a "instabilidade temporária" ocorria em toda a família de aplicativos do Facebook.  Usuários relataram dificuldades para postar conteúdos nos perfis do Facebook e do Instagram. As tentativas resultam em uma mensagem de problema para atualizar o status.  Alguns também afirmam que não conseguiram sequer logar nessas redes sociais. Outros reclamaram que não é possível enviar fotos ou áudios no Whatsapp.  Hashtags #FacebookDown , #instagramdown e #WhatsApp estavam entre os trending topics do Twitter no Brasil e do mundo durante a tarde desta quinta.  Segundo o downdetector.com, os relatos atingiram o pico entre as 13h e as 22h e e os problemas eram mais perceptíveis na América do Norte e na Europa.

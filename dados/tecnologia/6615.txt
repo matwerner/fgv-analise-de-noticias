@@ -1,0 +1,11 @@
+Data:
+2019-06-01
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/06/01/juiz-dos-eua-nega-pedido-do-arquivamento-de-acao-pelo-facebook.ghtml
+
+Título:
+Juiz dos EUA nega pedido do arquivamento de ação pelo Facebook
+
+Descrição:
+Um juiz norte-americano negou na sexta-feira (31) o pedido do Facebook para arquivar uma ação do procurador-geral de Washington envolvendo o compartilhamento indevido da gigante de mídias sociais dos dados de 87 milhões de usuários com a empresa de consultoria política britânica Cambridge Analytica.  O governo de Washington processou o Facebook em dezembro, acusando a empresa de enganar seus usuários por saber sobre a falha por dois anos antes de divulgá-la e permitiu que criadores de aplicativos terceiros acessassem informações dos usuários sem o seu consentimento.  O juiz Fern Flanagan Saddler assinou a ordem negando a moção do Facebook para descartar, ou alternativamente, suspender os procedimentos, disse a corte em breve comunicado divulgado em seu site.  Foi o segundo golpe legal sofrido pela maior rede social do mundo na sexta-feira, após um juiz em Delaware ordenar que a empresa entregasse a seus acionistas e-mails e outros registros sobre a manipulação da privacidade de dados, também relacionados ao escândalo da Cambridge Analytica.  O Facebook não respondeu imediatamente ao pedido da Reuters para comentar a decisão.  A Cambridge Analytica, contratada pela campanha de 2016 do presidente norte-americano Donald Trump, usou um quiz de personalidade distribuído no Facebook para reunir informações de perfis para prever e influenciar o comportamento dos votos.  Ela fechou após a falha ser divulgada. Diversas investigações regulatórias dos EUA e da Europa sobre o Facebook ocorreram, incluindo investigações por parte de diversos procuradores-gerais de diferentes estados.  A corte de Washington pode conceder danos não especificados e impor uma penalidade civil de até US$ 5 mil para cada violação da lei de proteção ao consumidor do distrito, ou potencialmente perto de US$ 1,7 bilhão, caso seja penalizada por cada consumidor afetado.  O processo alega que a empresa de software do quiz possuía dados sobre 340 mil residentes da capital federal, ainda que apenas 852 usuários tenham interagido diretamente com ele.

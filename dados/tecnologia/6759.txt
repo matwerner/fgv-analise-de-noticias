@@ -1,0 +1,11 @@
+Data:
+2019-12-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/12/02/facebook-permitira-transferencia-de-fotos-e-videos-para-google-fotos.ghtml
+
+Título:
+Facebook permitirá transferência de fotos e vídeos para Google Fotos
+
+Descrição:
+O Facebook anunciou nesta segunda-feira que introduziu uma opção para transferir fotos e vídeos da rede social diretamente para outros serviços, começando com o Google Fotos.  A opção estará disponível, inicialmente, para usuários na Irlanda. O lançamento mundial é previsto para o 1º semestre de 2020.  Todas as transferências de dados serão criptografadas e os usuários receberão uma senha antes que a transferência seja iniciada, informou a empresa.  O Facebook disse em setembro que apoia a portabilidade de dados e planeja criar novas ferramentas em torno disso.  Os senadores dos Estados Unidos Josh Hawley, Mark Warner e Richard Blumenthal apresentaram um projeto no final de outubro que exige que plataformas de comunicação com mais de 100 milhões de membros ativos mensais permitam que seus usuários movam ou transfiram seus dados com facilidade para outras redes.

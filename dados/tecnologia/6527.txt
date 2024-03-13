@@ -1,0 +1,11 @@
+Data:
+2019-01-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/29/gmail-fica-fora-do-ar-relatam-usuarios-no-brasil.ghtml
+
+Título:
+Gmail fica fora do ar, relatam usuários no Brasil
+
+Descrição:
+Usuários do Gmail, do Google, relataram na manhã desta terça-feira (29) problemas de instabilidade para acessar o serviço de e-mail. Muitos usuários no Brasil e em outros locais do mundo usaram o Twitter para reportar o "erro 404" ao tentar entrar no sistema.  O site Downdetector, que verifica problemas de acesso a diversos sites, mostrou um pico de aviso de problemas no Gmail a partir das 9h (horário de Brasília). Além do Brasil, a Europa foi um dos pontos com mais relatos de falha de acesso.  O Google confirmou que o problema afetou usuários em vários países. Às 18h59, a empresa disse ao G1 de que o problema foi resolvido. "Pedimos desculpas pelo inconveniente e agradecemos pela paciência e apoio dos usuários", disse a empresa em nota, reforçando que a confiabilidade é uma de suas prioridades.  Veja as reclamações de usuários:

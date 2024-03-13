@@ -1,0 +1,11 @@
+Data:
+2019-06-14
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/06/13/fundador-do-telegram-atribui-instabilidade-no-app-a-ataques-vindos-da-china.ghtml
+
+Título:
+Fundador do Telegram atribui instabilidade no app a ataques vindos da China
+
+Descrição:
+O fundador do Telegram, Pavel Durov, atribuiu a instabilidade registrada no aplicativo de mensagens na última quarta-feira (12) à China. Em uma publicação no Twitter, ele relacionou os ataques aos protestos realizados em Hong Kong.  Questionado sobre a origem dos ataques DDoS registrados, Durov apontou que foram identificados IPs "principalmente da China", coincidindo com o acontecimento das manifestações. "Este caso não foi uma exceção", escreveu.  A população de Hong Kong tomou as ruas na última quarta-feira em protesto contra a lei que autoriza que pessoas sejam extraditadas para a China continental para serem julgadas. As manifestações são organizadas via aplicativos com mensagens criptografadas, como o Telegram.  Por isso, a declaração de Durov aponta para a possibilidade de o governo chinês estar tentando interromper o serviço para limitar a organização dos manifestantes - que também utilizam de máscaras para burlarem sistemas de reconhecimento facial.

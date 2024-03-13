@@ -1,0 +1,11 @@
+Data:
+2019-03-15
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/03/13/aprenda-a-gravar-um-video-da-tela-do-pc-usando-o-google-chrome.ghtml
+
+Título:
+Aprenda a gravar um vídeo da tela do PC usando o Google Chrome
+
+Descrição:
+O Windows oferece a funcionalidade de capturar a tela do PC e salvá-la como se fosse uma foto. Mas, quando é necessário gravar um vídeo da tela, essa tarefa pode parecer complicada, e, em alguns casos, os usuários utilizam o celular para fazer o registro.  Dependendo do propósito da captura, a perda de qualidade pode até não ser um problema. Mas que tal gravar vídeos da tela do PC usando o navegador de internet?  Saiba abaixo como usar o navegador de internet para gravar a tela do PC e também vídeos da webcam e áudio do microfone.  O primeiro passo é baixar o Loom - Video Recorder, uma extensão para o Google Chrome que permite integrar a captura de telas com um serviço de armazenamento de arquivos na nuvem.  Após instalada, é adicionado um atalho na barra de ferramentas do navegador.  O serviço de armazenamento do Loom é protegido por senha e mantém salvas as gravações no perfil do usuário.  Para gravar um vídeo da tela do PC, siga os passos abaixo:  O tempo de gravação é ilimitado. Ela pode ser interrompida e retomada conforme a necessidade do usuário. A captura do áudio do microfone pode ser desabilitada.  Depois de concluída a gravação, é só compartilhar o link ou salvar o arquivo no formato mp4.

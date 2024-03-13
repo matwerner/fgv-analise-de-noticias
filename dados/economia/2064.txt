@@ -1,0 +1,15 @@
+Data:
+2016-05-13
+
+URL:
+http://g1.globo.com/economia/noticia/2016/05/inflacao-do-aluguel-avanca-no-inicio-de-maio-diz-fgv.html
+
+Título:
+Inflação do aluguel avança no início de maio, diz FGV
+
+Descrição:
+O Índice Geral de Preços - Mercado (IGP-M), conhecido como a inflação do aluguel porque é usado para reajustar a maioria dos contratos imobiliários, iniciou o mês de maio em alta, segundo aponta a Fundação Getulio Vargas (FGV).
+	O indicador ficou em 0,59% na primeira prévia, acima da variação de 0,31% registrada no mesmo período do mês passado. No ano, o IGP-M acumula alta de 3,92% e, em 12 meses, de 10,84%.
+	Usado no cálculo do IGP-M, o Índice de Preços ao Produtor Amplo (IPA), que avalia os preços no atacado, registrou variação de 0,65% contra 0,36% na mesma apuração do mês anterior.
+	O Índice de Preços ao Consumidor (IPC), que calcula os preços no varejo e faz parte do IGP-M, acelerou a alta de 0,27% para 0,58%. Cinco das oito classes de despesa componentes do índice registraram acréscimo em suas taxas de variação, com destaque para o grupo saúde e cuidados pessoais (de 0,50% para 3,14%).
+	Também usado para calcular o IGP-M, mas com peso menor que o dos outros subíndices, o Índice Nacional de Custo da Construção (INCC) registrou variação de 0,25% na primeira prévia de maio. No mês anterior, esse índice não apresentou variação.

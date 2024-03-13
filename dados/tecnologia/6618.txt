@@ -1,0 +1,11 @@
+Data:
+2019-06-02
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/05/31/juiz-dos-eua-determina-que-facebook-entregue-registros-de-privacidade-de-dados.ghtml
+
+Título:
+Juiz dos EUA determina que Facebook entregue registros de privacidade de dados
+
+Descrição:
+Um juiz dos Estados Unidos ordenou que o Facebook entregue emails de acionistas e outros registros que tratem sobre como a empresa de mídia social lidou com privacidade de dados, após os dados de 87 milhões de usuários terem sido acessados pela consultoria britânica Cambridge Analytica.  O juiz Joseph Slights, do estado de Delaware, disse que os acionistas demonstraram uma "base crível" para se inferir que os membros do conselho de administração do Facebook podem ter cometido irregularidades relacionadas a violações de privacidade de dados.  Ele observou que o Facebook estava, no momento da violação de 2015 da Cambridge Analytica, sujeito a um acordo com a Comissão Federal de Comércio dos EUA (FTC), sob o qual a empresa tinha prometido reforçar medidas de segurança de dados.  Representantes do Facebook não responderam imediatamente nesta sexta-feira (31) a pedidos de comentários. Os advogados dos acionistas não comentaram de imediato.  As alegações de uso indevido de dados de usuários do Facebook pela Cambridge Analytica, contratada pela campanha eleitoral de Donald Trump em 2016, levaram a uma série de investigações nos EUA e na Europa. A violação foi divulgada em março de 2018 e, mais tarde, a Cambridge encerrou atividades.  Acionistas disseram que processaram o Facebook em setembro para obterem registros relacionados à Cambridge Analytica e outras violações, e depois de eventualmente encontrarem irregularidades podem processar executivos e diretores da empresa por meio de uma chamada ação derivada.

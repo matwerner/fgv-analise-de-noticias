@@ -1,0 +1,57 @@
+Data:
+2016-07-28
+
+URL:
+http://g1.globo.com/economia/noticia/2016/07/veja-cidades-que-mais-demitiram-e-que-mais-contrataram-no-1-semestre.html
+
+Título:
+Veja cidades que mais demitiram e que mais contrataram no 1º semestre
+
+Descrição:
+O Brasil já perdeu mais de meio milhão de postos de trabalho formais este ano, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged). Junho foi o 15º mês seguido com mais demissões que contratações de trabalhadores com carteira assinada: foram 91 mil postos formais a menos.
+	Entre as 20 cidades que mais demitiram em desde o início do ano, 13 são capitais: São Paulo, Rio de Janeiro, Belo Horizonte,
+	Salvador, Recife, Manaus, Brasília, Curitiba,
+	Fortaleza, São Luis, Porto Alegre, Maceió,
+	Teresina.
+	Cidades do interior registraram melhor desempenho do que suas capitais – nenhuma das 20 cidades que mais contrataram é capital de seu estado.
+	Entre as 20 cidades que mais contrataram no semestre, Franca (SP), por exemplo, aparece em prieiro lugar (Veja a lista abaixo). Outras quatro cidades de São Paulo também aparecem na lista das que mais empregaram.VEJA ABAIXO AS CIDADES QUE MAIS DEMITIRAM E AS QUE MAIS CONTRATARAMAs 20 cidades que mais demitiram:
+	São Paulo (SP): -68960
+	Rio de Janeiro (RJ): -55419
+	Belo Horizonte (MG): -25040
+	Salvador (BA): -17434
+	Recife (PE): -15470
+	Manaus (AM): -14611
+	Brasília (DF): -12815
+	Curitiba (PR): -11194
+	Fortaleza (CE): -10201
+	Campinas (SP): -10143
+	São Luis (MA): -8858
+	Guarulhos (SP): -8070
+	São Bernardo do Campo (SP): -7842
+	Macaé (RJ): -7623
+	Porto Alegre (RS): -7572
+	Niterói (RJ): -7395
+	Barueri (SP): -7369
+	Osasco (SP): -7037
+	Maceió (AL): -6918
+	Teresina (PI): -6606As 20 cidades que mais contrataram:
+	Franca (SP): 6102
+	Cristalina (GO): 4096
+	Juazeiro (BA): 3887
+	Venâncio Aires (RS): 3653
+	Santa Cruz do Sul (RS): 3324
+	Nova Serrana (MG): 3271
+	Pontal (SP): 2939
+	Capanema (PR): 2519
+	Vista Alegre do Alto (SP): 2049
+	Guaíra (SP): 1932
+	Patrocínio (MG): 1904
+	Goianésia (GO): 1843
+	Campestre do Maranhão (MA): 1707
+	Alfenas (MG): 1513
+	Três Pontas (MG): 1487
+	Pitangueiras (SP): 1481
+	Eunápolis (BA): 1477
+	Teresópolis (RJ): 1427
+	Petrolina (PE): 1399
+	Três Lagoas (MS): 1311

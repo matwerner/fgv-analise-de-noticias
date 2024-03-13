@@ -1,0 +1,11 @@
+Data:
+2019-09-02
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/08/29/como-proteger-as-redes-sociais-de-hackers-e-virus.ghtml
+
+Título:
+Como proteger as redes sociais de hackers e vírus?
+
+Descrição:
+Como posso manter minhas senhas e perfis de redes sociais mais seguros, longe de hackers e vírus? – Maria Saint-Clair  A proteção das suas redes sociais depende de um só fator: a proteção das suas credenciais de acesso, que são seu usuário e a senha. Como o seu usuário é muitas vezes público (porque é o próprio nome do perfil na rede social ou seu endereço de e-mail), você precisa proteger sua senha.  Essa medida acrescenta um código adicional ao processo de login, o que significa que um hacker não conseguirá mais acessar sua conta tendo apenas a sua senha.  Para proteger a sua senha, há duas dicas principais: a cautela na navegação na web e no uso de aplicativo, para não acabar visitando um site falso que vai roubar sua senha, e a cautela na instalação de programas.  Assista ao vídeo e saiba mais:  Se você tem alguma dúvida sobre segurança da informação (antivírus, invasões, cibercrime, roubo de dados etc.), envie um e-mail para g1seguranca@globomail.com. A coluna responde perguntas deixadas por leitores às quintas-feiras.

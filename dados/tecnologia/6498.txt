@@ -1,0 +1,11 @@
+Data:
+2019-01-15
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/01/13/facebook-porque-somente-usuarios-com-mais-de-13-anos-podem-criar-um-perfil-na-rede-social.ghtml
+
+Título:
+Facebook: por que somente usuários com mais de 13 anos podem criar um perfil na rede social?
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Oi, Ronaldo! A minha conta nas redes sociais foi banida por eu ter menos de 13 anos, por que isso aconteceu? — Tamires  Olá, Tamires! Diversos serviços online seguem uma determinação internacional chamada COPPA (Ato de Proteção Online à Criança, na sigla em inglês), uma lei de proteção à vida privada das crianças na internet.  Essa lei impõe a idade mínima para o acesso de crianças às redes sociais. Quando uma conta é criada no Facebook, é apresentada a política de privacidade, que deve ser lida e aceita pelo usuário para finalizar a criação do perfil. A verificação que restringe a idade mínima é facilmente burlada, bastando colocar um ano de nascimento apropriado.  Porém, o Facebook possui um mecanismo de verificação que permite que eles identifiquem contas irregulares de usuários. Se não for comprovada a idade mínima, a conta é banida. Essa restrição foi criada para proteger as crianças dos abusos cometidos na internet. Alguns estudos mostram que essa faixa etária é a mais vulnerável.  Olá! Nesta atualização do WhatsApp é possível enviar uma mensagem privada para um integrante do grupo. Mas até agora não tem a opção de esconder quando eu estiver online. Existe alguma maneira de fazer isso? — Carine  Olá, Carine! Ainda não foi dessa vez que o WhatsApp passou a oferecer nativamente a opção de privacidade para ocultar quando o usuário estiver online.  Esse recurso, embora muito desejado, não tem uma previsão de ser liberado. E vale salientar que é possível obter essa funcionalidade em versões alternativas do aplicativo, porém recorrer a versões não oficiais do WhatsApp pode implicar no banimento da conta.  Oi, Ronaldo! Eu utilizei um computador público e acho que deixei a senha do meu e-mail salva nele. E agora? — Camila Ramos  Olá, Camila! Quando isso acontecer, você deve seguir os seguintes passos:

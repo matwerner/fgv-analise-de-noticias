@@ -1,0 +1,115 @@
+Data:
+2015-10-13
+
+URL:
+http://g1.globo.com/economia/noticia/2015/09/de-16-cidades-exemplo-em-agua-e-esgoto-7-estao-em-sp-aponta-estudo.html
+
+Título:
+De 16 cidades-exemplo em água e esgoto, 7 estão em SP, aponta estudo
+
+Descrição:
+De 16 grandes cidades brasileiras que podem ser consideradas exemplos de sucesso para o restante do país em relação a serviços de água, coleta e tratamento de esgotos, 7 estão no estado de São Paulo. É o que aponta um estudo do Instituto Trata Brasil com a GO Associados feito com base no Ranking de Saneamento Básico nas 100 maiores cidades do Brasil, utilizando dados de 2013 do Sistema Nacional de Informações sobre Saneamento (SNIS).
+	Além de São Paulo, os estados de Minas Gerais (4 cidades), Paraná (3), Mato Grosso do Sul (1) e Rio de Janeiro (1) também estão representados entre os municípios destacados. Veja na tabela abaixo quais são as 16 cidades, que são consideradas pelo instituto casos de sucesso de saneamanto no país.
+	De acordo com o instituto, a situação positiva dessas cidades contrasta com a realidade brasileira. Enquanto a média nacional de tratamento de esgoto está em 39% (o que significa 120 milhões de brasileiros sem esgoto tratado), a média dos 16 municípios analisados é de 76,1%. Maringá, no Paraná, lidera no tratamento, com quase 94% dos seus esgotos tratados.
+	Em relação a coleta de esgoto, o índice médio das cidades-exemplo é de 95,1%, ante uma média nacional de 48,6%. Em algumas cidades, como Franca (SP), Limeira (SP) e Belo Horizonte (MG), a coleta contempla 100% dos moradores. No caso do serviço de atendimento de água, a média atingida pelos 16 munícipios é de 99,42%, contra 82,5% da média brasileira.
+	O estudo também aborda a perda de distribuição do sistema de água. A média brasileira é de 37% - ou seja, 3,7 litros de água perdidos para cada 10 produzidos devido a fraudes, erros de leitura dos hidrômetros, vazamentos e outros fatores.
+	Já as 16 cidades consideradas exemplos de saneamento perdem, em média, 26,1% da água produzida, o que corresponde a 10,3 pontos percentuais a menos do que a média nacional. Desse grupo, cinco cidades têm perdas abaixo de 20%, indicador observado em países com melhor nível de eficiência.
+	As 16 cidades serão debatidas em um seminário realizado nesta quarta-feira (30) pelo Instituto Trata Brasil e pelo Grupo de Economia da Infraestrutura e Soluções Ambientais da Fundação Getulio Vargas (FGV), em São Paulo.
+						Cidade
+						UF
+						Atendimento de água (%)
+						Atendimento de esgoto (%)
+						Indicador de esgoto tratado por água consumida (%)
+						Indicador de perda total de água (%)
+						Franca
+						SP
+						100
+						100
+						77,79
+						13,5
+						Maringá
+						PR
+						100
+						95,24
+						93,58
+						12,85Limeira
+						SP
+						100
+						100
+						86,56
+						11,16
+						Londrina
+						PR
+						100
+						97,56
+						85,99
+						29,68Curitiba
+						PR
+						100
+						99,07
+						88,44
+						30,57Niterói
+						RJ
+						100
+						92,8
+						92,8
+						15,9Uberlândia
+						MG
+						100
+						97,23
+						92,89
+						26,35Taubaté
+						SP
+						100
+						96,58
+						69,79
+						28,42Ribeirão Preto
+						SP
+						99,72
+						98,32
+						79,1
+						34,17Contagem
+						MG
+						99,66
+						98,64
+						59,42
+						41,18Belo Horizonte
+						MG
+						100
+						100
+						67,39
+						34,33São José dos Campos
+						SP
+						100
+						96,1
+						69,24
+						30,14Montes Claros
+						MG
+						95,17
+						95,17
+						75,06
+						36,25Campinas
+						SP
+						97,81
+						86,72
+						51,01
+						15Santos
+						SP
+						99,97
+						98,53
+						76,84
+						21,48
+						Campo Grande
+						MS
+						98,4
+						69,75
+						51,69
+						36,2Média das 16 cidades
+						99,42
+						95,11
+						76,1
+						26,07Média do Brasil
+						82,5
+						48,6
+						39
+						37

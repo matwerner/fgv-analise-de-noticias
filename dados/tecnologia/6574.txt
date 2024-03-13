@@ -1,0 +1,11 @@
+Data:
+2019-03-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/03/29/golpe-promete-mudar-cor-do-whatsapp-mas-instala-aplicativo-que-exibe-anuncios.ghtml
+
+Título:
+Golpe promete mudar cor do WhatsApp, mas instala aplicativo que exibe anúncios
+
+Descrição:
+A fabricante de antivírus Eset está alertando para um novo golpe que circula por mensagens no WhatsApp prometendo trocar a cor do aplicativo. Caso o usuário acesse o link e instale o programa para realizar a troca de cor, o celular passará a gastar recursos para baixar e exibir anúncios publicitários, não havendo nenhum indício para a vítima sobre a fonte desses anúncios.  O golpe também atinge usuários de computador que acessam o WhatsApp Web por meio do navegador Google Chrome. Quando a página do golpe é acessada em um computador, a vítima é levada para a instalação de uma extensão do Chrome que deixa o WhatsApp com um tema escuro.  De acordo com a Eset, após a instalação da extensão do Chrome no computador, os contatos da vítima imediatamente recebem uma mensagem repassando o golpe. Mesmo que a pessoa perceba o problema e feche a janela, as mensagens ainda serão enviadas — já que é o celular que de fato envia as mensagens.  No celular, onde o golpe não envolve a extensão do Chrome, a vítima é orientada a encaminhar a mensagem manualmente antes de receber o aplicativo malicioso, mas é possível prosseguir com o download sem fazer isso. Uma vez instalado, o aplicativo se oculta no celular e passa a exibir anúncios publicitários, garantindo um retorno financeiro para a fraude.  As mensagens podem ser enviadas em vários idiomas e com links variados, de acordo com a companhia.  A extensão do Chrome ainda estava disponível na Chrome Web Store, a loja oficial do Google, nesta sexta-feira (29). O arquivo somava mais de 15 mil downloads — um indício de que ao menos 15 mil usuários do WhatsApp caíram no golpe.  O WhatsApp não fornece uma opção para alterar as cores do aplicativo, mas é possível personalizar a imagem de fundo que aparece nas mensagens. Para isso, acesse Configurações (menu dos "três pontos") > Conversas > Papel de parede. Recomenda-se que links com esse tipo de oferta sejam ignorados.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

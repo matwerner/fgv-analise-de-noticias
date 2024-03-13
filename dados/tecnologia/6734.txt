@@ -1,0 +1,11 @@
+Data:
+2019-10-28
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/10/26/microsoft-vence-amazon-em-licitacao-por-contrato-de-us-10-bilhoes-com-governo-americano.ghtml
+
+Título:
+Microsoft vence Amazon em licitação por contrato de US$ 10 bilhões com governo americano
+
+Descrição:
+A Microsoft ganhou um contrato de 10 bilhões de dólares do Pentágono para computação de nuvem, informou o Departamento de Defesa dos Estados Unidos. A empresa venceu a Amazon, que era favorita à licitação.  O processo de licitação vinha sendo marcado por alegações de conflito de interesse, atraindo até a atenção do presidente Donald Trump, que publicamente atacou a Amazon e seu fundador, Jeff Bezos.  Trump disse em agosto que seu governo estava revendo a proposta da Amazon após reclamações de outras empresas.  O contrato da Nuvem de Infraestrutura de Defesa Corporativa Conjunta (JEDI, na sigla em inglês) faz parte de uma modernização digital mais ampla do Pentágono, com o objetivo de torná-lo mais ágil tecnologicamente.  Especificamente, o objetivo da JEDI é dar ao Exército melhor acesso a dados e à nuvem a partir dos campo de batalha e outros locais remotos.  A empresa Oracle expressou preocupações sobre o processo de licitação, incluindo o papel de um ex-funcionário da Amazon que trabalhou no projeto no Departamento de Defesa, mas se retirou da licitação.  Em um comunicado, um porta-voz da Amazon Web Services (AWS) disse que a empresa estava “surpresa pela conclusão” do processo de escolha. A AWS está considerando opções para apelar do resultado, disse uma pessoa próxima ao assunto à Reuters.  Embora o Pentágono seja a maior potência militar do mundo, sua tecnologia de informação permanece terrivelmente inadequada, segundo muitos oficiais.

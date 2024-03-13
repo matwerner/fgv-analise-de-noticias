@@ -1,0 +1,11 @@
+Data:
+2019-06-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/06/28/google-anuncia-cabo-submarino-conectando-africa-e-europa.ghtml
+
+Título:
+Google anuncia cabo submarino conectando África e Europa
+
+Descrição:
+O Google anunciou nesta sexta-feira (28) um novo cabo submarino apelidado de "Equiano" que conectará a África à Europa. A novidade é parte dos investimentos da empresa em infraestrutura de computação em nuvem, um mercado atualmente dominado pela concorrente Amazon.  O Equiano, totalmente financiado pelo Google, é o terceiro cabo internacional privado da empresa. Os cabos submarinos formam a espinha dorsal da internet, carregando 99% do tráfego de dados do mundo.  Apesar disso, de acordo com o Google — que investiu US$ 47 bilhões na melhoria de sua infraestrutura tecnológica global nos últimos três anos — o Equiano é o 14º investimento global em cabos submarinos.  O Google informou que um contrato para construir o cabo, em parceria com a companhia de infraestrutura Alcatel, foi assinado no quarto trimestre de 2018, e a primeira fase do projeto, que vai ligar a África do Sul a Portugal, deverá ser concluída em 2021.  A empresa concluiu em abril outro projeto parecido, chamado de "Curie", um cabo intercontinental privado que liga o Chile a Los Angeles, nos Estados Unidos.

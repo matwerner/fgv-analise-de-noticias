@@ -1,0 +1,11 @@
+Data:
+2019-09-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/09/26/google-interrompe-atualizacao-do-chrome-que-danifica-sistema-macos-da-apple.ghtml
+
+Título:
+Google interrompe atualização do Chrome que danifica sistema macOS da Apple
+
+Descrição:
+O Google parou de distribuir uma atualização do navegador Chrome para macOS que danificava o sistema operacional da Apple e impedia os computadores e notebooks de ligarem corretamente.  O anúncio foi publicado por um funcionário da empresa no site de suporte técnico do Chrome nesta quarta-feira (25). O comunicado informa que uma nova atualização está sendo preparada para corrigir o erro, mas usuários afetados precisarão recuperar o próprio sistema manualmente.  De acordo com o Google, a Proteção de Integridade do Sistema, disponível desde o OS X 10.11 ("El Capitan", de 2015), previne o problema na maioria dos casos. Quem desativou esse recurso ou utiliza uma versão anterior à 10.11 estava sujeito a ter o sistema corrompido.  Quem precisa reparar o sistema deve seguir por instruções fornecidas pelo Google e digitar uma série de comandos que desinstalam a atualização prejudicial e restauram o sistema operacional.  As primeiras queixas que apareceram nas redes sociais apontavam o software de edição de vídeo Media Composer como responsável pelo problema. A Avid, que desenvolve o software, comunicou em seu site que estava averiguando os relatos dos clientes.  A Avid então constatou que seu software não tinha relação com o erro apresentado e o verdadeiro culpado — o Chrome — foi identificado.  No entanto, muitos editores de vídeo desativam a Proteção de Integridade do Sistema para utilizar placas de processamento gráfico não comercializadas pela Apple — o que aumentou o número de usuários afetados nesse grupo.  Quem utiliza o sistema da Apple em computadores comuns, na forma de "Hackintosh", também estava em risco. Nesses casos, a proteção de integridade costuma ser desativada para garantir a compatibilidade com o hardware não aprovado pela Apple.  Segundo uma análise publicada no site de desenvolvimento do Chrome, o sistema pode ser corrompido mesmo que a Proteção de Integridade do Sistema esteja ativa. Porém, as condições para o erro se manifestar nesse cenário são mais específicas.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

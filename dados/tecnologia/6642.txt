@@ -1,0 +1,11 @@
+Data:
+2019-07-02
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/06/30/o-que-fazer-quando-o-celular-conecta-na-rede-wi-fi-mas-nao-consegue-enviar-mensagens-pelo-whatsapp.ghtml
+
+Título:
+O que fazer quando o celular conecta na rede Wi-Fi mas não consegue enviar mensagens pelo WhatsApp?
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Oi, Ronaldo! Eu tenho um smartphone Samsung J5, que aparentemente pode ter sido clonado ou algo assim. É possível realizar chamadas telefônicas normalmente. Mas, quando eu tento navegar na internet usando a rede sem fio da minha casa, o aparelho conecta, mas não navega, não atualiza o conteúdo exibido nas redes sociais. Essa mesma rede é usada para outros dispositivos, que funcionam normalmente. Será que a minha conta no WhatsApp foi hackeada? – Evaldo  Olá, Evaldo! O comportamento que você descreveu não parece ter relação com alguma falha de segurança ou com a instalação de uma praga virtual no celular.  O Android pode estar apresentando alguma falha no gerenciamento de rede, com os dados da conexão desatualizados. Por esse motivo a navegação é interrompida. Para tentar resolver esse problema, você deve seguir os passos abaixo:  Pronto! As configurações antigas de rede foram eliminadas, agora basta reconfigurar o seu aparelho na rede Wi-Fi e testar a navegação na internet.  Oi, Ronaldo! O meu PC ainda não recebeu a atualização para o Windows 10 May 2019 Update, já verifique o no gerenciador de atualizações e não obtive sucesso. E agora? – Jonathan  Olá, Jonathan! É possível que exista uma quantidade enorme de atualizações pendentes para o seu PC. Nesse caso a alternativa mais apropriada é baixar o Assistente de Atualização da Microsoft. Esse programa identifica o que está faltando e disponibiliza automaticamente a versão mais recente do Windows.  Oi, Ronaldo! Como eu faço para impedir que os meus seguidores no Instagram vejam quando estou online? – Thais  Olá, Thais! Para impedir que os seus seguidores visualizem quando você estiver online é necessário alterar as configurações de Privacidade, e desabilitar a opção "Mostrar status de atividade".  Vale salientar que, após alterar essa opção, você também não conseguirá visualizar o status dos seus amigos.

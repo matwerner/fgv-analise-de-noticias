@@ -1,0 +1,11 @@
+Data:
+2019-01-28
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/26/zuckerberg-planeja-integrar-whatsapp-instagram-e-facebook-messenger-diz-jornal.ghtml
+
+Título:
+Zuckerberg planeja integrar WhatsApp, Instagram e Facebook Messenger, diz jornal
+
+Descrição:
+O presidente-executivo do Facebook, Mark Zuckerberg, planeja unificar as infraestruturas de troca de mensagens subjacentes aos serviços WhatsApp, Instagram e Facebook Messenger e incorporar a criptografia de ponta a ponta a esses aplicativos, noticiou o New York Times (NYT).  Os três serviços, no entanto, continuariam com seus respectivos aplicativos, segundo a reportagem, que citou quatro pessoas envolvidas no processo.  O Facebook disse que trabalha para implementar em mais produtos a criptografia de ponta a ponta, que protege as mensagens de serem vistas por outros além dos participantes de uma conversa, e que estuda maneiras de tornar mais fácil aos usuários conectar-se de modo integrado a diferentes redes.  “Há muita discussão e debate à medida que começamos o longo processo de elaborar todos os detalhes de como isso vai funcionar”, disse um porta-voz.  Depois das mudanças, um usuário do Facebook, por exemplo, estaria apto a enviar uma mensagem criptografada para alguém que possui apenas uma conta no WhatsApp, de acordo com a reportagem do NYT.  Integrar os serviços de mensagem pode tornar mais difícil para reguladores antitruste obrigar a redução do Facebook por meio da reversão de aquisições como as do WhatsApp e Instagram, avaliou Sam Weinstein, professor da Escola de Direito Benjamin N. Cardozo.  “Se o Facebook está preocupado com isso, então uma maneira de se defender seria integrar esses serviços”, disse Weinstein.  O professor, contudo, disse que determinar um desmembramento do Facebook seria um “remédio extremo” aplicado pelos reguladores, particularmente nos Estados Unidos, de modo que as preocupações com medidas antitruste podem não ter sido um dos fatores por trás da integração.

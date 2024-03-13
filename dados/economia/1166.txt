@@ -1,0 +1,13 @@
+Data:
+2015-01-08
+
+URL:
+http://g1.globo.com/economia/noticia/2014/12/governo-marca-para-abril-leilao-de-energia-5.html
+
+Título:
+Governo marca para abril leilão de energia A-5
+
+Descrição:
+O Ministério de Minas e Energia marcou o leilão A-5 de 2015, de compra de energia elétrica proveniente de novos empreendimentos de geração, em 30 de abril do próximo ano, conforme portaria publicada nesta sexta-feira (12) no Diário Oficial da União.
+	O suprimento de energia elétrica terá início em 1º de janeiro de 2020, segundo o texto. No leilão, serão negociados Contratos de Comercialização de Energia no Ambiente Regulado (CCEAR) na modalidade por quantidade, com prazo de suprimento de 30 anos, para empreendimentos hidrelétricos.
+	Na modalidade por disponibilidade, com prazo de suprimento de 25 anos, diferenciados por fontes, serão negociados empreendimentos de geração a partir de termelétricas a carvão, a gás natural em ciclo combinado e a biomassa por Custo Variável Unitário (CVU) igual a zero ou diferente de zero.

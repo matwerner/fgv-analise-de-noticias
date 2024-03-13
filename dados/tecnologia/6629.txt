@@ -1,0 +1,11 @@
+Data:
+2019-06-16
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/06/13/twitter-apaga-milhares-de-contas-vinculadas-ao-ira.ghtml
+
+Título:
+Twitter apaga milhares de contas vinculadas ao Irã
+
+Descrição:
+O Twitter informou nesta quinta-feira (13) que removeu milhares de contas vinculadas a atividades governamentais que acredita serem coordenadas pelo governo do Irã. A rede arquivou as contas em um banco de dados público lançado no ano passado.  Na mais recente ação do tipo, o Twitter informou que acredita que 4.779 contas estejam associadas ou sejam apoiadas pelo Irã.  O site também afirmou que removeu e arquivou quatro contas associadas com a Internet Research Agency, de São Petersburgo, uma fazenda de mensagens falsas que foi considerada como responsável por tentativas de interferência na eleição presidencial dos Estados Unidos de 2016.  O Twitter também removeu e arquivou 130 contas vinculadas ao movimento de independência catalão, na Espanha, e 33 contas com comportamento manipulativo relacionado à Venezuela.  "Milhares de pesquisadores ao redor do mundo fizeram downloads de nosso banco de dados, que contém mais de 30 milhões de tuítes e mais de 1 terabyte de mídia, usando nosso arquivo para conduzirem suas próprias investigações e análises independentes", afirmou o Twitter em comunicado.

@@ -1,0 +1,11 @@
+Data:
+2019-09-22
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/09/22/como-restringir-o-horario-de-uso-da-internet-no-wi-fi-de-casa.ghtml
+
+Título:
+Como restringir o horário de uso da internet no Wi-Fi de casa?
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)   Olá, Ronaldo! Eu sou leigo no assunto e gostaria de saber se existe algum modelo [de roteador] que ofereça controle de horário para uso. Tenho filhos e eles usam a internet de madrugada. Gostaria de limitar horários. Exemplos: depois das 23h não ter como acessar, retornando 07h do outro dia – Gildo Santana  Olá, Gildo! Os principais modelos de roteadores atuais já oferecem opções avançadas de configuração para limite de uso.  Para obter um controle parental completo, sem precisar ter conhecimentos avançados de informática, é possível instalar aplicativos, no celular, que impedem a execução de games, o acesso à internet fora do horário estipulado e que até bloqueiam pornografia.  O blog já trouxe um guia sobre os principais aplicativos e também ensinou como definir regras de uso no PC.  Ronaldo, redefinir as configurações originais de fábrica pode estragar o aparelho celular? Caroline Vargas  Olá, Caroline! Redefinir as configurações originais de fábrica não causa qualquer tipo de dano ao aparelho. Após o término do processo o celular estará pronto para uso, mas sem os arquivos que estavam armazenados na memória.  Oi, Ronaldo! Eu ganhei um Apple TV antigo, mas não possuo um iPhone ou Mac. Ouvi dizer que esse aparelhinho funciona apenas com equipamentos da Apple. Existe alguma maneira de eu conectar um celular com Android num Apple TV? Giulia   Olá, Giulia! O Apple TV oficialmente é um dispositivo desenvolvido que oferece conectividade apenas com equipamentos fabricados pela Apple. No entanto, alguns aplicativos permitem que o celular com Android conecte-se ao Apple TV.  Confira a lista com alguns desses apps:

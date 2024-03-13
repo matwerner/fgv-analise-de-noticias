@@ -1,0 +1,11 @@
+Data:
+2019-01-20
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/19/organizacao-austriaca-abre-reclamacao-contra-gigantes-da-tecnologia.ghtml
+
+Título:
+Organização austríaca abre reclamação contra gigantes da tecnologia
+
+Descrição:
+A Apple e a Amazon estão entre as oito empresas de tecnologia listadas em uma reclamação apresentada na Áustria pela organização sem fins lucrativos noyb, segundo a qual as companhias não se enquadraram no Regulamento Geral sobre Proteção de Dados da União Europeia (RGPD).  Lei da União Europeia que protege dados pessoais entra em vigor  O processo aberto pela noyb, presidida pelo defensor da privacidade de dados Max Schrems, também cita Netflix, Spotify e YouTube, e foi aberto depois de terem sido feitas solicitações sobre dados que as companhias guardam sobre seus usuários.  “Nenhum dos serviços se enquadrou completamente”, disse a noyb em um comunicado.  O RGPD, implementado em maio, dá aos usuários o direito de acessar seus dados e informações sobre a origem e o destino das informações. As redes sociais devem renovar suas permissões europeias sempre que quiserem usar os dados de novas maneiras, incluindo para propagandas direcionadas.  Pelo RGPD, estão previstas multas de até 4 por cento das receitas globais das empresas que violarem as regras.  Em resposta à reclamação, a Amazon disse ter lançado uma nova página “Ajuda de Privacidade”, que mostra aos clientes como podem administrar suas informações nas plataformas.  “Nós atendemos a qualquer pedido sobre um assunto de dados e damos acesso a dados pessoais processados pela Amazon”, disse a Amazon na sexta-feira.  Uma porta-voz da Spotify disse que “estamos comprometidos a cumprir toda lei e regulação nacional e internacional, incluindo a RGPD, a qual acreditamos cumprir completamente”.

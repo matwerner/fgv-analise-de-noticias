@@ -1,0 +1,15 @@
+Data:
+2015-08-02
+
+URL:
+http://g1.globo.com/economia/noticia/2015/08/inflacao-do-aluguel-perde-forca-na-1-previa-de-agosto.html
+
+Título:
+Inflação do aluguel acumula alta de 7,36% em 12 meses
+
+Descrição:
+O Índice Geral de Preços - Mercado (IGP-M), conhecido como inflação do aluguel porque é usado para reajustar a maioria dos contratos imobiliários, perdeu força na primeira prévia de agosto em relação ao mesmo período do mês anterior (de 0,65% para 0,10%).
+	De acordo com a Fundação Getulio Vargas (FGV), o indicador acumula alta de 7,36% em 12 meses. No ano, o índice sobe 5,16%.
+	O Índice de Preços ao Produtor Amplo (IPA), que mede os preços no atacado e é usado para calcular o IGP-M, registrou variação negativa de 0,06%, contra avanço de 0,56% na primeira prévia de julho.
+	O Índice de Preços ao Consumidor (IPC), conhecido como inflação do varejo e utilizado no cálculo do IGP-M, apresentou taxa de variação de 0,14%, contra 0,48% em julho. Todas as oito classes de despesa componentes do índice apresentaram taxas menores de uma apuração para a outra, com destaque para os preços dos alimentos, que registraram queda.
+	Com peso menor do que os outros, mas também integrante do cálculo da inflação do aluguel, o  Índice Nacional de Custo da Construção (INCC) variou 0,94%, abaixo do resultado do mês anterior, de 1,52%.

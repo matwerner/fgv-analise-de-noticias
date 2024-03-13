@@ -1,0 +1,11 @@
+Data:
+2019-02-14
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2019/02/14/extensao-para-o-chrome-permite-usar-o-google-docs-sem-precisar-esta-conectado-na-internet.ghtml
+
+Título:
+Extensão para o Chrome permite usar o Google Docs sem precisar estar conectado na internet
+
+Descrição:
+O Google Docs é uma excelente alternativa ao Microsoft Word para a criação de documentos de texto. Em alguns casos, pode suprir plenamente as necessidades básicas de boa parte dos usuários.  Porém, por se tratar de um serviço web, é necessário estar conectado à internet para poder usá-lo. Na coluna de hoje será apresentado um complemento para o navegador Chrome, que permite usar o Google Docs no modo offline.  A extensão oficial para o Google Docs, está disponível neste link. Após instalada é necessário configurá-la antes de começar a usar o Google Docs offline, conforme os passos descritos abaixo:  1. Conectado a sua conta do Google, abra o Drive;  2. Clique sobre o ícone em formato de "barrinhas", que está posicionado no canto superior direito;  3. Clique na opção "Configurações";  4. Habilite o modo "Off-line". Essa opção não irá tornar offline todos os documentos armazenados no Drive, será preciso definir manualmente quais estarão disponíveis;  5. Clique no ícone em formato de "três pontinhos" ao lado da data que indica a última vez que o documento foi aberto e marque a opção "Disponível off-line". Repita esse passo para cada arquivo que desejar usá-lo sem a necessidade de estar conectado na internet.  O exemplo apresentado acima também é válido para a criação de planilhas e apresentações. Quando a conexão à internet foi restabelecida os arquivos serão sincronizados automaticamente com o Drive.

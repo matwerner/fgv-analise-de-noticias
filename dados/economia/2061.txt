@@ -1,0 +1,30 @@
+Data:
+2016-05-07
+
+URL:
+http://g1.globo.com/economia/noticia/2016/05/receita-federal-nega-que-ir-sobre-heranca-represente-bitributacao.html
+
+Título:
+Tributaristas apontam bitributação em IR sobre herança; Receita nega
+
+Descrição:
+A Secretaria da Receita Federal negou nesta sexta-feira (6) que a proposta de cobrança do Imposto de Renda sobre heranças represente uma bitributação, apesar de os estados já cobram um tributo (Imposto Sobre a Transmissão Causa Mortis e Doação - ITCMD) com a mesma base de cálculo.
+	Tributaristas ouvidos pelo G1, entretanto, dizem o contrário. Segundo eles, há bitributação porque a pessoa que acumulou e transmitiu a herança já pagou Imposto de Renda sobre o bem.
+	A cobrança de IR sobre heranças a partir de R$ 5 milhões é uma das propostas apresentadas pelo governo para compensar a perda de receitas com a correção da tabela do Imposto de Renda da Pessoa Física (IRPF) em 5% em 2017.
+	Tanto a cobrança quanto a correção da tabela constam de um projeto de lei encaminhado nesta sexta pela presidente Dilma Rousseff ao Congresso. Para terem validade, as propostas precisam ser aprovadas pelo Legislativo.O que diz a Receita
+	"A base de incidência, apesar de economicamente ser a mesma, a gênese do tributo é diferente. Para os estados, é a transmissão, a circulação da riqueza, que também é compartilhada pelos municípios. Isso, sob o ponto de vista do IR, é outra coisa, pois refere-se ao acréscimo patrimonial. Pode ser cobrado. Não há o que se falar em dupla tributação ou em bitributação", avaliou o chefe do Centro de Estudos Tributários e Aduaneiros da Receita Federal, Claudemir Malaquias.
+	De acordo com ele, a constituição permite essa cobrança sobre a mesma base de cálculo. "Para os estados, [a alíquota] é travada em 8% [não pode ficar acima disso]. Alguns cobram 5%, outros subiram recentemente para 8%, mas não podem elevar acima desse percentual. O constituinte previa que a mesma base é compartilhada pelos estados e pela União. Esse compartilhamento da mesma base acontece em outros países", acrescentou Malaquias.Opinião dos tributaristas
+	Segundo o advogado tributarista Gustavo Querotti e Silva, do escritório Feijó Lopes Advogados, haveria, neste caso, bitributação porque um valor recebido por alguém como herança (filho, por exemplo) já foi tributado no Imposto de Renda da pessoal que fez a transmissão do bem (no caso, o pai).
+	“Quando a pessoa ganha um salário, ela sofre retenção do IR na fonte. A renda auferida já foi tributada”, apontou ele. “O que está sendo transmitido é um patrimônio, uma renda que foi constituída, com aquisição de bens, imóveis. Considerando que a pessoa está tendo uma renda quando recebe isso, gera uma bitributação.”
+	Para o advogado tributarista, teoricamente não há problema em ter dois tributos sobre a mesma base de incidência (heranças e doações). Ele avaliou, porém, que, nesse caso, já existe um tributo específico fixado na constituição – o ITCMD estadual.
+	“Pode haver um conflito constitucional, que demandaria a alteração da Constituição. É uma discussão complexa”, avaliou ele.
+	Para alterar a constituição, o governo teria de enviar um Proposta de Emenda Constitucional ao Congresso, e não projeto de lei – instrumento anunciado nesta sexta-feira (6) para tributar as heranças e doações.
+	O presidente-executivo do Instituto Brasileiro de Planejamento e Tributação (IBPT), João Eloi Elenike, também afirma que a medida proposta pelo governo representa bitributação, uma vez que, além de incidir sobre a mesma base de cálculo, o Imposto de Renda já foi cobrado anteriormente da pessoa que faleceu.
+	“Com certeza representa uma bitributação. Dois tributos em cima de uma mesma base de cálculo”, disse Elenike. “Vai pagar sobre terrenos, imóveis em geral, sobre doações que recebeu”, completou ele.
+	De acordo com o presidente da Associação Nacional dos Auditores Fiscais da Receita Federal (Unafisco), Kleber Cabral, a ideia de tributar herança e doação como renda é “muito polêmica”.
+	“A matéria fala em Imposto de Renda. Sobre herança e doação já existe tributo específico, o chamado ITCMD, o Imposto Sobre Transmissão Causa Mortis e Doação [estadual]. Dois impostos tributando o mesmo fato? E isso a Constituição proíbe", declarou ele.Aval do Congresso Nacional
+	Atualmente, os rendimentos com herança e doações, de qualquer valor, estão isentos da cobrança de Imposto de Renda. A tributação, porém, foi defendida em um documento chamado de "Programa Nacional de Emergência", aprovado em fevereiro pelo diretório nacional do PT, partido da presidente Dilma Rousseff.
+	A edição desta sexta do Diário Oficial da União trouxe uma mensagem da presidente Dilma ao Congresso Nacional com a proposta de correção da tabela do Imposto de Renda das Pessoas Físicas (IRPF). A correção foi anunciada por ela no Dia do Trabalho.
+	Para ter validade, tanto a correção da tabela do IR em 5%, quanto a tributação de heranças e doações, precisam ser aprovadas pelo Legislativo. Entretanto, o governo não conta hoje com maioria no Congresso e a presidente Dilma pode acabar afastada do cargo nos próximos dias, caso o Senado aceite a admissibilidade do seu processo de impeachment.Abatimento
+	A proposta do governo para a tributação, pelo Imposto de Renda, das heranças e doações, informou a Receita Federal, também contempla o abatimento, na base de cálculo do IR, daquilo que for pago pelos contribuintes aos estados e municípios.
+	Exemplo: uma herança de R$ 6 milhões, em que o contribuinte pagou R$ 300 mil de imposto estadual. Como a proposta do governo é cobrar apenas pelos valores acima de R% 5 milhões, neste caso haveria incidência de 15% de Imposto de Renda sobre R$ 1 milhão. Entretanto, como o contribuinte já pagou os R$ 300 mil, faria o abatimento e, então, a alíquota de 15% de IR seria calculada apenas sobre R$ 700 mil.

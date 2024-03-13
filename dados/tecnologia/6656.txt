@@ -1,0 +1,11 @@
+Data:
+2019-07-28
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/07/25/apple-compra-negocio-de-modems-para-celular-da-intel-por-us1-bilhao.ghtml
+
+Título:
+Apple compra negócio de modems para celular da Intel por US$1 bilhão
+
+Descrição:
+A Apple anunciou nesta quinta-feira (25) a compra da maior parte dos negócios de modem para smartphones da Intel por US$ 1 bilhão, meses depois da fabricante de chips anunciar planos de sair do mercado de chips 5G.  A Apple terá mais de 17 mil patentes de comunicação sem fio e contratará cerca de 2,2 mil funcionários da Intel após a conclusão do acordo, informou a fabricante do iPhone.  A Intel se posicionou como a única fonte de modems para iPhone no ano passado, depois que a Apple entrou em uma prolongada disputa judicial com a fornecedora anterior, a Qualcomm.  Mas em abril, a Apple chegou a um acordo surpreendente com a Qualcomm, que determinou à empresa voltar a usar os modems da fabricante, o que levou à decisão da Intel de abandonar o negócio.  O acordo de aquisição deve ser fechado no quarto trimestre de 2019, disseram as empresas.

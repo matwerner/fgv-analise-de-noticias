@@ -1,0 +1,11 @@
+Data:
+2019-12-16
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/12/14/intel-corrige-falha-que-manipula-processador-com-controle-de-tensao-eletrica.ghtml
+
+Título:
+Intel corrige falha que manipula processador com controle de tensão elétrica
+
+Descrição:
+A fabricante de processadores Intel lançou uma atualização de segurança para corrigir uma vulnerabilidade designada de "Plundervolt".  O problema, descoberto por um trio de especialistas, permite obter dados do SGX, uma área reservada para o processamento de dados sensíveis, por meio da alteração da tensão elétrica durante a operação do processador.  O SGX é uma tecnologia de isolamento para que o processador possa realizar operações criptográficas ou armazenar dados de autenticação de forma segura. O objetivo é manter esses dados fora do alcance de outros aplicativos, mas a Plundervolt derruba essa barreira.  Assim como as brechas Meltdown, Spectre e outras que atingem características complexas dos processadores, é pouco provável que usuários domésticos corram algum risco.  O problema afeta diversos processadores desde a 6ª geração da linha Intel Core. Peças das linhas Xeon e Celeron também são afetadas, segundo a Intel.  O ataque não exige que um hacker controle o fornecimento de energia elétrica de um computador alvo, porque o controle de tensão é disponibilizado via software pelo próprio processador.  Aumentando e reduzindo a voltagem de uma maneira específica, um software pode causar erros intencionais de memória. Esses erros ocorrem antes de a memória ser protegida pelo SGX, o que aos poucos acaba vazando o conteúdo da memória protegida.  Em situações legítimas, a alteração de tensão dos processadores é utilizada para minimizar o consumo elétrico (um processo chamado de "undervolt", que resfria notebooks e prolonga a duração da bateria) e para estabilizar o processador quando ele opera com uma frequência maior que a especificada pela fabricante ("overclock").  Os processadores da Intel são os mais utilizados em computadores desktop e notebooks. Ataques semelhantes, aproveitando o controle de tensão, também já foram demonstrados contra processadores ARM, usados em celulares.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

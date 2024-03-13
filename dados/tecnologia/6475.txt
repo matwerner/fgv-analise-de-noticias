@@ -1,0 +1,11 @@
+Data:
+2019-01-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2018/12/30/whatsapp-como-visualizar-mensagens-que-foram-apagadas-para-todos.ghtml
+
+Título:
+WhatsApp: como visualizar mensagens que foram apagadas para todos
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Olá, Ronaldo! É possível recuperar uma mensagem que foi recebida e depois apagada antes que eu tenha conseguido ler? — Muriel  Olá, Muriel! Existe um aplicativo chamado Notification History, através dele é possível coletar todas notificações apresentadas na tela do celular. Entre as notificações exibidas ao usuário, estão as mensagens recebidas pelo WhatsApp e mesmo que o autor tenha apagados as mensagens em seguida, o seu conteúdo é salvo num banco de dados interno do aparelho. Mas existe uma limitação, imagens e vídeos não poderão ser recuperados.  Oi, Ronaldo! Eu recebi através do WhatsApp um documento do Word, mas não estou conseguindo abrir o arquivo. Quando isso acontece eu envio o arquivo para o Google Drive e faço a edição, mas acho esse processo muito demorado. Existe alguma maneira mais simples? — Claudete  Olá, Claudete! Existe uma versão do Office para dispositivos móveis. Você pode instalar individualmente o app correspondente ao formato de arquivo (Word, Excel e PowerPoint). O suíte de escritório está disponível na Google Play, ele também acessa o serviço de armazenamento de arquivos da Microsoft.  Eu vi uma dica sobre uma versão alternativa do WhatsApp, nela vem diversos recursos muito úteis. Mas ouvi dizer que é perigoso usar um app assim porque ele pode conter vírus. Qual o risco de usar o GB WhatsApp? — Daniel  Olá, Daniel! O GB WhatsApp é obtido fora da Play Store, isso significa que para instalar o app será necessário alterar as configurações de segurança do celular para aceitar esse tipo de aplicativo. Não há garantia de que ele não possua um código malicioso para roubar dados os usuários. E se tratando de risco real, usar um aplicativo não oficial para acessar o WhatsApp, pode ser punido com o banimento definitivo da conta do usuário.

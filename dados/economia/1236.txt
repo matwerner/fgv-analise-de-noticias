@@ -1,0 +1,60 @@
+Data:
+2015-10-29
+
+URL:
+http://g1.globo.com/economia/noticia/2015/10/mais-de-190-mil-patroes-ja-cadastraram-domesticos-diz-receita.html
+
+Título:
+Mais de 190 mil patrões já cadastraram domésticos, diz Receita
+
+Descrição:
+Mais de 190 mil pessoas já cadastraram empregados domésticos no site do eSocial, informou nesta quarta-feira (14) a Receita Federal. O número de pessoas que fizeram seu cadastro como empregador mas não registraram informações de nenhum empregado é maior, de mais de 245 mil.
+	Segundo a Receita, isso acontece porque o primeiro passo é fazer o cadastro como empregador para, depois, fazer o registro do empregado (veja como funciona e o passo a passo para fazer o cadastro mais abaixo). A Receita espera o cadastramento, ao menos, de 1,5 milhão de empregadores e de trabalhadores domésticos no site do eSocial.
+	Com o cadastramento, o empregador passa a registrar as informações sobre o trabalhador e emite uma guia para recolher todos os tributos - o chamado Simples Doméstico define um regime unificado para pagamento de todos os tributos e demais encargos, inclusive FGTS.
+	Os novos direitos estão previstos na chamada PEC das Domésticas, lei que foi aprovada em abril de 2013. Mas eles só foram regulamentados no último mês de junho, e apenas agora começam a valer. Com a entrada em vigor desses direitos, o empregador terá obrigatoriamente que cadastrar seus empregados nos site do eSocial.
+	O primeiro pagamento nesse novo modelo, referente a outubro, deverá ser feito até 7 de novembro.
+	A Receita diz ainda que, em média, leva-se cerca de 15 a 20 minutos para realizar o   cadastramento inicial no site.
+	O governo federal divulgou, no site do eSocial, uma cartilha com orientações para os empregadores de trabalhadores domésticos.Veja como funciona o cadastro e o recolhimento os tributos:
+	- o empregador deve iniciar seu cadastro preenchendo os seguintes dados: nome completo, data de nascimento, CPF e NIS (Número de Identificação Social). O NIS pode ser o Número de Inscrição na Previdência Social - NIT, no Programa de Integração Social - PIS, no Programa de Formação do Patrimônio do Servidor Público - PASEP, ou no Sistema Único de Saúde - SUS.
+	- a cartilha explica que, antes de realizar o cadastramento dos trabalhadores, o empregador poderá verificar se o CPF e o NIS estão aptos para serem utilizados no sistema. Está disponível na página inicial do eSocial o link “Consulta Qualificação Cadastral”.
+	- depois do cadastro do empregador, é preciso realizar o cadastro do empregado, informando os dados do contrato.
+	- o empregador precisará realizar seu cadastro e de seus empregados apenas uma vez, mas a folha de pagamento deverá ser feita mensalmente.
+	- o empregador precisa documentar no sistema ocorrências como afastamentos (por doenças, licenças, férias etc), comunicado de acidente de trabalho, aviso prévio e demissão.
+	- ao fechamento de cada mês, é emitida uma guia para o pagamento de todos os tributos e do FGTS.
+	VEJA O PASSO A PASSO PARA FAZER O CADASTRO:1. Acesso ao sistema
+	O usuário encontra o espaço para acessar o sistema no canto superior da tela. Existem duas opções para fazer o acesso: certificado digital ou código de acesso.
+	A primeira opção é para quem possui um certificado digital e-CPF. O site da Receita Federal reúne orientações para quem quer ter um certificado digital. A segunda opção, de código de acesso, é para quem não tem certificado digital.
+	Para acessar o sistema com código de acesso, o empregador deverá clicar em “primeiro acesso” para gerar o seu código. O sistema irá solicitar: CPF, data de nascimento e Número dos recibos de entrega da declaração do Imposto de Renda Pessoa Física (DIRPF), dos últimos dois exercícios. Caso o empregador não tenha feito declaração do IR no último exercício, será solicitado o número do título de eleitor.2. Cadastro do empregador
+	No primeiro acesso, o sistema trará o CPF e nome vinculados ao código de acesso gerado. Então, é preciso informar telefone e e-mail para contato, e em seguida clicar no botão “salvar”.
+	É possível adicionar informações complementares, como opção pelo registro eletrônico de empregados e indicativo de situação da pessoa física, mas elas não são obrigatórias.3. Cadastro do empregado
+	Segundo a cartilha, o empregador deverá cadastrar todos os seus empregados nesta opção, inclusive aqueles que foram admitidos antes de 1º de outubro de 2015. Para fazer isso, é preciso clicar, na tela de Gestão de Trabalhadores, no botão “Cadastrar/Admitir”.
+	A cartilha explica ainda que os empregados admitidos antes de 1º de outubro de 2015 deverão ser cadastrados no sistema até o fechamento da folha de pagamentos da competência 10/2015 (prazo limite em 06/11/2015). Para empregados contratados a partir do dia 1º de outubro de 2015, o registro no eSocial deverá ocorrer até um dia antes do início das atividades.
+	Os dados do empregado que o sistema irá solicitar para fazer o cadastro são: CPF, data e país de nascimento, NIS, raça/cor e escolaridade.
+	Em seguida, o campo “Data de admissão” deverá ser preenchido com a mesma data de assinatura na Carteira de Trabalho e Previdência Social (CTPS). Os campos “Grupo” e “Categoria do trabalhador” já são preenchidos automaticamente e não permitem alterações.
+	Depois, devem ser informados o número, série e UF (Estado) da CTPS (Carteira de Trabalho e Previdência Social), telefone e e-mail para contato. O sistema ainda irá pedir o endereço do empregado e informações sobre dependentes, caso a pessoa possua.4. Preenchimendo dos dados de contrato 
+	O sistema irá pedir informações sobre o contrato de trabalho. É preciso informar qual é o tipo de contrato (determinado ou indeterminado), cargo, salário base e periodicidade de salário (mensal, semanal, quinzenal etc.).
+	 Caso o empregador já recolha o FGTS (o recolhimento passa a ser obrigatório em 01/10/2015, mas o empregador já tinha a opção de fazer isso voluntariamente antes disso), é preciso preencher a data em que ele começou a realizar os recolhimentos para aquele empregado.
+	Caso o usuário informe que o local de trabalho é o mesmo informado como endereço do empregador, o campo é preenchido automaticamente. Mas, se esse não for o caso, é preciso informar o local onde o empregado irá trabalhar clicando em "informar outro endereço".
+	Em seguida, o empregador deve apontar qual foi a jornada de trabalho contratada, escolhendo entre três opções: semanal, 12 x 36 ou demais tipos (escala, turno de revezamento, permutas, horários rotativos, etc.). Com exceção da opção de 12 x 36, o sistema apresenta em seguida opções para preencher o detalhamento da jornada.
+	Se precisar alterar alguma informação sobre o empregado ou sobre o contrato, o usuário deverá acessar a página de dados cadastrais e contratuais, na tela "gestão de trabalhadores". Clicando sobre o nome do trabalhador, o empregador terá acesso aos links dos dados cadastrais e contratuais. Ao clicar na opção que deseja alterar, é preciso em seguida clicar em "alterar dados cadastrais" ou "alterar dados contratuais", conforme o caso.
+	VEJA COMO REGISTRAR EVENTOS TRABALHISTAS:
+	O acesso aos eventos trabalhistas poderá ser feito clicando em “Trabalhador”, em seguida em “Registrar Evento Trabalhista”, depois no nome do empregado e na matrícula. Essa mesma opção poderá ser acessada em “Trabalhador”, depois “Gestão de Trabalhadores” e em seguida clicando no nome do empregado e depois no link “Evento Trabalhista”.
+	Veja os eventos que devem ser registrado (com exceção de folha de pagamentos, fechamentos de mês e aviso prévio, que não foram disponibilizados pela cartilha).1. Afastamentos
+	Os afastamentos – tais como doenças e licença maternidade – devem ser registrados no
+	tópico “Afastamento Temporário”. O empregador precisa informar a data de início do afastamento e o motivo. Para isso, é necessário escolher um tipo dentro da lista disponível no próprio campo. Caso o afastamento já tenha terminado, é possível informar também a data de término.
+	 2. Acidente de trabalho
+	Para esse motivo de afastamento, além do registro do evento no eSocial, a Comunicação de
+	Acidente do Trabalho (CAT) também é obrigatória. A empresa ou o empregador doméstico deverão comunicar o acidente do trabalho à Previdência Social até o primeiro dia útil seguinte ao da ocorrência. É possível fazer a CAT pelo site da Previdência, neste link.3. Mudança no afastamento
+	A cartilha explica que, para o eSocial, cada passo do afastamento é registrado como um evento/registro. Portanto, a inclusão de um afastamento é um evento, o registro posterior do retorno do empregado é considerado outro evento. Da mesma forma, a alteração do motivo de afastamento também é considerada um novo evento.
+	Muitas vezes, por questões de avaliação de perícia médica e/ou decisão judicial, o afastamento por doença não relacionada deve ser alterado.
+	O link para registro de alteração do motivo de afastamento está localizado na tela
+	"Movimentações Trabalhistas".
+	Ainda segundo a cartilha, para alteração de motivo de afastamento, nos casos em que já houve o registro do retorno, é necessário excluir previamente o registro/evento de retorno para que o sistema aceite o comando de alteração do motivo. Após a alteração do motivo de afastamento, o empregador poderá incluir novamente a data de retorno do empregado.4. Retorno de afastamentos
+	O retorno de afastamentos - caso não tenha sido informado no momento do registro do
+	início do afastamento - deve ser realizado pelo empregador através do link "Retorno de
+	Afastamento Temporário" localizado na tela de Movimentações Trabalhistas.5. Férias
+	Para registrar o aviso de férias, o empregador deve acessar o sistema com 30 dias de antecedência e clicar em "registrar férias". É preciso preencher o período e informar se haverá a conversão de parte das férias em dinheiro. Empregador e empregado também podem entrar num acordo e dividir as férias em períodos diferentes, desde que uma das partes tenha ao menos 14 dias. Isso também deve ser registrado no sistema.
+	Após preencher todos os campos, o empregador deverá clicar em “Salvar Aviso de Férias”.
+	No dia em que o empregado sair de férias ou em data posterior, o empregador deverá acessar o sistema novamente e clicar em "registrar saída de férias". Será exibida uma tela detalhando o período aquisitivo e com a situação "Em andamento".
+	Ao clicar sobre o período aquisitivo para abrir a programação de férias, serão exibidos os links para impressão do aviso de férias e recibo de pagamento.
+	É preciso também registrar o retorno de férias, no dia do retorno do empregado ou em data posterior.

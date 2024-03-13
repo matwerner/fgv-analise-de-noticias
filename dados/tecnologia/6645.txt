@@ -1,0 +1,11 @@
+Data:
+2019-07-07
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/07/05/por-que-a-samsung-foi-processada-por-propaganda-enganosa-na-australia.ghtml
+
+Título:
+Por que a Samsung foi processada por propaganda enganosa na Austrália
+
+Descrição:
+A gigante de tecnologia sul-coreana Samsung está sendo processada pelo órgão de proteção ao consumidor da Austrália por suposta propaganda enganosa envolvendo seus telefones.  A Comissão Australiana de Concorrência e Consumidores (ACCC) alega que os anúncios da Samsung fizeram afirmações "falsas" quanto aos aparelhos serem resistentes à água.  A ACCC informou que analisou mais de 300 anúncios da Samsung antes de dar início à ação legal.  Em entrevista à agência de notícias Reuters, a Samsung defendeu as peças publicitárias.  No comunicado divulgado à imprensa, a ACCC disse que os anúncios da Samsung mostravam telefones sendo expostos à água do mar e piscinas e alegou que isso não afetaria o dispositivo durante sua vida útil.  Embora os anúncios da Samsung dizem que seus telefones têm uma resistência à água IP68, segundo o ACCC, essa classificação não cobre a água salgada ou que é encontrada em piscinas.  A classificação IP — sigla de "Ingress Protection" ou Proteção de Entrada — é universalmente aceita para medir a resistência a poeira e líquidos.  A classificação IP é sempre acompanhada de um número de dois dígitos. O primeiro indica a resistência à poeira e vai de 0 a 6. O segundo, a resistência à água e vai de 0 a 8. Quanto maia altos os números, maior a resistência do aparelho.  Em teoria, portanto, o IP68 é dado aos aparelhos de máxima resistência a poeira e a submersão na água.  O próprio site da Samsung diz que seus celulares IP68 são considerados "aptos a resistir poeira, sujeira e areia e resistentes à submersão a uma profundidade máxima de 1,5 m por até 30 minutos".  Mas, segundo a ACCC, a Samsung não realizou o número de testes suficientes para embasar suas alegações sobre a longevidade de seus produtos.  "A Samsung mostrou os celulares Galaxy usados em situações que não deveriam, para atrair clientes", afirmou o ACCC.  Se a Samsung for considerada culpada por enganar os consumidores, poderá ter que pagar uma multa multimilionária.

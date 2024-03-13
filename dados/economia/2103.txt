@@ -1,0 +1,16 @@
+Data:
+2016-07-15
+
+URL:
+http://g1.globo.com/economia/noticia/2016/07/inflacao-pelo-igp-10-avanca-acima-de-12-em-12-meses.html
+
+Título:
+Inflação pelo IGP-10 avança acima de 12% em 12 meses
+
+Descrição:
+A inflação medida pelo Índice Geral de Preços-10 (IGP-10) subiu 1,06% em julho, ante alta de 1,42% no mês anterior, informou a Fundação Getulio Vargas (FGV), nesta sexta-feira (15). No ano, a taxa acumulada até julho é de 6,45% e, em 12 meses, de 12,18%.
+	O IGP-10, que registra a inflação de preços de matérias-primas agrícolas e industriais a bens e serviços finais, é formado por 60% do Índice de Preços por Atacado, 30% do Índice de Preços ao Consumidor e 10% do Índice Nacional de Custos da Construção.
+	O Índice de Preços ao Produtor Amplo (IPA) variou 1,23%, em julho, depois de avançar 1,89% no mês anterior. Os bens finais registraram taxa de variação de 2,67%, em julho, ante 0,51%, em junho. O principal responsável por este movimento foi o subgrupo alimentos in natura, cuja taxa passou de 1,72% para 14,37%.
+	Também usado no cálculo do IGP-10, o Índice de Preços ao Consumidor (IPC) registrou variação de 0,27% em julho, depois de chegar a 0,49% em junho. O destaque ficou com o grupo habitação (de 0,84% para 0,31%).
+	Na contramão, o Índice Nacional de Custo da Construção (INCC) registrou, em julho, variação de 1,76%, depois de subir 0,49% no mês anterior. O índice relativo a materiais, equipamentos e serviços acelerou de 0,14% para 0,23%.
+	O IGP possui três versões com coleta de preços encadeada da inflação ao produtor, consumidor e construção civil. Os períodos de coleta para as versões do IGP são: IGP-10 (11 a 10), IGP-M (21 a 20) e IGP-DI (1 a 30).

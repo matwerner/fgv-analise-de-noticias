@@ -1,0 +1,18 @@
+Data:
+2016-09-27
+
+URL:
+http://g1.globo.com/politica/noticia/2016/09/stf-decide-que-planos-de-saude-devem-pagar-iss-municipios.html
+
+Título:
+STF decide que planos de saúde devem pagar ISS a municípios
+
+Descrição:
+O Supremo Tribunal Federal (STF) negou nesta quinta-feira (29) o recurso de uma operadora de plano de saúde que pretendia derrubar a cobrança, pelo município de Marechal Candido Rondon (PR), do Imposto Sobre Serviços (ISS), uma das principais fontes de arrecadação das prefeituras, ao lado do IPTU.
+	Por 8 votos a 1, o plenário da Suprema Corte entendeu que a cobrança é constitucional e está de acordo também com uma lei de 2003 que lista os serviços tributáveis pelo imposto. A decisão terá repercussão geral, ou seja, deverá ser seguida pelos demais tribunais brasileiros em todos os casos semelhantes que tramitam na Justiça.
+	Na ação, o Hospital Marechal Cândido Rondon Ltda., que tem seu proprio plano de saúde, questionava cobrança de ISS pelo município do interior paranaense.
+	Em junho, o relator do caso no STF, ministro Luiz Fux, já havia votado a favor da cobrança. Nesta quinta, os ministros Edson Fachin, Luís Roberto Barroso, Teori Zavascki, Rosa Weber, Dias Toffoli, Ricardo Lewandowski e Cármen Lúcia acompanharam o voto do relator. Não votaram os ministro Celso de Mello e Gilmar Mendes, que estavam ausentes na sessão.
+	Único a divergir da recomendação de Fux, votando contra a cobrança de ISS dos planos de saúde, o ministro  Marco Aurélio Mello argumentou que as operadoras não prestam diretamente o serviço de atendimento médico. Por isso, como intermediários, não devem pagar o imposto ao município.
+	"Não há o fornecimento do serviço em si, mas tão somente a garantia conferida pelo operador de que quando o serviço médico se fizer necessário, será proporcionado pela rede credenciada pela operadora ou ressarcido em proveito do usuário", ponderou Marco Aurélio.
+	Em seu voto, Lewandowski explicou que caberia, sim, a cobrança, já que o serviço também é remunerado.
+	"Os planos de saúde se destinam a prestar um serviço aos seus clientes que consiste exatamente na intermediação de serviços médicos prestados por terceiros, e esse serviço constitui a base de cálculo do tributo", defendeu o magistrado.

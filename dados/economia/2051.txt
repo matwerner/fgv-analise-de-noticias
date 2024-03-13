@@ -1,0 +1,25 @@
+Data:
+2016-04-13
+
+URL:
+http://g1.globo.com/economia/noticia/2016/04/inflacao-da-terceira-idade-acumula-alta-de-quase-10-em-12-meses.html
+
+Título:
+Inflação da terceira idade acumula alta de quase 10% em 12 meses
+
+Descrição:
+Os preços de produtos e serviços consumidos pela terceira idade subiram no primeiro trimestre deste ano, segundo a Fundação Getulio Vargas (FGV). O IPC-3i, que mede a variação da cesta de consumo de famílias majoritariamente compostas por indivíduos com mais de 60 anos, avançou 2,72% no período e 9,6%, em 12 meses.
+	O índice ficou acima da taxa acumulada pelo restante da população, de 9,37% no mesmo período.
+	Nos três primeiros meses do ano, três dos oito grupos de despesa que integram o cálculo do índice mostraram avanço menor em relação às variações do quarto trimestre de 2015.
+	O que mais influenciou foi o grupo transportes, cuja taxa passou de 4,52% para 2,87%, com a ajuda da gasolina, que variou 2,55%, no primeiro trimestre, ante 9,78%, no anterior.
+	Também desaceleraram os grupos habitação (de 1,75% para 1,50%) e vestuário (de 1,99% para 0,27%).
+	Na contramão, subiram os preços de despesas diversas (de 0,49% para 3,87%), educação, leitura e recreação (de 2,51% para 3,63%), saúde e cuidados pessoais (de 1,95% para 2,03%) e comunicação (de 1,08% para 2,01%).
+	O grupo alimentação repetiu a taxa de variação registrada no último trimestre, 5,37%.Veja a variação dos principais itens:
+	Frutas (de 12,63% para 16,60%)
+	Hortaliças e legumes (de 20,81% para 17,38%)
+	Eletricidade residencial (de 3,81% para -3,08%)
+	Roupas (de 2,22% para 0,30%)
+	Cigarros (de 0,01% para 8,08%)
+	Cursos formais (de 0,00% para 9,41%)
+	Plano e seguro de saúde (de 3,09% para 3,15%)
+	Mensalidade para TV por assinatura (de 1,38% para 5,23%)

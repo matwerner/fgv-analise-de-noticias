@@ -1,0 +1,11 @@
+Data:
+2020-02-03
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/ronaldo-prass/post/2020/02/02/saiba-se-e-possivel-conectar-ipad-no-chromecast.ghtml
+
+Título:
+É possível conectar iPad no Chromecast?
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Oi, Ronaldo! Eu li as suas dicas sobre como transformar uma TV LCD comum numa Smart TV e fiquei com uma dúvida. A minha ideia é conectar no iPad no Chromecast, isso é possível? – Leonardo  Olá, Leonardo! Sim, é possível conectar dispositivos da Apple no Google Chromecast. O receptor que transforma a TV convencional numa Smart TV é compatível com dispositivos móveis de outras plataformas.  Você pode acessar a Apple Store e obter o app necessário para realizar a conexão com o Chromecast. Entre os mais recomendados, está o app Google Home, aplicativo para dispositivos domésticos do próprio Google, que comercializa o Chromecast.  Vale a pena trocar o Windows 7 pelo Linux apenas para navegar na internet? – Guilherme  Olá, Guilherme! O Linux pode servir perfeitamente como sistema operacional substituto ao Windows 7 para navegar na internet. Nele é possível instalar os navegadores Google Chrome e Mozilla Firefox – os mesmos navegadores disponíveis para o Windows.  Oi, Ronaldo! É possível ficar sabendo se um contato fez uma captura de tela de uma conversa no WhatsApp? – Rafaela  Olá, Rafaela! O WhatsApp não oferece a funcionalidade que avisa quando um contato fizer uma captura de tela de uma conversa. Não há previsão de que essa funcionalidade seja implementada no futuro.

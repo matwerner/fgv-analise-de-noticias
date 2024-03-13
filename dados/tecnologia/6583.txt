@@ -1,0 +1,11 @@
+Data:
+2019-04-07
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/04/04/amazon-planeja-lancar-3-mil-satelites-para-oferecer-internet-banda-larga.ghtml
+
+Título:
+Amazon planeja lançar 3 mil satélites para oferecer internet banda larga
+
+Descrição:
+A Amazon planeja lançar uma rede de mais de 3 mil satélites para fornecer acesso à internet, indicam vários registros feitos junto à União Internacional de Telecomunicações no mês passado.  O plano de longo prazo, batizado de Projeto Kuiper, atenderá pessoas em todo o mundo que não têm acesso básico à internet de banda larga, disse gigante varejista em um comunicado nesta quinta-feira (4).  O projeto lançará uma rede de satélites de órbita terrestre baixa, que fornecerão conectividade de banda larga de baixa latência e alta velocidade, acrescentou a empresa.  Os planos da Amazon vêm no momento em que o presidente-executivo, Jeff Bezos, está correndo para fazer tirar sua empresa espacial, a Blue Origin, do modo startup, diante da rivalidade com a SpaceX.  A SpaceX, do bilionário fundador da montadora de carros elétricos Tesla, Elon Musk, atraiu atenção mundial com um teste de lançamento bem-sucedido de seu mais novo foguete, o Falcon Heavy, o foguete operacional mais poderoso do mundo.

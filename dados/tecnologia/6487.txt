@@ -1,0 +1,11 @@
+Data:
+2019-01-09
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/01/08/samsung-estima-queda-de-29-no-lucro-no-4o-trimestre-e-culpa-fraca-demanda-por-chips.ghtml
+
+Título:
+Samsung estima queda de 29% no lucro no 4º trimestre e culpa fraca demanda por chips
+
+Descrição:
+A Samsung Electronics surpreendeu o mercado nesta terça-feira (8) com uma queda estimada de 29% no lucro trimestral, responsabilizando uma fraqueza na demanda por chips.  A companhia sul-coreana também afirmou que o lucro deverá continuar pressionado no 1º trimestre por causa das condições difíceis no mercado de chips de memória, mas que o segmento deverá provavelmente apresentar melhora no 2º semestre deste ano por conta do lançamento de novos celulares inteligentes.  O aviso de resultado mais fraco na maior fabricante de smartphones e semicondutores do mundo adiciona preocupação a investidores já tensos pelo alerta da Apple na semana passada. A gigante de tecnologia norte-americana cortou sua previsão de vendas trimestrais, citando vendas baixas de iPhones na China.  A Samsung estimou para o quarto trimestre, entre outubro e dezembro, lucro operacional de 10,8 trilhões de wons (US$ 9,67 bilhões), abaixo da expectativa média de 13,2 trilhões de wons obtida pela I/B/E/S Refinitiv junto a 26 analistas. A companhia também previu uma queda de 11% na receita, a 59 trilhões de wons.  Em raro comentário na divulgação da prévia de resultado, a Samsung afirmou que a demanda mais fraca que o esperado por parte de centrais de processamento de dados reduziu os preços de chips e atingiu o lucro da companhia. A companhia não revelou o nome dos clientes da área de computação em nuvem ou deu detalhes sobre o que chamou de incertezas macroeconômicas.  A demanda de centrais de dados, principalmente nos Estados Unidos, atualmente representa quase 30% da demanda por chips de memória DRAM da Samsung ante nível de 5% cinco anos atrás, disse Kim Yang-jae, analista da KTB Investment & Securities.  "Investimento menor das centrais de dados, um mercado já ruim para smartphones na China, e o impacto da guerra comercial entre EUA e China atingiram os negócios da Samsung", disse Kim.

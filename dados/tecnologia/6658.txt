@@ -1,0 +1,11 @@
+Data:
+2019-08-04
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/08/02/google-permitira-que-usuarios-de-android-na-europa-escolham-mecanismo-de-busca-padrao.ghtml
+
+Título:
+Google permitirá que usuários de Android na Europa escolham mecanismo de busca padrão
+
+Descrição:
+O Google permitirá que usuários de dispositivos Android na Europa escolham seu mecanismo de busca padrão entre quatro opções, incluindo o próprio Google, disse a empresa.  A medida é uma tentativa de a empresa anular as preocupações antitruste dos reguladores europeus e evitar novas penalidades — o Google foi multado pela UE em 4,3 bilhões de euros por impor seus serviços em celulares que vem de fábrica com Android.  Novos smartphones e tablets que utilizam o sistema operacional Android vendidos na Área Econômica Europeia (EEA, na sigla em inglês) terão uma "tela de escolha" exibindo quatro opções de mecanismos de busca que os usuários podem escolher a partir do início de 2020, disse o Google em um post em seu blog.  Os provedores de mecanismos de busca poderão fazer lances em um leilão para ganhar uma vaga nas telas dos usuários, junto com o Google, para se tornar o mecanismo de pesquisa padrão do dispositivo na tela inicial do Android, bem como no navegador Google Chrome.  Os leilões serão realizados em cada país da EEA e os três maiores proponentes de um determinado país aparecerão na 'tela de escolha'.  À época da multa, a Comissão Europeia havia dito que o Google tem uma vantagem injusta ao pré-instalar seu navegador Chrome e o aplicativo de busca do Google em smartphones Android.

@@ -1,0 +1,11 @@
+Data:
+2019-03-08
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/03/06/aplicativo-de-android-que-convertia-arquivos-pdf-deixou-documentos-expostos-na-web.ghtml
+
+Título:
+Aplicativo de Android que convertia arquivos PDF deixou documentos expostos na web
+
+Descrição:
+A fabricante de antivírus Eset publicou um alerta sobre o aplicativo "pdf to word", que prometia converter documentos em formato PDF para arquivos editáveis no Microsoft Word. Embora cumprisse o prometido, o aplicativo enviava todos os documentos para um servidor, onde os arquivos ficavam expostos.  No momento, o aplicativo não está mais disponível na Play Store, a loja oficial do Google para o Android.  O aplicativo acumulava mais de 100 mil downloads na Play Store. De acordo com Lukáš Štefanko, o pesquisador da Eset que encontrou a brecha, o servidor para onde os arquivos eram enviados para a conversão acumulava mais de 360 mil arquivos. Essa coleção foi acumulada ao longo de dois anos em que o programa ficou registrado na App Store.  Entre os documentos estavam diplomas escolares, documentos de identidade e passaportes, boletins e inquéritos policiais, contratos de seguro, passagens aéreas, currículos e outros.  Todos os arquivos podiam ser acessados facilmente, sem a necessidade de digitar nenhuma senha. Bastava que alguém soubesse o endereço para colocar no navegador web, o que podia ser descoberto por meio de uma análise do comportamento do aplicativo.  Além dos documentos, o repositório contava ainda com fotos e arquivos de áudio. É possível que esses arquivos tenham sido enviados por outros aplicativos do mesmo desenvolvedor.  O alerta sobre o "pdf to word" foi acompanhado de um alerta sobre outro aplicativo, o gerenciador de senhas "Password Cloud". De acordo com a Eset, esse programa deixava as senhas expostas para outros aplicativos instalados no celular. Normalmente, dados privados de aplicativos ficam inacessíveis para outros softwares instalados.  Os alertas sobre esses aplicativos fazem parte de novo um projeto da Eset chamado "Android App Watch", que vai destacar problemas de segurança e privacidade em aplicativos de Android aparentemente legítimos.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

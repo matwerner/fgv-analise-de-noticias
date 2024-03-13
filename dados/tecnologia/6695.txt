@@ -1,0 +1,11 @@
+Data:
+2019-09-14
+
+URL:
+https://g1.globo.com/economia/tecnologia/blog/altieres-rohr/post/2019/09/12/microsoft-corrige-atualizacao-que-deixava-windows-lento.ghtml
+
+Título:
+Microsoft corrige atualização que deixava Windows lento
+
+Descrição:
+A Microsoft lançou pacotes de atualizações para Windows e outros produtos na terça-feira (10), corrigindo 79 vulnerabilidades, incluindo duas brechas de segurança que já estavam sendo exploradas por hackers. A Microsoft também fez modificações para eliminar o excesso de uso de processamento da Cortana que surgiu como efeito colateral de uma atualização disponibilizada no fim de agosto.  A atualização KB4512941, lançada no dia 30 de agosto, era opcional. Usuários que tinham desativado a integração com o Bing no menu iniciar e instalaram a atualização, porém, ficaram impedidos de usar o menu iniciar ou sofreram com uma lentidão causada pela Cortana, a assistente virtual da Microsoft.  O pacote cumulativo KB4515384 desta terça-feira (10) corrige esse problema na Cortana e consolida as melhorias anteriores, além de trazer as novas atualizações de segurança para o Windows e aplicativos do sistema.  Além das 79 correções de segurança em seus próprios produtos, como Windows, Office, Exchange, a Microsoft também está repassando uma atualização do Flash Player, da Adobe. No total, são 80 brechas corrigidas no pacote.  Quando uma falha é explorada antes de existir uma correção do fabricante do software, ela é chamada de "dia zero". Brechas dia zero são perigosas, pois normalmente não há bons mecanismos para se defender de ataques que exploram essas vulnerabilidades.  Em alguns casos, brechas dia zero são corrigidas em regime de urgência. Porém, a segunda terça-feira do mês é a data marcada para as atualizações regulares da Microsoft — o que significa que essas brechas não receberam tratamento especial para o lançamento das correções. A Microsoft não deu mais detalhes sobre como elas estavam sendo usadas por hackers.  O Windows 10 instala atualizações automaticamente e não é recomendado que usuários acessem manualmente a tela de atualizações no painel de configurações. Quem fizer isso pode estar entre os primeiros a receber atualizações opcionais, como a que causou o problema da Cortana.  Dúvidas sobre segurança, hackers e vírus? Envie para g1seguranca@globomail.com

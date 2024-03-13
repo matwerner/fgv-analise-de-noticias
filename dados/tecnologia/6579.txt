@@ -1,0 +1,11 @@
+Data:
+2019-04-01
+
+URL:
+https://g1.globo.com/economia/tecnologia/post/2019/03/31/como-remover-centenas-de-seguidores-falsos-no-instagram.ghtml
+
+Título:
+Como remover centenas de seguidores falsos no Instagram?
+
+Descrição:
+(Se você tem alguma dúvida sobre tecnologia, utilize o espaço para comentários abaixo e escreva sua pergunta)  Olá, Ronaldo! Recentemente recebi mais de 3 mil novos seguidores na minha conta no Instagram. O problema é que todos esses seguidores eram falsos, usei um app para tentar removê-los, mas agora o Instagram está travando. Acho que o meu celular está com vírus, e percebi que continuo sendo seguida por milhares de contas falsas. Existe alguma maneira rápida de eu removê-los e também me proteger do vírus? - Thaís  Olá, Thaís! Após você tentar remover massivamente os seguidores falsos, é possível que o armazenamento interno do aplicativo do Instagram esteja com uma grande quantidade de dados no cache. Essa memória temporária serve para acelerar o carregamento das informações básicas apresentadas pelo app do Instagram. Para limpar a memória do aplicativo do Instagram, siga os passos descritos abaixo:  Após finalizar a remoção dos seguidores, repita o procedimento de limpeza do aplicativo.  Olá, Ronaldo! Eu possuo um notebook HP 2 em 1 Pavilion x360. Esse equipamento oferece a função tablet, pois a tela gira completamente sobre o teclado. É possível substituir o Windows 10 por alguma versão do Android? - Regina  Olá, Regina! Sim, é possível instalar o Android 8 no seu notebook. Existe uma versão modificada do Android criada para computadores pessoais com processadores x86.  O procedimento de instalação é semelhante ao de instalar uma versão do GNU/Linux no PC. Você pode obter o instalador neste endereço e criar um pen drive bootável usando este programa aqui. O blog já mostrou em detalhes como fazer a instalação do Android no PC.  Olá, Ronaldo! Eu coloquei proteção contra gravação no meu pen drive, mas agora não consigo removê-la, ou formatá-lo. E agora? - Gustavo  Olá, Gustavo! Para remover a proteção contra gravação no seu pen drive, siga os passos descritos abaixo:

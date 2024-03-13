@@ -1,0 +1,11 @@
+Data:
+2019-03-30
+
+URL:
+https://g1.globo.com/economia/tecnologia/noticia/2019/03/28/google-e-cuba-fecham-acordo-para-melhorar-conexao-a-internet-na-ilha.ghtml
+
+Título:
+Google e Cuba fecham acordo para melhorar conexão à internet na ilha
+
+Descrição:
+O Google assinou nesta quinta-feira (28) um acordo com a empresa que tem o monopólio de telecomunicações em Cuba, a ETECSA, para trabalhar na conectividade da ilha comunista.  O país, com atraso na internet, tem buscado aumentar o acesso nos últimos anos, introduzindo cybercafés, pontos de Wi-Fi e internet móvel, mas os usuários ainda reclamam do custo, da conexão lenta e da cobertura irregular.  Google e ETECSA assinaram um memorando de entendimento para iniciar a negociação de um chamado "acordo de troca" que criaria uma conexão direta e sem custo entre suas redes.  Isso permitiria um acesso mais rápido ao conteúdo hospedado nos servidores do Google, em um país onde a informação é rigidamente controlada, reduzindo os custos para Cuba, que não teria mais que pagar por um intermediário.  "A implementação desse serviço de troca de tráfego na internet é parte da estratégia da ETECSA para o desenvolvimento e informatização do país", disseram o Google e a ETECSA em comunicado conjunto, lido em coletiva de imprensa em Havana.

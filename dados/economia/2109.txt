@@ -1,0 +1,22 @@
+Data:
+2016-07-19
+
+URL:
+http://g1.globo.com/economia/noticia/2016/07/ipc-s-cai-em-4-das-7-capitais-na-2-semana-de-julho.html
+
+Título:
+IPC-S cai em 4 das 7 capitais na 2ª semana de julho
+
+Descrição:
+A inflação medida pelo Índice de Preços Consumidor - Semanal (IPC-S) caiu em quatro das sete capitais pesquisadas da primeira para a segunda semana de julho. O índice desacelerou, passando de 0,44% para 0,41%. Contribuíram o comportamento dos preços de roupas e de transportes que caíram mais no período.
+	Salvador passou de 0,4% para 0,35%; Brasília foi de 0,74% para 0,7%; Belo Horizonte foi de 0,41% para 0,2%; Recife foi de 0,33% para 0,4%;  Rio de Janeiro passou de 0,23% para 0,3%; Porto Alegre saiu de 0,64% para 0,75%; São Paulo foi de 0,45% para 0,28%
+	O preço dos alimentos subiu ainda mais, mas a alta foi suavizada pelo comportamento do feijão-carioca, cujo avanço foi suavizado de 47,37% para 42,12%.
+	Entre os grupos de gastos analisados, ficaram mais caros despesas diversas (de 0,50% para 0,59%), educação, leitura e recreação (de 0,72% para 0,76%) e saúde e cuidados pessoais (de 0,51% para 0,54%)Veja a variação de alguns itens:
+	Laticínios (de 7,02% para 8,00%)
+	Tarifa postal (de 3,10% para 5,58%)
+	Show musical (de 0,68% para 1,17%)
+	Artigos de higiene e cuidado pessoal (de 0,30% para 0,41%)
+	Tarifa de eletricidade residencial (de 0,07% para -0,62%)
+	Tarifa de ônibus urbano (de 0,29% para -0,04%)
+	Acessórios do vestuário (de 1,04% para 0,37%)
+	Tarifa de telefone móvel (0,29% para 0,19%).
